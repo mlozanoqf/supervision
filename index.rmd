@@ -18,7 +18,7 @@ output:
     theme: readable #darkly 
     includes:
       after_body: analytics_supervision.html
-abstract: This document is subject to changes due to new regulations dictated by the programme management, academic department and/or the university. It is also subject to new and improved set of recommendations given my experience using this document in the past. Please note that all recommendations and guidance in this document apply only for students that agree to work under my supervision. If there is any discrepancy between this document and the official guidelines dictated by the academic programme, then the rule is to follow the official guidelines. This document is a work in progress, and not all the material taken from publicly available sources has been properly referenced.
+abstract: This document is subject to changes due to new regulations dictated by the programme management, academic department and/or the university. It is also subject to a new and improved set of recommendations given my experience using this document in the past. Please note that all recommendations and guidance in this document apply only for students that agree to work under my supervision. If there is any discrepancy between this document and the official guidelines or regulations dictated by the academic programme or the university, then the rule is to follow the official guidelines. This document is a work in progress, and not all the material taken from publicly available sources has been properly referenced.
 bibliography: references.bib
 ---
 
@@ -66,16 +66,25 @@ xfun::file_string('contact.html')
 
 \newpage
 
-```{r strategies, child = 'guide.Rmd'}
+```{r strategies, child = 'intro.Rmd'}
 ```
 
+\newpage
+
+```{r strategies, child = 'structure.Rmd'}
+```
+
+\newpage
+
+```{r strategies, child = 'style.Rmd'}
+```
 
 
 ```{r include=FALSE}
 a <- toc()
 ```
 
-This document took `r round(as.numeric((a$toc-a$tic)/60), 2)` minutes to compile in Rmarkdown, `r R.version.string`.
+This document took `r round(as.numeric((a$toc-a$tic)), 2)` seconds to compile in Rmarkdown, `r R.version.string`.
 
 # `r fontawesome::fa("book-open")` References.
 
