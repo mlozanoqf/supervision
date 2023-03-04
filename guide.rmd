@@ -1,0 +1,31 @@
+---
+title: ''
+#output: bookdown::gitbook:
+  html_document:
+    df_print: paged
+---
+
+```{r echo=FALSE}
+# This removes all items in environment. 
+rm(list=ls())
+```
+
+\newpage
+
+# Introduction.
+
+Welcome. If you are reading this document, it is because we have agreed or we are in the process of agreeing that I will supervise your project, thesis, or dissertation whether it is research oriented, or consultancy based. In short, I will simply use the word project from now on. I am confident that we can develop an interesting project, and I have high expectations about your overall performance as an individual and more importantly as a team. You should be confident that I have more than enough academic credentials, experience, and interest to help you in this process regardless the scope, approach, and the topic of your project. You can find my full and updated academic curriculum here: sites.google.com/site/mlozanoqf/ Once again, welcome.
+
+The objective of this document is twofold: (1) explain the supervision process, and (2) explain the project contents and structure.
+
+Our common goal is to produce a solid and interesting project which meets the university quality standards, my own expectations as supervisor, and your own interests as students. I expect the best academic performance that you can achieve, and perhaps even more. You must expect me to support you and guide you in the best way possible to achieve our ultimate objective which is to produce a high-quality project and communicate its significance with authority. For this purpose, you also must know that from now on, part of my time, my knowledge, interest, and experience are currently at your service. I enjoy the supervision process because I always meet extraordinary people that creates an interesting project in a subject that I find interesting. 
+
+You should know that there are several kinds of projects or thesis depending on their scope, originality and contribution to the professional or academic field. We can broadly differentiate between undergraduate (not very common), master, and PhD thesis. All of them should aim to contribute to the academic and/or professional field at differentiated levels, and represent clear evidence that the candidate or the student is an expert in his or her area of study. However, the level, depth, impact, quality, and significance of that contribution depend on many factors. These include: the aspired academic degree, the time availability, the academic rigor of the designated supervisor, and/or the general quality standards of the university and/or academic department. 
+
+Your project represents a way to differentiate yourself among the rest of your colleagues in the job market as you may have the same degree but different project topic. I will try to clearly communicate whether you are meeting my own standards because this will influence the mark you will officially receive in your academic records. In any case, you can ask me directly whether you are meeting my expectations and I will answer as clearly as possible. This may be obvious, but you should know we (students and supervisor) are not competing, we are collaborating to reach our final objective which is to end up with a high-quality project to submit on time. I will also try to keep a respectful, professional, and friendly relationship to facilitate our communication and contribute to reach our final objective.
+
+Your thesis project is also an opportunity to develop or engender your current research skills. Research skills are not exclusive for consolidated researchers, leading authors, and academics with a PhD degree. Research skills are also very important in the current job market and industry which nowadays has become highly competitive and demands professionals with a formal approach to address and solve problems following a modern and innovative scientific approach. Problems that already exist in the industry, and those that do not exist yet. A professional with the ability to learn, innovate, and develop applied research projects, are very valuable in the job market. You are expected to be good at learning well and fast by yourself, and gathering research skills can help you in this respect. It is not easy to gather research skills alone and isolated from academia, this is why one typical way to get them is by letting experienced researchers train enthusiastic students. 
+
+
+
+
