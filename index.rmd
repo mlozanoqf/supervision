@@ -1,5 +1,5 @@
 ---
-title: Supervision guide `r fontawesome::fa("r-project")` <span style="color:white">R</span>
+title: Supervision guide `r fontawesome::fa("graduation-cap")` <span style="color:white">R</span>
 
 subtitle: Dr. Martín Lozano.
 author:
@@ -62,7 +62,7 @@ xfun::file_string('contact.html')
 
 # [`r fa("arrow-circle-left", fill = "black")`](https://mlozanoqf.github.io/) [<span style="color: black">Back to QFR.</span>](https://mlozanoqf.github.io/) {-}
 
-# [`r fa("arrow-circle-up", fill = "black")`](https://mlozanoqf.github.io/tutorial_if/) [<span style="color: black">Back to top.</span>](https://mlozanoqf.github.io/tutorial_if/) {-}
+# [`r fa("arrow-circle-up", fill = "black")`](https://mlozanoqf.github.io/supervision/) [<span style="color: black">Back to top.</span>](https://mlozanoqf.github.io/supervision/) {-}
 
 \newpage
 
