@@ -1,5 +1,5 @@
 ---
-title: Supervision guide `r fontawesome::fa("graduation-cap")` <span style="color:white">R</span>
+title: Supervision guide `r fontawesome::fa("graduation-cap")` 
 
 subtitle: Dr. Martín Lozano.
 author:
