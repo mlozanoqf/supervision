@@ -107,6 +107,64 @@ knitr::include_graphics('./step.jpg')
 
 This section includes tables, plots, interactive plots, diagrams, graphs, and other complementary tools to show the results that will help you to meet your initial objectives, contrast your main hypothesis, and answer your research question as clearly, as explicit, and as complete as possible. This section will show the quality of the execution of the empirical exercise and methodology. Please bear in mind that the whole project should have clearly defined numbered sections and subsections. The equations, tables and figures should be properly numbered as well for an easier reference.
 
+Here are four versions of the same set of results or data.
+
+```{r}
+library(MASS)
+m <- 2 # number of firms
+n <- 10000 # number of simulations
+rho_pos02 <- 0.2 # correlation
+corr_pos02 <- matrix(rep(rho_pos02, m * m), m, m) # correlation matrix
+diag(corr_pos02) <- 1
+set.seed(130575)
+x2 <- mvrnorm(n, mu = rep(0, m), Sigma = corr_pos02)
+x2 <- data.frame(x2)
+colnames(x2) <- c("f1", "f2")
+```
+
+For illustrative purposes, this is a 10,000 simulation of a multivariate normal distribution.
+
+```{r fig.cap="A simple graph using the plot() funcion in R."}
+par(pty = "s") # Figures are shown in a perfect square (not a rectangle).
+plot(x2, pch = ".", cex = 1) 
+legend("bottomright", legend = c(paste(nrow(x2))), bty = "n")
+```
+
+A density view.
+
+```{r fig.cap="A density view using ggplot() function in R."}
+library(ggplot2)
+ggplot(x2, aes(x = f1, y = f2) ) +
+  stat_density_2d(aes(fill = ..level..), geom = "polygon", 
+                  colour = "white") +
+    coord_fixed()
+```
+
+This is the 3-D <tt>`rayshader`</tt> video version of the plot above.
+
+```{r}
+library(vembedr)
+embed_url("https://youtu.be/3p-B19R8RwA")
+```
+
+And a fourth interactive version.
+
+```{r fig.cap="An interactive view."}
+library(mnormt)
+library(tidyverse)
+library(plotly)
+f <- function(x, y) dmnorm(cbind(x, y), c(0, 0), corr_pos02)
+z <- outer(sort(x2[1:100,1]), sort(x2[1:100,2]), f)
+
+plot_ly(type = "surface" , x = sort(x2[1:100,2]), 
+        y = sort(x2[1:100,1]) , z = z ) %>%
+layout(#title = "Surface",
+       scene = list(xaxis = list(title = "f1", range = c(-2,2)),
+                    yaxis = list(title = "f2", range = c(-2,2)), 
+                    zaxis = list(title = "Density"))) %>%
+hide_colorbar()
+```
+
 If your abstract is good enough, people would most likely scroll down your paper to see your results. The design of your tables and graphs is expected to be as good to the extent that they would virtually need no explanation. In other words, they are expected to be almost self-explanatory and they must be free of any sort of confusing elements. The main challenge of this section is to organize your results in such a way that your reader will perfectly understand how these results help you to meet the original research question, evaluate your original hypothesis and objectives. Sometimes your introduction has to be altered given your results; this is OK as long as this contributes to strengthening your project by making it more consistent.
 
 Normally, I recommend trying to think in a comic-oriented approach. This is, you will have to produce your figures and tables in such a way that they could be able to tell the story that you are interested to tell. After producing the main figures and tables in the right order, then the process of explaining the results (or tell your story) becomes easier.
