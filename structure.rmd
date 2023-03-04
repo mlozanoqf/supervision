@@ -165,6 +165,8 @@ layout(#title = "Surface",
 hide_colorbar()
 ```
 
+You can see other examples relate with risk management and credit risk here: @lozanoARF; financial econometrics, time series and machine learning here: @lozanoEMF; financial options and VaR here: @lozanoIF; and financial modeling here: @lozanoPMF.
+
 If your abstract is good enough, people would most likely scroll down your paper to see your results. The design of your tables and graphs is expected to be as good to the extent that they would virtually need no explanation. In other words, they are expected to be almost self-explanatory and they must be free of any sort of confusing elements. The main challenge of this section is to organize your results in such a way that your reader will perfectly understand how these results help you to meet the original research question, evaluate your original hypothesis and objectives. Sometimes your introduction has to be altered given your results; this is OK as long as this contributes to strengthening your project by making it more consistent.
 
 Normally, I recommend trying to think in a comic-oriented approach. This is, you will have to produce your figures and tables in such a way that they could be able to tell the story that you are interested to tell. After producing the main figures and tables in the right order, then the process of explaining the results (or tell your story) becomes easier.
