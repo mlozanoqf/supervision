@@ -26,35 +26,37 @@ Your project represents a way to differentiate yourself among the rest of your c
 
 Your thesis project is also an opportunity to develop or engender your current research skills. Research skills are not exclusive for consolidated researchers, leading authors, and academics with a PhD degree. Research skills are also very important in the current job market and industry which nowadays has become highly competitive and demands professionals with a formal approach to address and solve problems following a modern and innovative scientific approach. Problems that already exist in the industry, and those that do not exist yet. A professional with the ability to learn, innovate, and develop applied research projects, are very valuable in the job market. You are expected to be good at learning well and fast by yourself, and gathering research skills can help you in this respect. It is not easy to gather research skills alone and isolated from academia, this is why one typical way to get them is by letting experienced researchers train enthusiastic students. 
 
+You are not only going to develop new skills during the supervision period. Ideally, you will also have the opportunity to use your current professional skills and specialization to address the project objectives. Then, it is important to let me know who you are so we can take advantage of your unique and distinctive professional skills and abilities to develop an interesting project.
+
 # `r fontawesome::fa("question-circle")` Frequently asked questions.
 
 Here are a few frequently asked questions that most of my students have about their projects:
 
-1. Who is supposed to propose the project topic?
+1. **Who is supposed to propose the project topic?**
 *There are several ways to proceed in this respect. One typical way is that students declare their main interests; then I can propose several alternatives; and we can discuss until we define the most appropriate project for you. Proposing topics that you as a student do not want to do is also a valid way to define the project topic. Another way is that students pick from a list, so programme administrators can match students and supervisors.*
 
-2. Are there any restrictions or limitations in terms of the topics you can supervise?
+2. **Are there any restrictions or limitations in terms of the topics you can supervise?**
 *Not really. I can supervise a wide variety of consultancy oriented or research projects in the area of business, economics, statistics, data science, finance, management, its combinations, extensions, sub-areas, and other more specific and newer topics. I have a marked preference to select a quantitative approach in the area of economics and/or finance, but in short there are virtually no restrictions in terms of the topics I can supervise.*
 
-3. Are we supposed to produce a very long and complicated R code?
+3. **Are we supposed to produce a very long and complicated R code?**
 *Your project, and more specifically the empirical section that will lead to your original results will most likely be developed in R given the quantitative nature of the project that I will try to pursue with you. However, I strongly believe that the project contribution is far more important than the methodology or the specific way or software to produce results. Therefore, your thesis could be intense in computer programming or not. This will depend on the project itself, our discussion, your ability to do computer programming, objectives, and scope. A project that relies on computer programming is usually more ambitious and with a more interesting contribution as it has virtually no barriers or frontiers in terms of data analysis and reaching original findings. In short, the answer is: it depends.*
 
-4. Is there a minimum and maximum page limit for my project?
+4. **Is there a minimum and maximum page limit for my project?**
 *You should look at the official guidelines for this. In my personal view, the extension is mostly determined by the achievement of the project objectives and not in the number of pages. Page number is not necessarily related with project quality, but I understand it can be used to meet some standards dictated by the academic programme. In any case, I will decide whether a specific section in your project is sufficiently developed or not. Just as a reference, John Nash's thesis was 26 pages, and had two references in the bibliography. It is also true that few pages can be a sign of a lack of a deep analysis. In short, I will clearly inform you in case you are falling too short in terms of page limit. If I do not do that, then you have the obligation to ask.*
 
-5. What would be your very best recommendation for us as students?
+5. **What would be your very best recommendation for us as students?**
 *Inform me regularly about your progress, and incorporate all my feedback in your progress. Read this document on a regular basis. Keep quality standards as high as possible. If for any reason I take too long to answer you back, please insist. *
 
-6. Do you ask for weekly progress reports?
+6. **Do you ask for weekly progress reports?**
 *Not really. I rather prefer to ask for reports based on tasks or tasks progress. The process is rather simple: you send me a draft, I give you comments by email and/or Zoom, you incorporate my comments, you send me a new draft, and the process start again. This is the Zoom link for meetings: https://us02web.zoom.us/j/9209945512. *
 
-7. Are we going to write our project in MS-Word?
+7. **Are we going to write our project in MS-Word?**
 *There are several alternatives to write your project. You can use MS-Word, Google Docs, Overleaf, R Markdown, or any other $\LaTeX{}$ compiler.*
 
-8. We are a team. Are we going to have the same individual mark? 
+8. **We are a team. Are we going to have the same individual mark?**
 *Not necessarily. I may include auto and co-evaluations to know more about your view about the team members contribution to the team work.*
 
-9. How frequent are we going to communicate with you? 
+9. **How frequent are we going to communicate with you?**
 *There might be an answer in the official student guidelines dictated by the academic programme. However, in my case you are free to contact me whenever you need. I am interested that you understand what has to be done so I can answer questions by email or have Zoom meetings to make that clear. You are expected to show that you can work independently, but this does not mean that you will be alone in the process. So, feel free to contact me.*
 
-9. More in future versions of this document.
+10. **More in future versions of this document.**

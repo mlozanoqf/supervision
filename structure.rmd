@@ -92,7 +92,7 @@ knitr::include_graphics('./pred.jpg')
 
 ## Methodology.
 
-Your thesis will most likely include an empirical test, a valuation, data analysis, or model estimation so the methodology will provide a detailed assessment of the quantitative methods and data used in your project. The methodology section includes the model presentation, assumptions, equations, functions, and relevant estimation techniques. Math notation must be properly formatted by using the insert-equation feature available in MS-Word, markdown or in $\LaTeX{}$. 
+Your project will most likely include an empirical test, a valuation, data analysis, or model estimation so the methodology will provide a detailed assessment of the quantitative methods and data used in your project. The methodology section includes the model presentation, assumptions, equations, functions, and relevant estimation techniques. Math notation must be properly formatted by using the insert-equation feature available in MS-Word, markdown or in $\LaTeX{}$. 
 
 The equations are supposed to be well formatted like this:
 $E_0=V_0N(d_1)-De^{-rT}N(d_2)$.
@@ -150,6 +150,8 @@ When reporting on your findings, however, do not merely list or repeat them from
 
 ## References.
 
-This section should include every article, paper, book that you use to support your project. In the same way, every referenced article, paper, and book used in the project should be in the references section. There are several formats you can follow to write this section; my simple recommendation here is to try to mimic the format of your own journal article references. Or better just follow the APA style, there are many online resources that can help you here. In fact, the university library can provide useful advice in this respect, just contact them, and ask for it.
+This section should include every article, paper, book that you use to support your project. In the same way, every referenced article, paper, and book used in the project should be in the references section. 
 
-Every project is different, but I am confident that this structure fits practically any case. This structure allows some additional freedom compared with the traditional chapters. This structure also allows pursuing a publication, participation in research seminars, contests, or awards.
+There are several formats you can follow to write this section. Some journal articles and books may have different formats and this might be confusing. My simple recommendation here is to just follow the APA style, there are many online resources that can help you to know more about the APA style. In fact, the university library can provide useful advice in this respect. Google Scholar has a nice feature that allows you to copy the reference of the paper in several formats including APA, ISO 690, MLA, Bib$\TeX{}$, EndNote, RefMan and RefWorks.
+
+Understanding how to reference can be very helpful to avoid academic malpractice. There should be some student guidelines about academic malpractice regulations and how to avoid it. I recommend you to read those and contact me in case you need further assistance.
