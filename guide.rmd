@@ -14,7 +14,7 @@ rm(list=ls())
 
 # `r fontawesome::fa("handshake")` Introduction.
 
-Welcome `r fontawesome::fa("laugh")`. If you are reading this document, it is because we have agreed or we are in the process of agreeing that I will supervise your project, thesis, or dissertation whether it is research oriented, or consultancy based. In short, I will simply use the word project from now on. I am confident that we can develop an interesting project, and I have high expectations about your overall performance as an individual and more importantly as a team. You should be confident that I have more than enough academic credentials, experience, and interest to help you in this process regardless the scope, approach, and the topic of your project. You can find my full and updated academic curriculum here: sites.google.com/site/mlozanoqf/ Once again, welcome.
+Welcome `r fontawesome::fa("laugh")`. If you are reading this document, it is because we have agreed or we are in the process of agreeing that I will supervise your project, thesis, or dissertation whether it is research oriented, or consultancy based. In short, I will simply use the word project from now on. I am confident that we can develop an interesting project, and I have high expectations about your overall performance as an individual and more importantly as a team. You should be confident that I have more than enough academic credentials, experience, and interest to help you in this process regardless the scope, approach, and the topic of your project. You can find my full and updated academic curriculum [here](sites.google.com/site/mlozanoqf/) This is the Zoom link for meetings: https://us02web.zoom.us/j/9209945512. Once again, welcome.
 
 The objective of this document is twofold: (1) explain the supervision process, and (2) explain the project contents and structure.
 
@@ -46,12 +46,15 @@ Here are a few frequently asked questions that most of my students have about th
 *Inform me regularly about your progress, and incorporate all my feedback in your progress. Read this document on a regular basis. Keep quality standards as high as possible. If for any reason I take too long to answer you back, please insist. *
 
 6. Do you ask for weekly progress reports?
-*Not really. I rather prefer to ask for reports based on tasks or tasks progress. The process is rather simple: you send me a draft, I give you comments by email and/or Zoom, you incorporate my comments, you send me a new draft, and the process start again. *
+*Not really. I rather prefer to ask for reports based on tasks or tasks progress. The process is rather simple: you send me a draft, I give you comments by email and/or Zoom, you incorporate my comments, you send me a new draft, and the process start again. This is the Zoom link for meetings: https://us02web.zoom.us/j/9209945512. *
 
 7. Are we going to write our project in MS-Word?
-*There are several alternatives to write your project. You can use MS-Word, Google Docs, Overleaf, R Markdown, or any other LaTeX compiler. *
+*There are several alternatives to write your project. You can use MS-Word, Google Docs, Overleaf, R Markdown, or any other $\LaTeX{}$ compiler.*
 
-8. More in future versions of this document.
+8. Are we going to have the same individual mark?
+*Not necessarily. I may include auto and co-evaluations to know more about how is your view about the team members.*
+
+9. More in future versions of this document.
 
 # `r fontawesome::fa("file-alt")` Project structure.
 
@@ -133,7 +136,7 @@ knitr::include_graphics('./pred.jpg')
 
 ## Methodology.
 
-Your thesis will most likely include an empirical test, a valuation, data analysis, or model estimation so the methodology will provide a detailed assessment of the quantitative methods and data used in your project. The methodology section includes the model presentation, assumptions, equations, functions, and relevant estimation techniques. Math notation must be properly formatted by using the insert-equation feature available in MS-Word, markdown or in LaTeX. 
+Your thesis will most likely include an empirical test, a valuation, data analysis, or model estimation so the methodology will provide a detailed assessment of the quantitative methods and data used in your project. The methodology section includes the model presentation, assumptions, equations, functions, and relevant estimation techniques. Math notation must be properly formatted by using the insert-equation feature available in MS-Word, markdown or in $\LaTeX{}$. 
 
 The equations are supposed to be well formatted like this:
 $E_0=V_0N(d_1)-De^{-rT}N(d_2)$.
@@ -240,7 +243,7 @@ You could even ignore this document and that is unfortunate because this documen
 
 On the positive side, many other things might go well. I am confident that the negative issues can be easily and quickly be managed and you can progress well most of the time. 
 
-# Checklist.
+# `r fontawesome::fa("check-square")` Checklist.
 
 Below you can find a useful checklist to bear in mind while working on your thesis project.
 

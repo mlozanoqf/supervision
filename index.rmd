@@ -77,6 +77,6 @@ a <- toc()
 
 This document took `r round(as.numeric((a$toc-a$tic)/60), 2)` minutes to compile in Rmarkdown, `r R.version.string`.
 
-# References.
+# `r fontawesome::fa("book-open")` References.
 
 
