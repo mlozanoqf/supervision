@@ -88,4 +88,3 @@ This document took `r round(as.numeric((a$toc-a$tic)), 2)` seconds to compile in
 
 # `r fontawesome::fa("book-open")` References.
 
-
