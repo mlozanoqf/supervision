@@ -216,4 +216,19 @@ This section should include every article, paper, book that you use to support y
 
 There are several formats you can follow to write this section. Some journal articles and books may have different formats and this might be confusing. My simple recommendation here is to just follow the APA style, there are many online resources that can help you to know more about the APA style. In fact, the university library can provide useful advice in this respect. Google Scholar has a nice feature that allows you to copy the reference of the paper in several formats including APA, ISO 690, MLA, Bib$\TeX{}$, EndNote, RefMan and RefWorks.
 
+In Bib$\TeX{}$, a typical <tt>`.bib`</tt> file has entries like:
+
+<tt>`@article{fama1993common,`</tt>
+<tt>`  title={Common risk factors in the returns on stocks and bonds},`</tt>
+<tt>`  author={Fama, Eugene F and French, Kenneth R},`</tt>
+<tt>`  journal={Journal of financial economics},`</tt>
+<tt>`  volume={33},`</tt>
+<tt>`  number={1},`</tt>
+<tt>`  pages={3--56},`</tt>
+<tt>`  year={1993},`</tt>
+<tt>`  publisher={Elsevier}`</tt>
+<tt>`}`</tt>
+
+And every time you write `@fama1993common` you will get the correspondent reference @fama1993common in the compiled file.
+
 Understanding how to reference can be very helpful to avoid academic malpractice. There should be some student guidelines about academic malpractice regulations and how to avoid it. I recommend you to read those and contact me in case you need further assistance.
