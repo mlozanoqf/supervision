@@ -36,6 +36,8 @@ format:
     number-sections: true
     toc-location: left
     toc-depth: 2
+    include-after-body: analytics_supervision.html
 
+        
 link-citations: true
 
