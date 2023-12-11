@@ -1,0 +1,57 @@
+
+```{=tex}
+\newpage 
+\hypersetup{linkcolor=black}
+\renewcommand*\contentsname{Index.}
+\tableofcontents
+```
+
+```{r include=FALSE}
+# This removes all items in environment. 
+# It is a good practice to start your code this way.
+rm(list=ls())
+library(fontawesome)
+library(tictoc)
+tic()
+```
+
+```{r global_options, include = FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+knitr::opts_chunk$set(fig.pos = "H", out.extra = "")
+```
+
+
+````{=html}
+```{r, echo=FALSE, results='asis'}
+xfun::file_string('contact.html')
+```
+````
+
+# [`r fa("arrow-circle-left", fill = "black")`](https://mlozanoqf.github.io/) [<span style="color: black">Back to QFR.</span>](https://mlozanoqf.github.io/) {-}
+
+
+\newpage
+
+```{r strategies, child = 'intro.qmd'}
+```
+
+\newpage
+
+```{r strategies, child = 'structure.Rmd'}
+```
+
+\newpage
+
+```{r strategies, child = 'style.Rmd'}
+```
+
+
+```{r include=FALSE}
+a <- toc()
+```
+
+This document took `r round(as.numeric((a$toc-a$tic)), 2)` seconds to compile in Quarto, `r R.version.string`.
+
+# `r fontawesome::fa("book-open")` References.
+::: {#refs}
+:::
