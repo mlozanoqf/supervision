@@ -1,10 +1,10 @@
 
-```{=tex}
-\newpage 
-\hypersetup{linkcolor=black}
-\renewcommand*\contentsname{Index.}
-\tableofcontents
-```
+<!-- ```{=tex} -->
+<!-- \newpage  -->
+<!-- \hypersetup{linkcolor=black} -->
+<!-- \renewcommand*\contentsname{Index.} -->
+<!-- \tableofcontents -->
+<!-- ``` -->
 
 ```{r include=FALSE}
 # This removes all items in environment. 
