@@ -1,10 +1,4 @@
 
-<!-- ```{=tex} -->
-<!-- \newpage  -->
-<!-- \hypersetup{linkcolor=black} -->
-<!-- \renewcommand*\contentsname{Index.} -->
-<!-- \tableofcontents -->
-<!-- ``` -->
 
 ```{r include=FALSE}
 # This removes all items in environment. 
@@ -50,7 +44,9 @@ xfun::file_string('contact.html')
 a <- toc()
 ```
 
-This document took `r round(as.numeric((a$toc-a$tic)), 2)` seconds to compile in Quarto, `r R.version.string`.
+
+This document took `r round(as.numeric((a$toc-a$tic)), 2)` seconds to compile in Quarto version `r quarto::quarto_version()`, and `r R.version.string`.
+
 
 # `r fontawesome::fa("book-open")` References.
 ::: {#refs}

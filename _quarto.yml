@@ -2,20 +2,9 @@ title: Supervision guide.
 
 author: Dr. Martín Lozano.
 date: now
-date-format: "MMMM D, YYYY, HH:mm a"
+date-format: "MMMM D, YYYY, HH:mm:ss a."
 
-#output: 
-#  website:
-#    reader-mode: true
-#    toc: yes
-#    toc_float: yes
-#    toc_depth: 2
-#    number_sections: yes
-#    fig_caption: yes
-#    code_folding: hide
-#    theme: readable #darkly 
-#    includes:
-#      after_body: analytics_supervision.html
+
 abstract: This document is subject to changes due to new regulations dictated by the programme management, academic department and/or the university. It is also subject to a new and improved set of recommendations given my experience using this document in the past. Please note that all recommendations and guidance in this document apply only for students that agree to work under my supervision. If there is any discrepancy between this document and the official guidelines or regulations dictated by the academic programme or the university, then the rule is to follow the official guidelines. This document is a work in progress, and not all the material taken from publicly available sources has been properly referenced.
 bibliography: references.bib
   
@@ -33,8 +22,8 @@ format:
     toc-location: left
     toc-depth: 2
     include-after-body: analytics_supervision.html
-    reader-mode: true
-
         
 link-citations: true
 
+website:
+  reader-mode: true  
