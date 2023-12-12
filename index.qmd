@@ -21,17 +21,14 @@ xfun::file_string('contact.html')
 ```
 ````
 
-\newpage
 
 ```{r strategies, child = 'intro.qmd'}
 ```
 
-\newpage
 
 ```{r strategies, child = 'structure.Rmd'}
 ```
 
-\newpage
 
 ```{r strategies, child = 'style.Rmd'}
 ```
