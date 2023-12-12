@@ -7,7 +7,7 @@ rm(list=ls())
 
 \newpage
 
-# `r fontawesome::fa("file-alt")` Project structure.
+# `r fontawesome::fa("file-alt")` Project structure. {#sec-structure}
 
 Your project will be formed by one single document. A typical project structure is formed by: title, abstract, introduction, literature review, methodology, results, conclusion, and references. Although this is the physical order of your document, we usually write it in different order. In my experience, you should start with the literature review as you need to understand what has been done in the past, then you start producing some basic results or preliminary analysis. Once you have some clear progress in these two sections you write the methodology, introduction, conclusion and the abstract. 
 

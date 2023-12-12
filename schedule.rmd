@@ -3,7 +3,7 @@
 ## PEF1.
 
 - Bienvenidos a PEF1.
-- La clase de PEF1 es equivalente a MIN (Métodos de Investigación en Negocios).
+- La clase de PEF1 es equivalente a MIN (Métodos de Investigación en Negocios). El grupo es exclusivo para LFI aunque pueden haber excepciones autorizadas por la dirección de carrera y/o departamento.
 - Yo (Dr. Martín Lozano) soy el profesor asignado a la clase de MIN, ustedes como equipo deben buscar a un profesor que esté interesado en supervisar su PEF2.
 - El número de integrantes por equipo es 4. En caso de que no se completen los equipos, la dirección de carrera y/o departamento autorizarán equipos con otras carreras o un número de integrantes distinto.
 - Las secciones previas de este documento es material que siguen mis alumnos de PEF2 o alumnos de posgrado de otras universidadaes. Con lo cual, no es material oficial que deban seguir en PEF2.
@@ -33,7 +33,7 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zo
 - Bienvenida.
 - ¿Tienes equipo, tema y asesor(a)?
 - Tema: Tipos de tesis, su estructura y expectativas sobre su trabajo.
-- Tema: Uso de Google Scholar en la definición del tema y bases de datos.
+- Tema: Uso de [Google Scholar](https://scholar.google.com/) en la definición del tema y bases de datos.
 
 **Sesión 2. Jueves 18 de enero.**
 
@@ -42,22 +42,22 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zo
 - Tema: Tecnologías para la producción de documentos científicos.
 - Actividad: Instalar R, RStudio, ¿cómo producir documentos PDF en Quarto?
 - Tema: Temas de investigación en finanzas.
-- Actividad: Discusión de video. Finding Research Topics - Robert Marquez https://youtu.be/TuxcX4V0d08?si=B1Y6Dqb2frx2ZACV
+- Actividad: Discusión de video. [Finding Research Topics - Robert Marquez](https://youtu.be/TuxcX4V0d08?si=B1Y6Dqb2frx2ZACV)
 
 **Sesión 3. Jueves 25 de enero.**
 
 - Tarea 1: Entregar documento PDF con la confirmación de miembros de equipos, tema y asesor. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 3. El documento PDF debe estar producido en Quarto. Ponderación 5% de la calificación final.
 - Actividad: Retroalimentación de la tarea 1.
 - Tema: ¿Cómo presentar tu proyecto de investigación?
-- Tema: La estructura del documento de tesis https://mlozanoqf.github.io/supervision/
-- Actividad: Discusión de video. https://www.fma.org/virtual-seminar
-- Actividad: Discusión de video. https://www.fma.org/student-virtual-seminar
+- Tema: La estructura del documento de tesis: @sec-structure.
+- Actividad: Discusión de video. [https://www.fma.org/virtual-seminar](https://www.fma.org/virtual-seminar)
+- Actividad: Discusión de video. [https://www.fma.org/student-virtual-seminar](https://www.fma.org/student-virtual-seminar)
 
 **Sesión 4. Jueves 1 de febrero.**
 
 - Tarea 2: Entregar documento PDF con el draft de la revisión literaria. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 4. El documento PDF debe estar producido en Quarto. El documento debe ser el mismo que el de la tarea 1, solo incluyan una nueva sección con el draft de la revisión literaria. Ponderación 5% de la calificación final.
 - Actividad: Retroalimentación de la tarea 2.
-- Actividad: Discusión de video. Effective Data Storytelling for Financial Services https://www.datacamp.com/resources/webinars/effective-data-storytelling-for-financial-services
+- Actividad: Discusión de video. [Effective Data Storytelling for Financial Services](https://www.datacamp.com/resources/webinars/effective-data-storytelling-for-financial-services)
 
 **Sesión 5. Jueves 8 de febrero.**
 
@@ -67,11 +67,11 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zo
 **Sesión 6. Jueves 15 de febrero.**
 
 - Tarea 4: Entregar la tarea 3 con comentarios y un enlace de YouTube con un elevator pitch. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 6. El documento PDF debe estar producido en Quarto. El documento debe ser el mismo que el de la tarea 3. Identifiquen claramente los cambios y mejoras que incorporaron. El elevator pitch es una grabación de su presentación de máximo 2 minutos en donde todos los miembros del equipo participan para explicar su proyecto. La grabación es sin apoyos visuales. Ponderación 10% de la calificación final.
-- Ejemplo de un elevator pitch: PhD Elevator Pitch Presentation by Fabienne Cheung https://youtu.be/nayGkMLM9as?si=GaJSIR20lqTKod5h
+- Ejemplo de un elevator pitch: [PhD Elevator Pitch Presentation by Fabienne Cheung](https://youtu.be/nayGkMLM9as?si=GaJSIR20lqTKod5h)
 - Actividad: Recibir retroalimentación de las tareas 4 y 5.
 - Tema: Habilidades para presentación.
-- Actividad: Discusión de video. Academic Skills - Presenting Effectively - Part 1 https://youtu.be/pNIO5KkIq7Y?si=JGbpaWCQfVnQrdH2
-- Actividad: Discusión de video. Academic Skills - Presenting Effectively - Part 2 https://youtu.be/O-D9fZN01yk?si=bbA8WRbQCqTRX2p_
+- Actividad: Discusión de video. [Academic Skills - Presenting Effectively - Part 1](https://youtu.be/pNIO5KkIq7Y?si=JGbpaWCQfVnQrdH2)
+- Actividad: Discusión de video. [Academic Skills - Presenting Effectively - Part 2](https://youtu.be/O-D9fZN01yk?si=bbA8WRbQCqTRX2p_)
 
 **Sesión 7. Jueves 22 de febrero.**
 
