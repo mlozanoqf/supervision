@@ -23,7 +23,7 @@ Your thesis project is also an opportunity to develop or engender your current r
 
 You are not only going to develop new skills during the supervision period. Ideally, you will also have the opportunity to use your current professional skills and specialization to address the project objectives. Then, it is important to let me know who you are so we can take advantage of your unique and distinctive professional skills, interests, and abilities to develop an interesting project.
 
-# `r fontawesome::fa("question-circle")` Frequently asked questions.
+# `r fontawesome::fa("question-circle")` FAQ.
 
 Here are a few frequently asked questions that most of my students have about their projects:
 
