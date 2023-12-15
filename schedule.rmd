@@ -100,6 +100,8 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zo
 
 - Actividad: Hacer las grabaciones de las presentaciones. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. Usen el espacio de juntas de la sala de Bloomberg y la pantalla para hacer su grabación. Contacten a José Guadalupe Tamez García <jose.tamez@udem.edu> para separar la sala y para que les preste la cámara, control de la pantalla y cables. 
 
+**Asueto. `r fontawesome::fa("umbrella-beach")` Jueves 28 de marzo.**
+
 **Sesión 12. Jueves 4 de abril.**
 
 - Tarea 8: Entrega de enlace de videos de YouTube. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 12. El documento PDF debe estar producido en Quarto. El documento debe ser el mismo que el de la tarea 4, solo incluyan el enlace del video de YouTube. La descripción del enlace de YouTube debe incluir los nombres de los estudiantes y los apoyos visuales usados en la presentación. Ponderación 10% de la calificación final.
