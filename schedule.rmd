@@ -53,7 +53,7 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zo
 - Actividad: Discusión de video. [https://www.fma.org/virtual-seminar](https://www.fma.org/virtual-seminar)
 - Actividad: Discusión de video. [https://www.fma.org/student-virtual-seminar](https://www.fma.org/student-virtual-seminar)
 
-**Sesión 4. Jueves 1 de febrero.**
+**Sesión 4. Jueves 1 de febrero, Zoom. **
 
 - Tarea 2: Entregar documento PDF con el draft de la revisión literaria. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 4. El documento PDF debe estar producido en Quarto. El documento debe ser el mismo que el de la tarea 1, solo incluyan una nueva sección con el draft de la revisión literaria. Ponderación 5% de la calificación final.
 - Actividad: Retroalimentación de la tarea 2.
@@ -64,7 +64,7 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zo
 - Tarea 3: Entregar documento PDF con introdución, revisión literaria y metodología. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 5. El documento PDF debe estar producido en Quarto. El documento debe ser el mismo que el de la tarea 2, solo incluyan las nuevas secciones. Ponderación 10% de la calificación final.
 - Actividad: Recibir retroalimentación de la tarea 3.
 
-**Sesión 6. Jueves 15 de febrero.**
+**Sesión 6. Jueves 15 de febrero, Zoom.**
 
 - Tarea 4: Entregar la tarea 3 con comentarios y un enlace de YouTube con un elevator pitch. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 6. El documento PDF debe estar producido en Quarto. El documento debe ser el mismo que el de la tarea 3. Identifiquen claramente los cambios y mejoras que incorporaron. El elevator pitch es una grabación de su presentación de máximo 2 minutos en donde todos los miembros del equipo participan para explicar su proyecto. La grabación es sin apoyos visuales. Ponderación 10% de la calificación final.
 - Ejemplo de un elevator pitch: [PhD Elevator Pitch Presentation by Fabienne Cheung](https://youtu.be/nayGkMLM9as?si=GaJSIR20lqTKod5h)
