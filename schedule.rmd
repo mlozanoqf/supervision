@@ -48,7 +48,6 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zo
 
 - Tarea 1: Entregar documento PDF con la confirmación de miembros de equipos, tema y asesor. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 3. El documento PDF debe estar producido en Quarto. Ponderación 5% de la calificación final.
 - Actividad: Retroalimentación de la tarea 1.
-- Actividad +5 puntos sobe la calificación del primer parcial. Compartir, reaccionar y/o agregar un comentario en redes sociales: [https://lnkd.in/dVTfge2b](https://lnkd.in/dVTfge2b) *Retos y oportunidadades en el aprendizaje de ciencia de datos en las escuelas de negocios.* Podcast: Café de Datos, Datlas. Temporada 9, capítulo 132. Subir eviencia (screenshot) al foro de discusión del primer parcial. La hora límite es 7pm de la sesión 3.
 - Tema: ¿Cómo presentar tu proyecto de investigación?
 - Tema: La estructura del documento de tesis: @sec-structure.
 - Actividad: Discusión de video. [https://www.fma.org/virtual-seminar](https://www.fma.org/virtual-seminar)
@@ -64,6 +63,7 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zo
 
 - Tarea 3: Entregar documento PDF con introdución, revisión literaria y metodología. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 5. El documento PDF debe estar producido en Quarto. El documento debe ser el mismo que el de la tarea 2, solo incluyan las nuevas secciones. Ponderación 10% de la calificación final.
 - Actividad: Recibir retroalimentación de la tarea 3.
+- Actividad +5 puntos sobe la calificación del primer parcial. Compartir, reaccionar y/o agregar un comentario en redes sociales: [https://lnkd.in/dVTfge2b](https://lnkd.in/dVTfge2b) *Retos y oportunidadades en el aprendizaje de ciencia de datos en las escuelas de negocios.* Podcast: Café de Datos, Datlas. Temporada 9, capítulo 132. Subir eviencia (screenshot) al foro de discusión del primer parcial. La hora límite es 7pm de la sesión 3.
 
 **Sesión 6. Jueves 15 de febrero, Zoom.**
 
