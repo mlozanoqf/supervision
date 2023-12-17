@@ -63,7 +63,7 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zo
 
 - Tarea 3: Entregar documento PDF con introdución, revisión literaria y metodología. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 5. El documento PDF debe estar producido en Quarto. El documento debe ser el mismo que el de la tarea 2, solo incluyan las nuevas secciones. Ponderación 10% de la calificación final.
 - Actividad: Recibir retroalimentación de la tarea 3.
-- Actividad +5 puntos sobe la calificación del primer parcial. Compartir, reaccionar y/o agregar un comentario en redes sociales: [https://lnkd.in/dVTfge2b](https://lnkd.in/dVTfge2b) *Retos y oportunidadades en el aprendizaje de ciencia de datos en las escuelas de negocios.* Podcast: Café de Datos, Datlas. Temporada 9, capítulo 132. Subir eviencia (screenshot) al foro de discusión del primer parcial. La hora límite es 7pm de la sesión 3.
+- Actividad +5 puntos sobe la calificación del primer parcial. Compartir, reaccionar y/o agregar un comentario en redes sociales. *Retos y oportunidadades en el aprendizaje de ciencia de datos en las escuelas de negocios.* [Episodio en Spotify](https://open.spotify.com/episode/6x8c6XIPIfIPLj1yRhi5D8?si=5s9ik8ffQcW_Sy9NVU5sxg) [Episodio en YouTube](https://youtu.be/SKG3Kr-TK-w?si=W5wg2DXluuiEspWC). Café de Datos, Datlas. Temporada 9, capítulo 132. Subir eviencia (screenshot) al foro de discusión del primer parcial. La hora límite es 7pm de la sesión 3.
 
 **Sesión 6. `r fontawesome::fa("heart")` Jueves 15 de febrero, Zoom.**
 
