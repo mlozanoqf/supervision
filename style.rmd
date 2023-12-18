@@ -49,6 +49,49 @@ There is an interesting and relevant recommendation by Gary Provost about academ
 
 *This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It’s like a stuck record. The ear demands some variety. Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important.*
 
+
+# `r fontawesome::fa("bullhorn")` Presentation.
+
+In the same way that your thesis or journal article should have a clear argument, a good presentation needs a clear message and an efficient vehicle to transmit this message in a few minutes (usually 30, maximum 45 minutes). This key message provides the focus for your presentation and gives it the structure. Having a clear message helps you to communicate more effectively and takes the focus away from merely delivering information. A visual representation of your ideas can enhance your audience’s understanding of your points, provide a point of interest and create a more lasting impact than oral input alone. You should never let your visual aids replace good content.
+
+The structure of the thesis presentation is normally different from the research paper structure explained above and that is fine. The structure of the PowerPoint presentation can incorporate some innovative approach to help the team to explain the project more effectively, efficiently, creatively and innovatively. This innovative approach could also include some changes in the original Word document structure. The fact that you have about 30 minutes to do the final presentation represents a time constraint that you will have to overcome with a very well-designed presentation.
+
+My recommendation is not to innovate too much in terms of formatting and animations, you should rather innovate in terms of contents and the way you communicate and explain your results better (you can always find a better way to explain things). I also normally recommend you to follow a more graphical approach and avoid writing too much text in your presentation. People listening to your presentation are not supposed to read what you are saying, it is torturing to do that. The point here is that you are supposed to design slides that can help you to explain, rather than full text slides. The ability to clearly explain a lot of work in a limited amount of time is very valuable in the job market and we normally develop this skill while doing research.
+
+Some common mistakes in the earlier drafts of the PowerPoint presentation includes:
+
+**Excessive animations.** Animations are OK if they are really necessary. My advice here is to be innovative in the way you present your work, not in the way you add animations. 
+
+**Too many slides.** My advice here is to keep it short or at least as short as you can. Make every slide count. Be critical here and ask yourself if that slide really adds value. Remember this is about hearing your own explanations, not watching a lengthy presentation.
+
+**Uneven distribution of slides per student.** Sometimes one team member ends up explaining 50% of the whole presentation. This is not recommended as you are expected to show how you manage to work in a team, and that everybody in the team understands the project very well. So, try to distribute the explanations of slides as well as possible. One slide can be explained by two students and that is absolutely fine.
+
+**Hard to understand.** The presentation is a tool to help you link and relate ideas that you will eventually develop in your explanation. Try to explain as clearly as you can as this will help your audience to follow and understand what you did. If your presentation is not helping you to explain your work properly, just edit it or change it.
+
+**Avoid small fonts by all means.** People are supposed to be able to see every part and every sentence in your presentation.
+
+Practicing is vital to ensuring good delivery because it will improve your presentation and give you confidence. It will also help you to become familiar with the pronunciation of difficult or foreign words and the visual aids and outline of the presentation. Most importantly it will help ensure that you are adhering to the time limit. Some teams decide to memorize their speech, this is something that you will have to decide and I will let you know if it is working or not. I normally prefer to hear presentations in which the author explains the contents rather than listening to a memorized speech.
+
+```{r echo=FALSE, out.width="70%", fig.align="center"}
+knitr::include_graphics('./matrix.jpg')
+```
+
+During the delivery. Take a deep breath, try to remain calm and relaxed. You are prepared and in control. Look around, smile at the audience and focus on the following.
+
+- Speaking loudly to project your voice to the whole room.
+- Speaking slowly and emphasizing key points.
+- Speaking clearly. Speaking with an accent does not matter, but your audience needs to be able to comprehend what you are saying.
+- Speaking to your audience and maintaining good eye contact. Be careful not to talk to your notes or stare at a single point in the room throughout your talk.
+- Showing enthusiasm. If you are not excited about your own talk, you cannot expect others to be interested.
+- Portraying positive body language. Stand straight and relax your hands. Try not to slouch, pace up and down, etc., as this can be highly distracting for the audience.
+- Keep a homogeneous format throughout your presentation slides including font size, format of figures, type of fonts, colors, etc.
+- Remember the slides are not your talk; they are there to support your talk. 
+
+Be prepared to answer questions not only at the end of your talk but during it, particularly during departmental seminars. If an audience member interrupts to ask a question, answer it politely. See the question in a positive light because it shows that the audience is listening and genuinely interested.
+
+The concern that most presenters have is what to do if asked a question they cannot answer. Do not panic and never try to bluff as the audience can see straight through it. Rather, acknowledge the value of the question in offering new avenues for your research, admit that you do not know the answer. It is unrealistic to expect that you will have expert knowledge on everything remotely related to your topic of research. However, there is a reasonable expectation that you will be able to answer more obvious questions and to support the claims that you make, including expanding upon the theoretical assumptions or empirical arguments that underlie your research.
+
+
 # `r fontawesome::fa("exclamation-circle")` What might go wrong?
 
 Many things might go wrong, but if we know them and consider them in advance then this risk can be properly managed (or avoided). One of the main risks is that you start losing interest in your project because of your current job or any other sort of new or unanticipated responsibilities. The kind of commitment that you have with your team and your supervisor demands a constant and a high interest throughout the whole process. My recommendation in this respect is that you always keep track of this document to evaluate your progress in a timely manner and always keep me informed about your progress.
@@ -58,6 +101,12 @@ knitr::include_graphics('./project.jpg')
 ```
 
 You can also get frustrated by not meeting my quality standards, or by not understanding a specific topic, or by not overcoming a specific academic challenge. I am not going to actively promote negative feelings like frustration but if it happens, then you should overcome this as well and as quickly as you can. Frustration is not good, but if you feel it then try to transform it into an extra motivation to achieve the objective. Do not let frustration paralyse your progress, and do not let it last for long. I consider there is no challenge that you cannot overcome, you just have to allocate the right amount of time and effort. Ideally, you are supposed to enjoy the process of writing your project and overcoming challenges feels good.
+
+Incorporating comments and feedback successfully is also a challenge. Sometimes reviewers have good intentions but incorporating everything may be problematic as the following picture shows.
+
+```{r echo=FALSE, out.width="60%", fig.align="center"}
+knitr::include_graphics('./comments.jfif')
+```
 
 You could even ignore this document and that is unfortunate because this document is designed to assist you in the whole project. This document could contribute to work more efficiently, avoid potential risks, and help you to get things on the right track. 
 

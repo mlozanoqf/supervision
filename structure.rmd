@@ -28,7 +28,7 @@ An abstract is a catchy text of 100 to 200 words that synthesize the entire docu
 
 An abstract is not a summary of the introduction section, it is not an executive summary, it is rather a synthesis of the whole document. This is a good illustration to differentiate a summary from a synthesis.
 
-```{r echo=FALSE, out.width="70%", fig.align="center"}
+```{r echo=FALSE, out.width="60%", fig.align="center"}
 knitr::include_graphics('./1684493042574.jpg')
 ```
 
