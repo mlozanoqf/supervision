@@ -9,7 +9,9 @@
 - Las secciones previas de este documento es material que siguen mis alumnos de PEF2 o alumnos de posgrado de otras universidadaes. Con lo cual, no es material oficial que deban seguir en PEF2.
 - En principio, su supervisor de PEF2 se incorpora con el equipo hasta que el anteproyecto de PEF1 esté aprobado. Pero en ocasiones su supervisor puede decidir participar antes.
 - Su proyecto, entregas y presentaciones en MIN pueden ser en español o inglés, eso lo deben consultar con su supervisor de PEF2.
+- La Biblioteca cuenta con recursos valiosos para completar su proyecto.
 - Las actividades de la clase MIN no son independientes. Se requiere completar la primera para continuar con la segunda y así sucesivamente.
+- A diferencia de PEF2, en PEF1 la retroalimentación y comentarios que haga a un equipo pueden servir de guía a otros equipos.
 - No tenemos políticas sobre entregas tardías. Si no entregan a tiempo se califica con cero.
 - El número de faltas máximo permitido de acuerdo al reglamento de estudiantes es 2.
 
