@@ -13,6 +13,8 @@ Writing should be a constant process – start now – do not wait until you hav
 
 The writing style is important because you might have a great idea but if you fail to communicate effectively nobody will take you seriously. Alternatively, you might have a regular idea but you are very convincing and you communicate it very well then everybody will listen to you. This section can help you understand the required writing style you have to use in your project.
 
+Group projects can provide particular interpersonal challenges, as teams cope with difference of views, non-performing team members etc., and particular problems can arise at the writing stage. If you split up the sections among different people, then you will get different writing styles and even ideas about what the report is about. Ways of ensuring consistency includes swapping around writing and editing, so that the text gets seen by a different pair of eyes, or having an overall ‘master editor’.
+
 **Avoid using several and mixed verb tenses.** I recommend you to use the simple present tense in most of your document. Keep the writing simple, straight, and clear. Complicated writing is often confusing. Sometimes the student thinks that a complex text is more formal or elegant and this is the opposite. Complex writing makes you sound small-minded. Simpler text is often more difficult to achieve but it is preferred in terms of clarity. Use past and future tense only in very limited cases and avoid contractions.
 
 **Use the active voice.** In English, readers prefer the SVO sentence sequence: subject, verb, object. This is the active voice. For example: Passive sentences bore people. When you reverse the active sequence, you have the OVS or passive sequence: object, verb, subject. For example: People are bored by passive sentences. You cannot always use the active voice, but most writers should use it more often. In short, the more you read the better you write. In academic writing this applies very well, your writing will improve considerably if you consciously read high quality published papers. My recommendation is to use active voice.
@@ -21,6 +23,15 @@ The writing style is important because you might have a great idea but if you fa
 
 **Clarity.** This refers to the quality of coherence and intelligibility. You need to make sure your idea is clearly communicated. Sometimes sentences and paragraphs are not very well connected and this leads to some confusion about what is your main point. In this case, you will have to review your text and make sure every single sentence and paragraph are effectively contributing to communicating the idea correctly. Write use instead of utilize, near instead of close proximity, help instead of facilitate, for instead of in the amount of, start instead of commence.
 
+**Paragraph structure.** A good paragraph contains only one major point of discussion. All the sentences in the paragraph should relate to this one idea and should flow from one another. If you read one sentence aloud and you need to pause for breath, insert a comma.
+
+**Write clear sentences.** One golden rule for clarity is that a sentence should be easy to understand the first time you read it. If it is not, then think about restructuring it or splitting it in two.
+
+**Avoid illogicalities and errors in reasoning.** These include contradicting something you said in one paragraph in the next (or even the same paragraph), complete jumps of sense between or within paragraphs, so that one statement does not follow on from another, deducing incorrect conclusions from evidence.
+
+
+**Avoid wordiness.** Delete any words which do not add to the meaning. Some words may be correct grammatically, but they do not really add anything to the sentence.
+
 Reduce wordy verbs.
 
 -	From *is aware, has knowledge of*, to simply: *knows*.
@@ -28,7 +39,7 @@ Reduce wordy verbs.
 -	From *are indications*, to simply: *indicate*.
 -	From *are suggestive*, to simply: *suggests*.
 
-**Coherence.** This is about being logical and consistent in your writing. It is worthwhile to constantly question yourself whether your paragraph or section makes sense or not. If not, you will have to work on your coherence.
+**Coherence.** This is about being logical and consistent in your writing. It is worthwhile to constantly question yourself whether your paragraph or section makes sense or not. If not, you will have to work on your coherence. Coherence is about confirming that the structure of your manuscript is logical and your meaning is clear. 
 
 **Cohesion.** This is about forming a united whole. Sometimes four team members contribute to writing a specific section and it turns out that the section lacks of cohesion because it looks as different views and unarticulated paragraphs. You will have to make sure your text is in fact a unity. Words and phrases can control and order the logic within a paragraph's argument. You can link ideas using words that show a logical relationship: therefore, however, but, consequently, thus, even so, conversely, nevertheless, moreover, in addition, and many more. Whatever its form, an intra-paragraph transition should be unobtrusive, shifting readers easily from one topic to the next. 
 

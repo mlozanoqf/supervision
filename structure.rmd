@@ -14,7 +14,7 @@ Your project will be formed by one single document. A typical project structure 
 
 ## Title and cover page.
 
-The title normally changes and evolves during the supervision process. A good title has the relevant keywords that can help the reader to understand quickly and unambiguously what the project is about. A good title represents the whole contents. It is very common to start with one title and end up with a different one before the final submission. This is fine if the title really reflects the contents and the approach of the project. I recommend you to propose an early title as soon as possible and let it change depending on the progress of your work, new discoveries, and on my recommendations. Changing the title is not necessarily a sign of weak planning.
+The title normally changes and evolves during the supervision process. A good title has the relevant keywords that can help the reader to understand quickly and unambiguously what the project is about. A good title represents the whole contents. It is very common to start with one title and end up with a different one before the final submission. This is fine if the title really reflects the contents and the approach of the project. I recommend you to propose an early title as soon as possible and let it change depending on the progress of your work, new discoveries, and on my recommendations. Changing the title is not necessarily a sign of weak planning. A good advice is asking yourself: *Does the title accurately reflect the contents?* And if the answer is not a clear yes, then you will have to edit your title.
 
 Your document also needs a cover page that includes your names, the name of your program, the name of your supervisor, the name of the university, and date. You probably have a cover page template given by the academic programme or university guidelines. 
 
@@ -24,13 +24,31 @@ This section is entirely optional. Sometimes students are interested to write th
 
 ## Abstract.
 
-An abstract is a catchy ultra-summary of 100 to 200 words that synthesize the entire document including the main results or findings. This is why the abstract is normally written and rewritten close to the end of the document production. A good abstract is concise, succinct, and should be enough to get a pretty good and clear idea about what the research project is about without the need of reading the entire document. In fact, I argue that a potential reader can decide whether to read the whole document or not simply by reading the abstract. An abstract is not a summary of the introduction section, it is not an executive summary, it is rather a synthesis of the whole document. I also recommend you to include a JEL (Journal of Economic Literature) classification system because it is a standard method of classifying scholarly literature in the field of economics (finance is a field within economics). This system is used to classify articles, dissertations, books, book reviews, and working papers in EconLit, and in many other applications. For further descriptions and examples, just Google the JEL Codes Guide. 
+An abstract is a catchy text of 100 to 200 words that synthesize the entire document including the main results or findings. It aims to persuade readers to read the full document, it acts as a shop window, enticing people to step inside. This is why the abstract is normally written and rewritten close to the end of the document production. A good abstract is concise, succinct, and should be enough to get a pretty good and clear idea about what the research project is about without the need of reading the entire document. In fact, I argue that a potential reader can decide whether to read the whole document or not simply by reading the abstract. 
+
+An abstract is not a summary of the introduction section, it is not an executive summary, it is rather a synthesis of the whole document. This is a good illustration to differentiate a summary from a synthesis.
+
+```{r echo=FALSE, out.width="70%", fig.align="center"}
+knitr::include_graphics('./1684493042574.jpg')
+```
 
 An abstract includes what is your paper/project about, why it is relevant, how did you do it, what did you find, and why your findings are important. The following is an example of a nice 95 words abstract by @fama1993common. Please note how effectively the authors communicate their influential contribution using a clear language and a straightforward writing style.
 
 *This paper identifies five common risk factors in the returns on stocks and bonds. There are three stock-market factors: an overall market factor and factors related to firm size and book-to-market equity. There are two bond-market factors, related to maturity and default risks. Stock returns have shared variation due to the stock-market factors, and they are linked to bond returns through shared variation in the bond-market factors. Except for low-grade corporates, the bond-market factors capture the common variation in bond returns. Most important, the five factors seem to explain average returns on stocks and bonds.*
 
 After reading this abstract, everyone would be clear about whether to continue reading or not depending on their own interests. 
+
+The following points should always be featured.
+
+**Purpose** This is where you explain ‘why’ you undertook this study. If you are presenting new or novel research, explain the problem that you have solved. If you are building upon previous research, briefly explain why you felt it was important to do so. This is your opportunity to let readers know why you chose to study this topic or problem and its relevance. Let them know what your key argument or main finding is.
+
+**Study design/methodology/approach** This is ‘how’ you did it. Let readers know exactly what you did to reach your results. For example, did you undertake interviews? Did you carry out an experiment in the lab? What tools, methods, protocols or datasets did you use?
+
+**Findings** Here you can explain ‘what’ you found during your study, whether it answers the problem you set out to explore, and whether your hypothesis was confirmed. You need to be very clear and direct and give exact figures, rather than generalise. It is important not to exaggerate or create an expectation that your paper do not fulfill. 
+
+**Originality/value** This is your opportunity to make a clear and succinct case for the value of your results. It is a good idea to ask colleagues whether your analysis is balanced and fair and again, it is important not to exaggerate. You can also reflect on what future research steps could be.
+
+I also recommend you to include a JEL (Journal of Economic Literature) classification system because it is a standard method of classifying scholarly literature in the field of economics (finance is a field within economics). This system is used to classify articles, dissertations, books, book reviews, and working papers in EconLit, and in many other applications. For further descriptions and examples, just Google the JEL Codes Guide. 
 
 As an alternative, you may substitute the abstract by an executive summary of no more than one page long.
 
@@ -54,7 +72,7 @@ Common mistakes that you must avoid in writing this section includes:
 
 ## Literature review.
 
-In the literature review you discuss how your own problem has been tackled in the past by other researchers and how your approach fits, complement, innovate, or extend the current knowledge or evidence about the topic. The literature review provides a rationale for your research in terms of what has been done in the past. In this section you should demonstrate that you understand very well what others have done and that you are clear about how your own view and approach differs from theirs.
+The literature review is a description of work that has already been published in a particular field or on a specific topic. In the literature review you discuss how your own problem has been tackled in the past by other researchers and how your approach fits, complement, innovate, or extend the current knowledge or evidence about the topic. The literature review provides a rationale for your research in terms of what has been done in the past. In this section you should demonstrate that you understand very well what others have done and that you are clear about how your own view and approach differs from theirs.
 
 In the literature review you explain how your project makes a clear contribution. You will need to support your own work based on some references related with your project and these references are expected to be published in recognized research papers. Not only that, I recommend that your references are from high-quality journals according to the Chartered Association of Business Schools (three stars and above), or SJR (Scientific Journal Rankings). Published papers in high-quality journals are not the most difficult to understand, they are simply the more interesting, the ones with significant impact in the field, the ones that concentrate the most significant contributions, and the ones in which you will find the most influential authors. 
 
@@ -66,6 +84,7 @@ To establish your credibility, your literature review will typically need to do 
 -	Highlight key issues essential to your own research.
 -	Synthesize the main themes and arguments of a particular body of literature.
 -	Produce a brief historical survey or other context information in order to situate your research.
+- Avoid list and paraphrase the content of the papers involved. Your review should show evidence of evaluation, and explore relationships between the material so that key themes emerge.
 
 At the beginning, you might have some difficulties at finding those papers that you need to include in the literature review section. This is perfectly normal, do not feel too bad about it. There are many ways to start your search for literature including the university electronic library. However, my first recommendation here is to use the Google Scholar site (it must be the “scholar” site), this site allows you to look for published papers in a specific time frame, find papers of specific authors, and even look for papers that has a specific paper as a reference (forward looking). This is, if you find a good 2020 paper, you can ask Google Scholar to show 2021 to 2024 papers that includes the 2020 paper in their reference section, which is nice and useful. Please spend some time on Google Scholar and get familiar with this search engine designed to help researchers. 
 
@@ -107,6 +126,8 @@ knitr::include_graphics('./step.jpg')
 One common mistake is to include procedures, equations or tests that are not used in the results section. 
 
 ## Results. 
+
+Are the results well-presented and have they been correctly interpreted? Is the analysis sufficiently rigorous? These are the typical questions that are expected to be addressed in the results section. 
 
 This section includes tables, plots, interactive plots, diagrams, graphs, and other complementary tools to show the results that will help you to meet your initial objectives, contrast your main hypothesis, and answer your research question as clearly, as explicit, and as complete as possible. This section will show the quality of the execution of the empirical exercise and methodology. Please bear in mind that the whole project should have clearly defined numbered sections and subsections. The equations, tables and figures should be properly numbered as well for an easier reference.
 
@@ -213,6 +234,13 @@ When reporting on your findings, however, do not merely list or repeat them from
 -	Is there anything unusual about any of my findings needing special mention and why?
 -	Has my methodology or anything else affected my interpretation of findings and is this something that needs to be discussed?
 -	Any other questions important for your research?
+
+Avoid the following mistakes:
+
+- Start a new topic or introduce new material.
+- Repeat the introduction.
+- Make obvious statements. 
+- Contradict anything you said earlier.
 
 ## References.
 
