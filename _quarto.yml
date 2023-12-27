@@ -1,4 +1,4 @@
-title: Supervision guide.
+title: Supervision guide. {{< fa graduation-cap >}}
 
 author: Dr. Martín Lozano.
 date-modified: now
@@ -17,7 +17,7 @@ format:
     toc: true
     toc-title: Contents
     smooth-scroll: true
-    code-fold: true
+    code-fold: false
     code-tools:
       source: false
       toggle: true
