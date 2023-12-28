@@ -1,5 +1,5 @@
 title: Supervision guide. {{< fa graduation-cap >}}
-
+# quarto add quarto-ext/fontawesome
 author: Dr. Martín Lozano.
 date-modified: now
 date-format: "MMMM D, YYYY, HH:mm:ss a."
