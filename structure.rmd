@@ -148,7 +148,9 @@ colnames(x2) <- c("f1", "f2")
 
 For illustrative purposes, this is a 10,000 simulation of a multivariate normal distribution.
 
-```{r fig.cap="A simple graph using the plot() funcion in R."}
+```{r}
+#| label: fig-asputpfir
+#| fig-cap: "A simple graph using the plot() funcion in R."
 par(pty = "s") # Figures are shown in a perfect square (not a rectangle).
 plot(x2, pch = ".", cex = 1) 
 legend("bottomright", legend = c(paste(nrow(x2))), bty = "n")
@@ -156,7 +158,9 @@ legend("bottomright", legend = c(paste(nrow(x2))), bty = "n")
 
 A density view.
 
-```{r fig.cap="A density view using ggplot() function in R."}
+```{r}
+#| label: fig-advugfir
+#| fig-cap: "A density view using ggplot() function in R."
 library(ggplot2)
 ggplot(x2, aes(x = f1, y = f2) ) +
   stat_density_2d(aes(fill = ..level..), geom = "polygon", 
@@ -173,7 +177,9 @@ embed_url("https://youtu.be/3p-B19R8RwA")
 
 And a fourth interactive version.
 
-```{r fig.cap="An interactive view."}
+```{r}
+#| label: fig-aiv
+#| fig-cap: "An interactive view."
 library(mnormt)
 library(tidyverse)
 library(plotly)

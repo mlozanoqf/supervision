@@ -1,5 +1,15 @@
 # Sobre PEF.
 
+El desarrollo de una tesis como requisito para obtener un grado de licenciatura en el área de negocios es crucial por varias razones. En primer lugar, la elaboración de una tesis brinda a los estudiantes la oportunidad de aplicar y perfeccionar sus habilidades de investigación, incidiendo en la importancia del método científico. Este enfoque estructurado no solo contribuye a la rigurosidad académica, sino que también inculca la capacidad de abordar problemas empresariales de manera sistemática y eficiente.
+
+Además, el proceso de elaborar una tesis implica la identificación y análisis profundo de problemas relevantes en el ámbito empresarial. Al enfrentarse a estos desafíos, los estudiantes adquieren una comprensión más profunda de la industria, mejoran sus habilidades analíticas y desarrollan la capacidad de proponer soluciones innovadoras.
+
+La tesis también fomenta el pensamiento crítico y la habilidad para sintetizar información, aspectos esenciales en el mundo empresarial. Al finalizar este proyecto, los estudiantes habrán demostrado no solo su conocimiento teórico sino también su capacidad para aplicar conceptos en situaciones prácticas. En resumen, la elaboración de una tesis en el área de negocios no solo es un requisito académico, sino un proceso formativo que potencia habilidades de investigación, fomenta el pensamiento crítico y prepara a los futuros profesionales para abordar problemas empresariales de manera más eficiente y efectiva.
+
+
+Buena parte de los entregables en este curso se realizarán en Quarto. Esta plataforma se destaca significativamente sobre alternativas como MS-Word. Quarto ofrece funcionalidades avanzadas que optimizan la gestión de información y la presentación de datos complejos. Su capacidad para integrar datos dinámicos, gráficos y análisis en el documento mismo mejora la visualización de información clave. Además, la automatización de tareas repetitivas y la eficiencia en la creación y edición de documentos permiten un flujo de trabajo más rápido y preciso. En un entorno empresarial competitivo, la superioridad de Quarto no solo aumenta la productividad, sino que también contribuye a una toma de decisiones informada y a la generación de documentos de alta calidad, destacando así la profesionalidad y eficacia del equipo.
+
+
 ## PEF1.
 
 - Bienvenidos a PEF1.
@@ -22,6 +32,7 @@
 - En el momento en que su anteproyecto de PEF1 esté autorizado comienza PEF2.
 - En PEF2 deben contactar a su supervisor para organizar la forma de trabajo.
 - Se espera que su proyecto PEF sea una continuación de su trabajo en PEF1 pero eso lo deben discutir con su supervisor.
+- Se espera que su proyecto PEF esté elaborado en Quarto, pero eso lo deben decidir con su supervisor.
 - Su supervisor les informará sobre los lineamientos de PEF2.
 
 # `r fontawesome::fa("calendar-alt")` Calendario. 

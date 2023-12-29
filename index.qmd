@@ -45,6 +45,6 @@ This document took `r round(as.numeric((a$toc-a$tic)), 2)` seconds to compile in
 ```{r strategies, child = 'schedule.Rmd'}
 ```
 
-# `r fontawesome::fa("book-open")` References.
+# `r fontawesome::fa("book-open")` References. {.unnumbered}
 ::: {#refs}
 :::
