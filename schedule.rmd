@@ -1,4 +1,4 @@
-# Sobre PEF.
+# `r fontawesome::fa("graduation-cap")` Sobre PEF.
 
 El desarrollo de una tesis como requisito para obtener un grado de licenciatura en el área de negocios es crucial por varias razones. En primer lugar, la elaboración de una tesis brinda a los estudiantes la oportunidad de aplicar y perfeccionar sus habilidades de investigación, incidiendo en la importancia del método científico. Este enfoque estructurado no solo contribuye a la rigurosidad académica, sino que también inculca la capacidad de abordar problemas empresariales de manera sistemática y eficiente.
 
