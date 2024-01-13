@@ -55,7 +55,7 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zo
 - Actividad: Confirmar si te faltan seis materias o menos para completar su plan de estudios.
 - Actividad: Reportar avances en la formación de equipos, definición del tema y asignación de asesor(a).
 - Tema: Tecnologías para la producción de documentos científicos.
-- Actividad: Instalar R, RStudio, ¿cómo producir documentos PDF en Quarto?
+- Actividad: Instalar R, RStudio, ¿cómo producir documentos PDF en Quarto? Siga estas instrucciones de Wei Miao para instalar los programas en tu computadora: [Instrucciones escritas](https://weim-mkt.github.io/UCLMarketingAnalytics/R-installR.html). Aquí están las mismas instrucciones explicadas por Wei Miao en un video: [Instrucciones en video](https://www.youtube.com/watch?v=AP0R88qqmpI).
 - Tema: Temas de investigación en finanzas.
 - Actividad: Discusión de video. [Finding Research Topics - Robert Marquez](https://youtu.be/TuxcX4V0d08?si=B1Y6Dqb2frx2ZACV)
 
