@@ -85,7 +85,7 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zo
 
 - Tarea 4: Entregar la tarea 3 con comentarios y un enlace de YouTube con un elevator pitch. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 6. El documento PDF debe estar producido en Quarto. El documento debe ser el mismo que el de la tarea 3. Identifiquen claramente los cambios y mejoras que incorporaron en la primera página. El elevator pitch es una grabación de su presentación de máximo 2 minutos en donde todos los miembros del equipo participan para explicar su proyecto. La grabación es sin apoyos visuales. Ponderación 10% de la calificación final.
 - Ejemplo de un elevator pitch: [PhD Elevator Pitch Presentation by Fabienne Cheung](https://youtu.be/nayGkMLM9as?si=GaJSIR20lqTKod5h)
-- Actividad: Recibir retroalimentación de las tareas 4 y 5.
+- Actividad: Recibir retroalimentación de la tarea 4.
 - Tema: Habilidades para presentación.
 - Actividad: Discusión de video. [Academic Skills - Presenting Effectively - Part 1](https://youtu.be/pNIO5KkIq7Y?si=JGbpaWCQfVnQrdH2)
 - Actividad: Discusión de video. [Academic Skills - Presenting Effectively - Part 2](https://youtu.be/O-D9fZN01yk?si=bbA8WRbQCqTRX2p_)
@@ -96,7 +96,7 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zo
 - Tarea 5: Presentar introducción, literatura y metodología. Presentaciones con apoyos visuales en clase. Máximo 15 minutos por equipo. Presentación presencial. Ponderación 10% de la calificación final.
 - Actividad: Recibir retroalimentación de la tarea 5.
 - Actividad: Revisar la rúbrica de la entrega final.
-- Actividad: Completar auto y coevaluación 1 tareas 1 al 5. Se asigna una auto y coevaluación por tarea. Si la calificación asignada por el profesor es mayor o igual a 70, la media de la auto y coevaluación asingada por el equipo es mayor o igual a 70, y no se recibe un cero por parte de algún integrante del equipo entonces la calificación individual de la tarea se calcula como 70% de la calificación asignada por el profesor y 30% la media de la auto y coevaluación. De lo contrario, se calcula como la mínima entre la calificación asignada por el profesor y la media de la auto y coevaluación.
+- Actividad: Completar auto y coevaluación 1 tareas 1 al 5. Se asigna una auto y coevaluación por tarea. Si la calificación asignada por el profesor es mayor o igual a 70, la media de la auto y coevaluación asingada por el equipo es mayor o igual a 70, y no se recibe un cero por parte de algún integrante del equipo entonces la calificación individual de la tarea se calcula como 70% de la calificación asignada por el profesor y 30% la media de la auto y coevaluación. De lo contrario, se calcula como la mínima entre la calificación asignada por el profesor y la media de la auto y coevaluación. El enlace estará disponible en Blackboard en la sección "entregas" desde las 7pm de la sesión 7 hasta las 10am del lunes 26 de febrero.
 - Reporte de calificaciones primer parcial.
 
 ## `r fontawesome::fa("battery-half")` Parte 2.
