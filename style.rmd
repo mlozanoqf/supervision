@@ -17,7 +17,19 @@ Group projects can provide particular interpersonal challenges, as teams cope wi
 
 **Avoid using several and mixed verb tenses.** I recommend you to use the simple present tense in most of your document. Keep the writing simple, straight, and clear. Complicated writing is often confusing. Sometimes the student thinks that a complex text is more formal or elegant and this is the opposite. Complex writing makes you sound small-minded. Simpler text is often more difficult to achieve but it is preferred in terms of clarity. Use past and future tense only in very limited cases and avoid contractions.
 
+Mixed Verb Tenses:
+By the time you finish your dissertation, you will have learned so much, and you might have been reflecting on the journey that has brought you here, which started years ago when you first decided to pursue this degree. This mixture of past, present perfect, and future tenses can confuse readers and obscure the timeline of events.
+
+Simple Present Tense:
+You learn a lot during your dissertation, and you reflect on the journey that starts when you decide to pursue this degree. Using the simple present tense keeps the timeline clear and makes the message easier to understand.
+
 **Use the active voice.** In English, readers prefer the SVO sentence sequence: subject, verb, object. This is the active voice. For example: Passive sentences bore people. When you reverse the active sequence, you have the OVS or passive sequence: object, verb, subject. For example: People are bored by passive sentences. You cannot always use the active voice, but most writers should use it more often. In short, the more you read the better you write. In academic writing this applies very well, your writing will improve considerably if you consciously read high quality published papers. My recommendation is to use active voice.
+
+Passive Voice:
+The results of the experiment were analyzed, and conclusions were drawn based on the data collected, which was then presented in the report. This passive construction can obscure clarity and make it unclear who performed the actions.
+
+Active Voice:
+We analyzed the results of the experiment, drew conclusions based on the collected data, and presented them in the report. Using active voice clarifies who performed the actions and makes the writing more direct and engaging.
 
 **Detail.** You are expected to write detailed explanations of what you are doing in your project. Most of the times when I review your drafts, I insist on this point several times. You must motivate and introduce every idea, explain it fully, elaborate on the nature of your objectives, and be very explicit in your methodology. You must show how well you understand the topics in your project and a detailed discussion helps you to achieve this objective. Consider the following example: (1) I grow lots of flowers in my backyard; (2) I grow 34 varieties of flowers in my backyard, including pink coneflowers, purple asters, yellow daylilies, Shasta daisies, and climbing clematis. Clearly (2) is more interesting than (1) simply because more details are provided and I can even imagine your backyard very clearly.
 

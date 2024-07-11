@@ -11,6 +11,8 @@ rm(list=ls())
 
 Your project will be formed by one single document. A typical project structure is formed by: title, abstract, introduction, literature review, methodology, results, conclusion, and references. Although this is the physical order of your document, we usually write it in different order. In my experience, you should start with the literature review as you need to understand what has been done in the past, then you start producing some basic results or preliminary analysis. Once you have some clear progress in these two sections you write the methodology, introduction, conclusion and the abstract. 
 
+Writing a dissertation in the order of appearance of the sections is impractical because the research process is iterative and non-linear. Key sections like the introduction and conclusion require insights from your results and discussion to be meaningful and accurately framed. Additionally, the development of ideas, literature review, and methodology often evolve as new data and analysis emerge, necessitating revisions across multiple sections. Therefore, a flexible approach allows for continuous refinement and coherence, ensuring that each section effectively supports the overall argument and findings of the dissertation.
+
 
 ## Title and cover page.
 
@@ -40,13 +42,13 @@ After reading this abstract, everyone would be clear about whether to continue r
 
 The following points should always be featured.
 
-**Purpose** This is where you explain ‘why’ you undertook this study. If you are presenting new or novel research, explain the problem that you have solved. If you are building upon previous research, briefly explain why you felt it was important to do so. This is your opportunity to let readers know why you chose to study this topic or problem and its relevance. Let them know what your key argument or main finding is.
+**Purpose.** This is where you explain ‘why’ you undertook this study. If you are presenting new or novel research, explain the problem that you have solved. If you are building upon previous research, briefly explain why you felt it was important to do so. This is your opportunity to let readers know why you chose to study this topic or problem and its relevance. Let them know what your key argument or main finding is.
 
-**Study design/methodology/approach** This is ‘how’ you did it. Let readers know exactly what you did to reach your results. For example, did you undertake interviews? Did you carry out an experiment in the lab? What tools, methods, protocols or datasets did you use?
+**Study design/methodology/approach.** This is ‘how’ you did it. Let readers know exactly what you did to reach your results. For example, did you undertake interviews? Did you carry out an experiment in the lab? What tools, methods, protocols or datasets did you use?
 
-**Findings** Here you can explain ‘what’ you found during your study, whether it answers the problem you set out to explore, and whether your hypothesis was confirmed. You need to be very clear and direct and give exact figures, rather than generalise. It is important not to exaggerate or create an expectation that your paper do not fulfill. 
+**Findings.** Here you can explain ‘what’ you found during your study, whether it answers the problem you set out to explore, and whether your hypothesis was confirmed. You need to be very clear and direct and give exact figures, rather than generalise. It is important not to exaggerate or create an expectation that your paper do not fulfill. 
 
-**Originality/value** This is your opportunity to make a clear and succinct case for the value of your results. It is a good idea to ask colleagues whether your analysis is balanced and fair and again, it is important not to exaggerate. You can also reflect on what future research steps could be.
+**Originality/value.** This is your opportunity to make a clear and succinct case for the value of your results. It is a good idea to ask colleagues whether your analysis is balanced and fair and again, it is important not to exaggerate. You can also reflect on what future research steps could be.
 
 I also recommend you to include a JEL (Journal of Economic Literature) classification system because it is a standard method of classifying scholarly literature in the field of economics (finance is a field within economics). This system is used to classify articles, dissertations, books, book reviews, and working papers in EconLit, and in many other applications. For further descriptions and examples, just Google the JEL Codes Guide. 
 
@@ -69,6 +71,8 @@ Common mistakes that you must avoid in writing this section includes:
 -	Remember the introduction is not a summary of your work. The introduction is rather an opportunity to engage the reader and reveal why he or she should spend time reading your project. You are writing for your reader, not for you, not for your supervisor.
 -	Confusing introduction. Sometimes you add many topics in the introduction that do not fully correspond to your own main objectives. If this happens, then the reader will be confused about what is your project about, the reader might misunderstand what is your main point. In order to avoid this, make sure that your introduction contents are very clearly and closely related to your main objectives. This will help you to avoid inconsistencies and confusions.
 - You may also unintentionally announce that you do a lot of things in your project whereas you do less or different things. If this happens, the reader will be disappointed and confused.
+- In a dissertation, the introduction should focus on providing context for the specific research problem, outlining its significance, and presenting the research objectives. It is not expected to cover extremely basic and fundamental issues, such as the definition of finance or its history before civilization, as these are assumed to be common knowledge for the intended academic audience. The introduction should directly relate to the specific study, setting the stage for the research without delving into overly elementary concepts.
+
 
 ## Literature review.
 
