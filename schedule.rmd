@@ -1,33 +1,33 @@
-# `r fontawesome::fa("graduation-cap")` Sobre PEF.
+# `r fontawesome::fa("graduation-cap")` UDEM: PEF.
 
-El desarrollo de una tesis como requisito para obtener un grado de licenciatura en el área de negocios es crucial por varias razones. En primer lugar, la elaboración de una tesis brinda a los estudiantes la oportunidad de aplicar y perfeccionar sus habilidades de investigación, incidiendo en la importancia del método científico. Este enfoque estructurado no solo contribuye a la rigurosidad académica, sino que también inculca la capacidad de abordar problemas empresariales de manera sistemática y eficiente.
+El desarrollo de una tesis como requisito para obtener un grado de licenciatura en el área de negocios es crucial por varias razones. En primer lugar, la elaboración de una tesis brinda a los estudiantes la oportunidad de adquirir, aplicar y perfeccionar sus habilidades de investigación, incidiendo en la importancia del método científico en su preparación profesional. Este enfoque estructurado no solo contribuye a la rigurosidad académica, sino que también inculca la capacidad de abordar problemas empresariales de manera sistemática y eficiente.
 
-Además, el proceso de elaborar una tesis implica la identificación y análisis profundo de problemas relevantes en el ámbito empresarial. Al enfrentarse a estos desafíos, los estudiantes adquieren una comprensión más profunda de la industria, mejoran sus habilidades analíticas y desarrollan la capacidad de proponer soluciones innovadoras.
+Además, el proceso de elaborar una tesis implica la identificación y análisis profundo de problemas relevantes en el ámbito empresarial. Al enfrentarse a estos desafíos, los estudiantes adquieren una comprensión más profunda de la industria, mejoran sus habilidades analíticas y desarrollan la capacidad de proponer soluciones innovadoras a problemas que existen y a problemas que apenas se están gestando.
 
 La tesis también fomenta el pensamiento crítico y la habilidad para sintetizar información, aspectos esenciales en el mundo empresarial. Al finalizar este proyecto, los estudiantes habrán demostrado no solo su conocimiento teórico sino también su capacidad para aplicar conceptos en situaciones prácticas. En resumen, la elaboración de una tesis en el área de negocios no solo es un requisito académico, sino un proceso formativo que potencia habilidades de investigación, fomenta el pensamiento crítico y prepara a los futuros profesionales para abordar problemas empresariales de manera más eficiente y efectiva.
 
+En la UDEM, los estudiantes desarrollan su PEF en sus últimos dos semestres de sus estudios profesionales. En el penúltimo cursan PEF1 y en el último PEF2. En PEF1 se desarrolla la propuesta de investigación y en PEF2 se implementa la investigación.
 
 Buena parte de los entregables en este curso se realizarán en Quarto. Esta plataforma se destaca significativamente sobre alternativas como MS-Word. Quarto ofrece funcionalidades avanzadas que optimizan la gestión de información y la presentación de datos complejos. Su capacidad para integrar datos dinámicos, gráficos y análisis en el documento mismo mejora la visualización de información clave. Además, la automatización de tareas repetitivas y la eficiencia en la creación y edición de documentos permiten un flujo de trabajo más rápido y preciso. En un entorno empresarial competitivo, la superioridad de Quarto no solo aumenta la productividad, sino que también contribuye a una toma de decisiones informada y a la generación de documentos de alta calidad, destacando así la profesionalidad y eficacia del equipo.
 
 
 ## PEF1.
 
-- Bienvenidos a PEF1.
-- La clase de PEF1 es equivalente a MIN (Métodos de Investigación en Negocios). El grupo es exclusivo para LFI aunque pueden haber excepciones autorizadas por la dirección de carrera y/o departamento.
-- Yo (Dr. Martín Lozano) soy el profesor asignado a la clase de MIN, ustedes como equipo deben buscar a un profesor que esté interesado en supervisar su PEF2.
-- El número de integrantes por equipo es 4. En caso de que no se completen los equipos, la dirección de carrera y/o departamento autorizarán equipos con otras carreras o un número de integrantes distinto.
-- Las secciones previas de este documento es material que siguen mis alumnos de PEF2 o alumnos de posgrado de otras universidadaes. Con lo cual, no es material oficial que deban seguir en PEF2.
-- En principio, su supervisor de PEF2 se incorpora con el equipo hasta que el anteproyecto de PEF1 esté aprobado. Pero en ocasiones su supervisor puede decidir participar antes.
-- Su proyecto, entregas y presentaciones en MIN pueden ser en español o inglés, eso lo deben consultar con su supervisor de PEF2.
-- La Biblioteca cuenta con recursos valiosos para completar su proyecto.
-- Las actividades de la clase MIN no son independientes. Se requiere completar la primera para continuar con la segunda y así sucesivamente.
-- A diferencia de PEF2, en PEF1 la retroalimentación y comentarios que haga a un equipo pueden servir de guía a otros equipos.
-- Todos los comentarios deben tomarlos como retroalimentación, no como una crítica destructiva. Estamos colaborando, no compitiendo. Estamos en paz, no en conflicto.
-- Siempre pueden solicitar que clarifique mis comentarios en caso de que no se comprendan bien. 
-- No tenemos políticas sobre entregas tardías. Si no entregan a tiempo se califica con cero.
-- El número de faltas máximo permitido de acuerdo al reglamento de estudiantes es 2.
+Bienvenidos a PEF1, el nombre oficial del curso es Métodos de Investigación en Negocios (MIN), y este grupo es exclusivo para LFI, aunque algunas otras carreras lo pueden cursar con la autorización de la dirección de carrera y/o departamento académico. Usaré MIN o PEF1 de manera indistinta para referirme a este curso. Una vez que su proyecto de PEF1 sea aprobado por un comité de profesores después de segundos parciales, ustedes cursarán PEF2 el siguiente semestre, que es el periodo en donde trabajan con su supervisor y que culmina con la presentación final de su PEF en el semestre de su graduación. 
 
-## PEF2.
+Antes de iniciar, es importante verificar que el siguiente semestre sea el último de tus estudios profesionales, si no es así entonces debes contactar a la dirección de carrera porque es posible que no debas estar inscrito en este grupo. En particular, debes confirmar que te faltan seis materias o menos para completar tu plan de estudios.
+
+Mi nombre es Dr. Martín Lozano y soy el profesor asignado a la clase de MIN. También superviso equipos de PEF, con lo cual es posible que para algunos de ustedes sea profesor de MIN y además supervisor de su proyecto PEF en este semestre y el siguiente semestre en PEF2. Las secciones previas a este documento es material que siguen mis alumnos de PEF2 y mis alumnos de posgrado de otras universidades. Con lo cual, no es material oficial que deban seguir en PEF2 a menos que yo sea su supervisor.
+
+Una vez que esté verificado que pertenezcas a este grupo, lo siguiente que debes hacer es formar un equipo de cuatro personas con quienes harás el proyecto PEF. En caso de que no se completen los equipos, la dirección de carrera y/o departamento académico autorizarán equipos con otras carreras o un número de integrantes distinto. Cuando el equipo esté completo deben conseguir a un supervisor. En concreto, deben buscar y contactar a un profesor que esté interesado y que pueda supervisar su proyecto de PEF. Administrativamente, el supervisor (o también llamado asesor) se incorpora al equipo hasta que el anteproyecto de PEF1 esté aprobado por un comité de profesores, pero en ocasiones su supervisor puede decidir participar activamente desde PEF1. Como ustedes saben, cada profesor tiene una forma de trabajar distinta, pero recomiendo que al abordar a su potencial supervisor de PEF ustedes ya tengan una idea sobre el proyecto que quieren hacer. Eso facilitaría el proceso de búsqueda de supervisor. En cualquier caso, deben saber que las actividades de MIN las califico yo (Dr. Martín Lozano) y su desempeño en PEF2 lo califica su supervisor de PEF. 
+
+El objetivo principal de MIN es ayudar a los equipos a que tengan una propuesta de PEF tan sólida, clara e interesante, que el comité de profesores no tenga duda en aprobarla y así el equipo pueda continuar con PEF2 el siguiente semestre. Para lograr el objetivo, tenemos actividades en el curso de MIN, y retroalimentación sobre la velocidad y calidad de sus avances.
+
+Las actividades de MIN no son independientes. Esto significa que se requiere completar la primera para continuar con la segunda y así sucesivamente. Su proyecto, entregas y presentaciones en MIN pueden ser en español o inglés, sugiero que eso lo consulten en su equipo y lo acuerden con su supervisor de PEF. En MIN no tenemos políticas sobre entregas tardías porque las actividades son responsabilidad del equipo, y si no se entregan a tiempo se califica con cero. Como en otras clases de la misma frecuencia, el número de faltas máximo permitido de acuerdo al reglamento de estudiantes es 2.
+
+Completar una propuesta de investigación que sea aprobada por un comité de profesores no es sencillo porque a pesar de que los criterios de evaluación son los mismos y están disponibles para profesores y estudiantes, los profesores tienen visiones distintas sobre los proyectos. Eso significa que para un profesor un criterio puede determinar la calificación de manera significativa mientras que para otro profesor no representa un problema grave. Por esta razón, la retroalimentación que yo haga a sus actividades durante clase están orientadas a ayudarlos a comprender los criterios de evaluación del comité de profesores. Los comentarios que ustedes reciban sobre sus actividades deben ayudarlos a ajustar sus criterios y alinearlos con los criterios del comité de profesores. En este sentido, los comentarios que haga a un equipo pueden servir de guía a otros equipos. Recibir comentarios negativos puede resultar frustrante, pero no deben tomarlos como una crítica destructiva. En MIN estamos colaborando, no compitiendo, estamos en paz, no en conflicto.
+
+Transición de PEF1 a PEF2.
 
 - En el momento en que su anteproyecto de PEF1 esté autorizado comienza PEF2.
 - En PEF2 deben contactar a su supervisor para organizar la forma de trabajo.
@@ -35,7 +35,7 @@ Buena parte de los entregables en este curso se realizarán en Quarto. Esta plat
 - Se espera que su proyecto PEF esté elaborado en Quarto, pero eso lo deben decidir con su supervisor.
 - Su supervisor les informará sobre los lineamientos de PEF2.
 
-# `r fontawesome::fa("calendar-alt")` Calendario. 
+# `r fontawesome::fa("calendar-alt")` UDEM: Calendario MIN. 
 
 MIN, Primavera 2024. Salón 2301, 19:00 – 22:00.
 
@@ -150,3 +150,14 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zo
 **Sesión 17. `r fontawesome::fa("female")` Jueves 9 de mayo.**
 
 - Resultados.
+
+# `r fontawesome::fa("calendar-alt")` UDEM: Calendario PEF2. 
+
+Junta inicial para determinar los primeros pasos.
+Invitación a dos sinodales.
+Determinar las fechas de las presentaciones de medio término y la presentación final.
+Reserva de salas para las presentaciones de medio término y la final.
+Reserva de la hora en la que van a pasar a la campana.
+Auto y coevaluación del primer, segundo y tercer parcial.
+Presentaciones tipo ensayo en mis grupos presenciales.
+Registro del proyecto en Biblioteca.
