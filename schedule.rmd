@@ -37,127 +37,161 @@ Transición de PEF1 a PEF2.
 
 # `r fontawesome::fa("calendar-alt")` UDEM: Calendario MIN. 
 
-MIN, Primavera 2024. Salón 2301, 19:00 – 22:00.
+MIN, Otoño 2024. Salón 3307, 19:00 – 22:00.
 
-Zoom URL para unirse: [https://us02web.zoom.us/j/81740468129](https://us02web.zoom.us/j/81740468129)
+Zoom URL para unirse: [https://us02web.zoom.us/j/85043719169](https://us02web.zoom.us/j/85043719169)
 
 ## `r fontawesome::fa("battery-quarter")` Parte 1.
 
-**Sesión 1. `r fontawesome::fa("handshake")` Jueves 11 de enero.**
+**Sesión 1. `r fontawesome::fa("handshake")` Lunes 5 de agosto.**
 
 - Bienvenida.
 - ¿Tienes equipo, tema y asesor(a)?
 - Tema: Tipos de tesis, su estructura y expectativas sobre su trabajo.
 - Tema: Uso de [Google Scholar](https://scholar.google.com/) en la definición del tema y bases de datos.
 
-**Sesión 2. Jueves 18 de enero.**
+**Sesión 2. Lunes 12 de agosto.**
 
 - Actividad: Confirmar si te faltan seis materias o menos para completar su plan de estudios.
 - Actividad: Reportar avances en la formación de equipos, definición del tema y asignación de asesor(a).
 - Tema: Tecnologías para la producción de documentos científicos.
-- Actividad: Instalar R, RStudio, ¿cómo producir documentos PDF en Quarto? Siga estas instrucciones de Wei Miao para instalar los programas en tu computadora: [Instrucciones escritas](https://weim-mkt.github.io/UCLMarketingAnalytics/R-installR.html). Aquí están las mismas instrucciones explicadas por Wei Miao en un video: [Instrucciones en video](https://www.youtube.com/watch?v=AP0R88qqmpI).
+- Actividad opcional: Instalar R, RStudio, ¿cómo producir documentos PDF en Quarto? Siga estas instrucciones de Wei Miao para instalar los programas en tu computadora: [Instrucciones escritas](https://weim-mkt.github.io/UCLMarketingAnalytics/R-installR.html). Aquí están las mismas instrucciones explicadas por Wei Miao en un video: [Instrucciones en video](https://www.youtube.com/watch?v=AP0R88qqmpI).
 - Tema: Temas de investigación en finanzas.
 - Actividad: Discusión de video. [Finding Research Topics - Robert Marquez](https://youtu.be/TuxcX4V0d08?si=B1Y6Dqb2frx2ZACV)
 
-**Sesión 3. Jueves 25 de enero.**
+**Sesión 3. Lunes 19 de agosto.**
 
-- Tarea 1: Entregar documento PDF con la confirmación de miembros de equipos, tema y asesor. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 3. El documento PDF debe estar producido en Quarto. Ponderación 5% de la calificación final.
-- Tarea 1 anexo: Redactar y firmar un contrato o políticas de trabajo del equipo. Sugiero que incluyan penalizaciones por no contribuir y/o no asistir a sus reuniones de trabajo. Las sanciones pueden ser desde pagar el café, la cena, coevaluaciones bajas, o en caso extremo y con suficiente evidencia la expulsión del equipo. Se entrega junto con la tarea 1.
+- Tarea 1: Entregar documento PDF con: (1) la confirmación de miembros de equipos, tema y asesor, (2) un contrato o políticas de trabajo del equipo. Sugiero que incluyan penalizaciones por no contribuir y/o no asistir a sus reuniones de trabajo. Las sanciones pueden ser desde pagar el café, la cena, coevaluaciones bajas, o en caso extremo y con suficiente evidencia la expulsión del equipo. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 3. Ponderación 5% de la calificación final.
 - Actividad: Retroalimentación de la tarea 1.
 - Tema: ¿Cómo presentar tu proyecto de investigación?
 - Tema: La estructura del documento de tesis: @sec-structure.
 - Actividad: Discusión de video. [https://www.fma.org/virtual-seminar](https://www.fma.org/virtual-seminar)
 - Actividad: Discusión de video. [https://www.fma.org/student-virtual-seminar](https://www.fma.org/student-virtual-seminar)
 
-**Sesión 4. Jueves 1 de febrero, Zoom. **
+**Sesión 4. Lunes 26 de agosto. **
 
-- Tarea 2: Entregar documento PDF con el draft de la revisión literaria. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 4. El documento PDF debe estar producido en Quarto. El documento debe ser el mismo que el de la tarea 1, solo incluyan una nueva sección con el draft de la revisión literaria. Ponderación 5% de la calificación final.
+- Tarea 2: Entregar documento PDF con el draft de la revisión literaria. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 4. El documento debe ser el mismo que el de la tarea 1, solo incluyan una nueva sección con el draft de la revisión literaria. Ponderación 5% de la calificación final.
 - Actividad: Retroalimentación de la tarea 2.
 - Actividad: Discusión de video. [Effective Data Storytelling for Financial Services](https://www.datacamp.com/resources/webinars/effective-data-storytelling-for-financial-services)
 
-**Sesión 5. Jueves 8 de febrero.**
+**Sesión 5. Lunes 2 de septiembre.**
 
-- Tarea 3: Entregar documento PDF con introdución, revisión literaria y metodología. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 5. El documento PDF debe estar producido en Quarto. El documento debe ser el mismo que el de la tarea 2, solo incluyan las nuevas secciones. Ponderación 10% de la calificación final.
+- Tarea 3: Entregar documento PDF con introducción, revisión literaria y metodología. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 5. El documento debe ser el mismo que el de la tarea 2, solo incluyan las nuevas secciones. Ponderación 10% de la calificación final.
 - Actividad: Recibir retroalimentación de la tarea 3.
-- Actividad +5 puntos sobe la calificación del primer parcial. Compartir, reaccionar y/o agregar un comentario en redes sociales. *Retos y oportunidadades en el aprendizaje de ciencia de datos en las escuelas de negocios.* [Episodio en Spotify](https://open.spotify.com/episode/6x8c6XIPIfIPLj1yRhi5D8?si=5s9ik8ffQcW_Sy9NVU5sxg); [episodio en YouTube](https://youtu.be/SKG3Kr-TK-w?si=W5wg2DXluuiEspWC); [publicación en LinkedIn](https://www.linkedin.com/posts/martin-lozano-21818a22_132-retos-y-oportunidades-en-el-aprendizaje-activity-7142212773349945344-1xHL?utm_source=share&utm_medium=member_desktop). Café de Datos, Datlas. Temporada 9, capítulo 132. Subir eviencia (screenshot) al foro de discusión del primer parcial. La hora límite es 7pm de la sesión 5.
+- Actividad +5 puntos sobe la calificación del primer parcial. Compartir, reaccionar y/o agregar un comentario en redes sociales. *Retos y oportunidadades en el aprendizaje de ciencia de datos en las escuelas de negocios.* [Episodio en Spotify](https://open.spotify.com/episode/6x8c6XIPIfIPLj1yRhi5D8?si=5s9ik8ffQcW_Sy9NVU5sxg); [episodio en YouTube](https://youtu.be/SKG3Kr-TK-w?si=W5wg2DXluuiEspWC); [publicación en LinkedIn](https://www.linkedin.com/posts/martin-lozano-21818a22_132-retos-y-oportunidades-en-el-aprendizaje-activity-7142212773349945344-1xHL?utm_source=share&utm_medium=member_desktop). Café de Datos, Datlas. Temporada 9, capítulo 132. Subir eviencia (screenshot) al foro de discusión del primer parcial. La hora límite es 7:00pm de la sesión 5.
 
-**Sesión 6. `r fontawesome::fa("heart", fill = "red")` Jueves 15 de febrero, Zoom.**
+<!-- `r fontawesome::fa("heart", fill = "red")` -->
 
-- Tarea 4: Entregar la tarea 3 con comentarios y un enlace de YouTube con un elevator pitch. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 6. El documento PDF debe estar producido en Quarto. El documento debe ser el mismo que el de la tarea 3. Identifiquen claramente los cambios y mejoras que incorporaron en la primera página. El elevator pitch es una grabación de su presentación de máximo 2 minutos en donde todos los miembros del equipo participan para explicar su proyecto. La grabación es sin apoyos visuales. Ponderación 10% de la calificación final.
-- Ejemplo de un elevator pitch: [PhD Elevator Pitch Presentation by Fabienne Cheung](https://youtu.be/nayGkMLM9as?si=GaJSIR20lqTKod5h)
+**Sesión 6. Lunes 9 de septiembre.**
+
+- Tarea 4: Entregar la tarea 3 con comentarios y un enlace de YouTube con un *elevator pitch*. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 6. El documento debe ser el mismo que el de la tarea 3. Identifiquen claramente los cambios y mejoras que incorporaron en la primera página. El *elevator pitch* es una grabación de su presentación de máximo 2 minutos en donde todos los miembros del equipo participan para explicar su proyecto. La grabación es sin apoyos visuales. Ponderación 10% de la calificación final.
+- Ejemplo de un *elevator pitch*: [PhD Elevator Pitch Presentation by Fabienne Cheung](https://youtu.be/nayGkMLM9as?si=GaJSIR20lqTKod5h)
 - Actividad: Recibir retroalimentación de la tarea 4.
 - Tema: Habilidades para presentación.
 - Actividad: Discusión de video. [Academic Skills - Presenting Effectively - Part 1](https://youtu.be/pNIO5KkIq7Y?si=JGbpaWCQfVnQrdH2)
 - Actividad: Discusión de video. [Academic Skills - Presenting Effectively - Part 2](https://youtu.be/O-D9fZN01yk?si=bbA8WRbQCqTRX2p_)
 - Rueda de la fortuna 1/2.
+- Actividad: Completar auto y coevaluación 1 tareas 1 al 4. Se asigna una auto y coevaluación por tarea. Si la calificación asignada por el profesor es mayor o igual a 70, la media de la auto y coevaluación asingada por el equipo es mayor o igual a 70, y no se recibe un cero por parte de algún integrante del equipo entonces la calificación individual de la tarea se calcula como 70% de la calificación asignada por el profesor y 30% la media de la auto y coevaluación. De lo contrario, se calcula como la mínima entre la calificación asignada por el profesor y la media de la auto y coevaluación. El enlace estará disponible en Blackboard en la sección "entregas" desde las 7:00pm de la sesión 6 hasta las 10:00am del viernes 13 de septiembre.
+- Reporte de calificaciones primer parcial.
 
-**Sesión 7. Jueves 22 de febrero.**
+**Sesión 7. Lunes 23 de septiembre. Zoom.**
 
-- Tarea 5: Presentar introducción, literatura y metodología. Presentaciones con apoyos visuales en clase. Máximo 15 minutos por equipo. Presentación presencial. Ponderación 10% de la calificación final.
+- Tarea 5: Presentar introducción, literatura y metodología. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. Ponderación 10% de la calificación final.
 - Actividad: Recibir retroalimentación de la tarea 5.
 - Actividad: Revisar la rúbrica de la entrega final.
-- Actividad: Completar auto y coevaluación 1 tareas 1 al 5. Se asigna una auto y coevaluación por tarea. Si la calificación asignada por el profesor es mayor o igual a 70, la media de la auto y coevaluación asingada por el equipo es mayor o igual a 70, y no se recibe un cero por parte de algún integrante del equipo entonces la calificación individual de la tarea se calcula como 70% de la calificación asignada por el profesor y 30% la media de la auto y coevaluación. De lo contrario, se calcula como la mínima entre la calificación asignada por el profesor y la media de la auto y coevaluación. El enlace estará disponible en Blackboard en la sección "entregas" desde las 7pm de la sesión 7 hasta las 10am del lunes 26 de febrero.
-- Reporte de calificaciones primer parcial.
 
 ## `r fontawesome::fa("battery-half")` Parte 2.
 
-**Sesión 8. Jueves 29 de febrero.**
+**Sesión 8. Lunes 30 de septiembre.**
 
 - Tarea 6: Presentar anteproyecto para alumnos y/o público externo. Presentaciones con apoyos visuales en clase. Máximo 15 minutos por equipo. Presentación presencial. Ponderación 10% de la calificación final.
 
-**Sesión 9. `r fontawesome::fa("female")` Jueves 7 de marzo.**
+**Sesión 9. Lunes 7 de octubre.**
 
 - Tarea 7: Presentar anteproyecto con comentarios. Presentaciones con apoyos visuales en clase. Máximo 15 minutos por equipo. Presentación presencial. Ponderación 10% de la calificación final.
 - Actividad: Recibir retroalimentación de la tarea 7.
 - Rueda de la fortuna 2/2.
 
-**Sesión 10. $\pi$ Jueves 14 de marzo.**
+**Sesión 10. Lunes 14 de octubre.**
 
-- Actividad: Hacer las grabaciones de las presentaciones. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. Usen el espacio de juntas de la sala de Bloomberg y la pantalla para hacer su grabación. Contacten a José Guadalupe Tamez García <jose.tamez@udem.edu> para separar la sala y para que les preste la cámara, control de la pantalla y cables. 
+- No hay sesión presencial ni por Zoom.
+- Actividad: Hacer las grabaciones de las presentaciones. Aprovechen que todos tienen tiempo libre al menos de 7:00pm a 10:00pm para hacerlo. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. 
 
-**Sesión 11. Jueves 21 de marzo.**
+**Sesión 11. Lunes 21 de octubre.**
 
-- Actividad: Hacer las grabaciones de las presentaciones. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. Usen el espacio de juntas de la sala de Bloomberg y la pantalla para hacer su grabación. Contacten a José Guadalupe Tamez García <jose.tamez@udem.edu> para separar la sala y para que les preste la cámara, control de la pantalla y cables. 
+- No hay sesión presencial ni por Zoom.
+- Actividad: Hacer las grabaciones de las presentaciones. Aprovechen que todos tienen tiempo libre al menos de 7:00pm a 10:00pm para hacerlo. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. 
 
-**Asueto. `r fontawesome::fa("umbrella-beach")` Jueves 28 de marzo.**
+<!-- **Asueto. `r fontawesome::fa("umbrella-beach")` Jueves 28 de marzo.** -->
 
-**Sesión 12. Jueves 4 de abril.**
+**Sesión 12. Lunes 28 de octubre.**
 
-- Tarea 8: Entrega de enlace de videos de YouTube. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7pm de la sesión 12. El documento PDF debe estar producido en Quarto. El documento debe ser el mismo que el de la tarea 4, solo incluyan el enlace del video de YouTube. La descripción del enlace de YouTube debe incluir los nombres de los estudiantes y los apoyos visuales usados en la presentación. Ponderación 10% de la calificación final.
-- Actividad: Completar auto y coevaluación 2 tareas 6 al 8. Se asigna una auto y coevaluación por tarea. Si la calificación asignada por el profesor es mayor o igual a 70, la media de la auto y coevaluación asingada por el equipo es mayor o igual a 70, y no se recibe un cero por parte de algún integrante del equipo entonces la calificación individual de la tarea se calcula como 70% de la calificación asignada por el profesor y 30% la media de la auto y coevaluación. De lo contrario, se calcula como la mínima entre la calificación asignada por el profesor y la media de la auto y coevaluación.
+- No hay sesión presencial ni por Zoom.
+- Tarea 8: Entrega de enlace de videos de YouTube. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 12. El documento debe ser el mismo que el de la tarea 4, solo incluyan el enlace del video de YouTube. Incluyan los apoyos visuales usados en la presentación. Ponderación 10% de la calificación final.
+- Actividad: Completar auto y coevaluación 2 tareas 5 al 8. Se asigna una auto y coevaluación por tarea. Si la calificación asignada por el profesor es mayor o igual a 70, la media de la auto y coevaluación asingada por el equipo es mayor o igual a 70, y no se recibe un cero por parte de algún integrante del equipo entonces la calificación individual de la tarea se calcula como 70% de la calificación asignada por el profesor y 30% la media de la auto y coevaluación. De lo contrario, se calcula como la mínima entre la calificación asignada por el profesor y la media de la auto y coevaluación.
 - Reporte de calificaciones segundo parcial.
 
 ## `r fontawesome::fa("battery-three-quarters")` Parte 3.
 
-**Sesión 13. Jueves 11 de abril.**
+**Sesión 13. Lunes 4 de noviembre.**
 
-- Revisión de los los videos por parte de los profesores del departamento.
-
-**Sesión 14. Jueves 18 de abril.**
-
-- Revisión de los los videos por parte de los profesores del departamento.
-
-**Sesión 15. `r fontawesome::fa("children")` Jueves 25 de abril.**
-
-- Entrega de calificaciones: 70 puntos de tareas más 30 de evaluación de profesores.
-
-**Sesión 16. `r fontawesome::fa("jedi-order")` Jueves 2 de mayo.**
-
-- Presentaciones en caso de reprobar.
+- No hay sesión presencial ni por Zoom.
+- Revisión de videos.
+- Revisión de los los videos por parte de los profesores del departamento, del martes 29 de octubre al viernes 8 de noviembre a las 10:00am.
 
 ## `r fontawesome::fa("battery-full")` Fin.
 
-**Sesión 17. `r fontawesome::fa("female")` Jueves 9 de mayo.**
+**Sesión 14. Lunes 11 de noviembre.**
 
-- Resultados.
+- No hay sesión presencial ni por Zoom.
+- Entrega de calificaciones: 70 puntos de tareas más 30 de evaluación de profesores.
+
+**Sesión 15. Lunes 25 de noviembre.**
+
+- No hay sesión presencial ni por Zoom.
+- Presentaciones en caso de reprobar.
+
 
 # `r fontawesome::fa("calendar-alt")` UDEM: Calendario PEF2. 
 
-Junta inicial para determinar los primeros pasos.
-Invitación a dos sinodales.
-Determinar las fechas de las presentaciones de medio término y la presentación final.
-Reserva de salas para las presentaciones de medio término y la final.
-Reserva de la hora en la que van a pasar a la campana.
-Auto y coevaluación del primer, segundo y tercer parcial.
-Presentaciones tipo ensayo en mis grupos presenciales.
-Registro del proyecto en Biblioteca.
+En PEF2 no tenemos sesiones como en un curso regular. El calendario no incluye juntas, ni otras actividades necesarias que no es posible anticipar.
+
+**Semana 1 y 2. 5 al 16 de agosto.**
+
+- Junta inicial para determinar los siguientes pasos.
+
+**Semana 3. 19 al 23 de agosto.**
+
+- Invitación a dos sinodales.
+
+**Semana 4. 26 al 30 de agosto.**
+
+- Determinar las fechas de las presentaciones de medio término y la presentación final.
+- Reserva de salas para las presentaciones de medio término y la final.
+- Reserva de la hora en la que van a pasar a la campana.
+
+**Semana 5. 2 al 6 de septiembre.**
+
+- Auto y coevaluación del primer parcial.
+
+**Semana 8. 23 al 27 de septiembre.**
+
+- Presentaciones a mis alumnos de EMF. Lunes 23 de septiembre de 5:30pm a 7:00pm, en el salón 3202.
+
+**Semana 9. 30 de septiembre al 4 de octubre.**
+
+- Auto y coevaluación del segundo parcial.
+
+**Semana 9 y 10. 30 de septiembre al 11 de octubre.**
+
+- Presentaciones de medio término.
+- Reunión posterior a la presentaciones de medio término.
+
+**Semana 11 a la 15. 14 de octubre al 15 de noviembre.**
+
+- Juntas para revisión de avances y ensayos.
+
+**Semana 16. 18 al 22 de noviembre.**
+
+- Registro del proyecto en Biblioteca.
+- Entrega del documento PEF.
