@@ -63,6 +63,7 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/85043719169](https://us02web.zo
 
 - Tarea 1: Entregar documento PDF con: (1) la confirmación de miembros de equipos, tema y asesor, (2) un contrato o políticas de trabajo del equipo. Sugiero que incluyan penalizaciones por no contribuir y/o no asistir a sus reuniones de trabajo. Las sanciones pueden ser desde pagar el café, la cena, coevaluaciones bajas, o en caso extremo y con suficiente evidencia la expulsión del equipo. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 3. Ponderación 5% de la calificación final.
 - Actividad: Retroalimentación de la tarea 1.
+- Actividad individual: Completar el siguiente formulario para confirmar que has leído el syllabus del curso: [Formulario](https://forms.gle/vMNruJyXSWyvGJgX6). Si no se completa, se penaliza con -5 puntos sobre la calificación individual del primer parcial. La hora límite es 7:00pm de la sesión 3.
 - Tema: ¿Cómo presentar tu proyecto de investigación?
 - Tema: La estructura del documento de tesis: @sec-structure.
 - Actividad: Discusión de video. [https://www.fma.org/virtual-seminar](https://www.fma.org/virtual-seminar)
@@ -110,13 +111,13 @@ Zoom URL para unirse: [https://us02web.zoom.us/j/85043719169](https://us02web.zo
 
 - Tarea 7: Presentar anteproyecto con comentarios. Presentaciones con apoyos visuales en clase. Máximo 15 minutos por equipo. Presentación presencial. Ponderación 10% de la calificación final.
 - Actividad: Recibir retroalimentación de la tarea 7.
-- Rueda de la fortuna 2/2.
 
 **Sesión 10. Lunes 14 de octubre.**
 
 - No hay sesión presencial ni por Zoom.
 - Actividad: Hacer las grabaciones de las presentaciones. Aprovechen que todos tienen tiempo libre al menos de 7:00pm a 10:00pm para hacerlo. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. 
 - Actividad: Completar coevaluación 2. Si la calificación asignada por el profesor es mayor o igual a 70, y la media de la coevaluación asignada por el equipo es mayor o igual a 70, entonces la calificación individual de las tareas entregadas hasta el momento se calcula como 60% de la calificación asignada por el profesor y 40% la media de coevaluación. De lo contrario, se calcula como la mínima entre la calificación asignada por el profesor y la media de la coevaluación. La coevaluación está diseñada en base a la escala Likert de 5 Puntos: 1 representa «Totalmente en desacuerdo» (60/100), 2 representa «En desacuerdo» (70/100), 3 representa «Neutral» (80/100), 4 representa «De acuerdo» (90/100), y 5 representa «Totalmente de acuerdo» (100/100). El enlace estará disponible en Blackboard en la sección "entregas" desde las 7:00pm de la sesión 10 hasta las 10:00am del viernes 18 de octubre.
+- Rueda de la fortuna 2/2.
 - Reporte de calificaciones segundo parcial.
 
 **Sesión 11. Lunes 21 de octubre.**
