@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.5.54">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -25,6 +25,7 @@ ul.task-list li input[type="checkbox"] {
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
+  margin-bottom: 0em;
 }
 .hanging-indent div.csl-entry {
   margin-left:2em;
@@ -61,61 +62,142 @@ div.csl-indent {
 
 
 
+
+
+
   <meta charset="UTF-8">
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <style>
+
     #btn-back-to-top {
+
       position: fixed;
+
       bottom: 20px;
+
       right: 20px;
+
       width: 15px; /* Adjust the width */
+
       height: 15px; /* Adjust the height */
+
       box-sizing: content-box;
+
       z-index: 1000;
+
       background-color: rgba(0, 123, 255, 0.7);
+
       border: none;
+
       color: white;
+
       display: flex;
+
       align-items: center;
+
       justify-content: center;
+
     }
+
   </style>
+
 </head>
+
 <body>
+
+
 
 <button type="button" class="btn btn-primary btn-lg bi bi-arrow-up" id="btn-back-to-top"></button>
 
+
+
 <script>
+
   let backToTopButton = document.getElementById("btn-back-to-top");
 
+
+
   backToTopButton.addEventListener("click", function () {
+
     document.documentElement.scrollTop = 0;
+
   });
+
 </script>
+
+
+
+
 
 
 
 <div id="progress-bar" style="width: 0%; height:2px; background-color: rgb(89 127 235);; position: fixed; top: 0px; z-index: 2000;"></div>
 
+
+
 <script id="progressbar" type="text/javascript">
+
+
 
 document.addEventListener("DOMContentLoaded", function() {
 
+
+
     const bar = document.querySelector('#progress-bar');
+
     const post = document.querySelector('#quarto-content');
+
     const html = document.documentElement;
+
     
+
     const height = post.scrollHeight + post.offsetTop;
+
     
+
     window.addEventListener('scroll', () => {
+
         bar.style.width = (html.scrollTop / (height- html.clientHeight)) * 100 + '%';
+
     });
+
 });
+
 </script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
 
 
 
@@ -142,7 +224,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-right">
 
     <div>
     <div class="quarto-title-meta-heading">Author</div>
@@ -155,7 +237,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">December 29, 2023, 00:31:55 am.</p>
+      <p class="date-modified">December 22, 2024, 21:05:25 pm.</p>
     </div>
   </div>
     
@@ -163,23 +245,25 @@ document.addEventListener("DOMContentLoaded", function() {
   
 <div>
   <div class="abstract">
-    <div class="abstract-title">Abstract</div>
-    This document is subject to changes due to new regulations dictated by the programme management, academic department and/or the university. It is also subject to a new and improved set of recommendations given my experience using this document in the past. Please note that all recommendations and guidance in this document apply only for students that agree to work under my supervision. If there is any discrepancy between this document and the official guidelines or regulations dictated by the academic programme or the university, then the rule is to follow the official guidelines. This document is a work in progress, and not all the material taken from publicly available sources has been properly referenced.
+    <div class="block-title">Abstract</div>
+    This document is subject to changes due to new regulations dictated by the programme management, academic department and/or the university. It is also subject to a new and improved set of recommendations given my experience using this document in the past. Please note that all recommendations and guidance in this document apply for students that agree to work under my supervision in Mexico and UK. If there is any discrepancy between this document and the official guidelines or regulations dictated by the academic programme or the university, then the rule is to follow the official guidelines. This document is a work in progress, and not all the material taken from publicly available sources has been properly referenced.
   </div>
 </div>
 
+
 </header>
+
 
 <div style="page-break-after: always;"></div>
 <section id="introduction." class="level1 unnumbered">
 <h1 class="unnumbered"><svg aria-hidden="true" role="img" viewbox="0 0 640 512" style="height:1em;width:1.25em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M272.2 64.6l-51.1 51.1c-15.3 4.2-29.5 11.9-41.5 22.5L153 161.9C142.8 171 129.5 176 115.8 176H96V304c20.4 .6 39.8 8.9 54.3 23.4l35.6 35.6 7 7 0 0L219.9 397c6.2 6.2 16.4 6.2 22.6 0c1.7-1.7 3-3.7 3.7-5.8c2.8-7.7 9.3-13.5 17.3-15.3s16.4 .6 22.2 6.5L296.5 393c11.6 11.6 30.4 11.6 41.9 0c5.4-5.4 8.3-12.3 8.6-19.4c.4-8.8 5.6-16.6 13.6-20.4s17.3-3 24.4 2.1c9.4 6.7 22.5 5.8 30.9-2.6c9.4-9.4 9.4-24.6 0-33.9L340.1 243l-35.8 33c-27.3 25.2-69.2 25.6-97 .9c-31.7-28.2-32.4-77.4-1.6-106.5l70.1-66.2C303.2 78.4 339.4 64 377.1 64c36.1 0 71 13.3 97.9 37.2L505.1 128H544h40 40c8.8 0 16 7.2 16 16V352c0 17.7-14.3 32-32 32H576c-11.8 0-22.2-6.4-27.7-16H463.4c-3.4 6.7-7.9 13.1-13.5 18.7c-17.1 17.1-40.8 23.8-63 20.1c-3.6 7.3-8.5 14.1-14.6 20.2c-27.3 27.3-70 30-100.4 8.1c-25.1 20.8-62.5 19.5-86-4.1L159 404l-7-7-35.6-35.6c-5.5-5.5-12.7-8.7-20.4-9.3C96 369.7 81.6 384 64 384H32c-17.7 0-32-14.3-32-32V144c0-8.8 7.2-16 16-16H56 96h19.8c2 0 3.9-.7 5.3-2l26.5-23.6C175.5 77.7 211.4 64 248.7 64H259c4.4 0 8.9 .2 13.2 .6zM544 320V176H496c-5.9 0-11.6-2.2-15.9-6.1l-36.9-32.8c-18.2-16.2-41.7-25.1-66.1-25.1c-25.4 0-49.8 9.7-68.3 27.1l-70.1 66.2c-10.3 9.8-10.1 26.3 .5 35.7c9.3 8.3 23.4 8.1 32.5-.3l71.9-66.4c9.7-9 24.9-8.4 33.9 1.4s8.4 24.9-1.4 33.9l-.8 .8 74.4 74.4c10 10 16.5 22.3 19.4 35.1H544zM64 336a16 16 0 1 0 -32 0 16 16 0 1 0 32 0zm528 16a16 16 0 1 0 0-32 16 16 0 1 0 0 32z"></path></svg> Introduction.</h1>
-<p>Welcome <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M464 256A208 208 0 1 0 48 256a208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zm130.7 57.9c-4.2-13.6 7.1-25.9 21.3-25.9H364.5c14.2 0 25.5 12.4 21.3 25.9C369 368.4 318.2 408 258.2 408s-110.8-39.6-127.5-94.1zM144.4 192a32 32 0 1 1 64 0 32 32 0 1 1 -64 0zm192-32a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"></path></svg>. If you are reading this document, it is because we have agreed or we are in the process of agreeing that I will supervise your project, thesis, or dissertation whether it is research oriented, or consultancy based. In short, I will simply use the word <em>project</em> from now on. I am confident that we can develop an interesting project, and I have high expectations about your overall performance either if you are an individual or a team. You should be confident that I have more than enough academic credentials, experience, and interest to help you in this process regardless of the scope, approach, and the topic of your project. You can find my full and updated academic curriculum <a href="https://sites.google.com/site/mlozanoqf/">here</a> This is the Zoom link for meetings: https://us02web.zoom.us/j/9209945512. Once again, welcome.</p>
+<p>Welcome <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M464 256A208 208 0 1 0 48 256a208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zm130.7 57.9c-4.2-13.6 7.1-25.9 21.3-25.9H364.5c14.2 0 25.5 12.4 21.3 25.9C369 368.4 318.2 408 258.2 408s-110.8-39.6-127.5-94.1zM144.4 192a32 32 0 1 1 64 0 32 32 0 1 1 -64 0zm192-32a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"></path></svg>. If you are reading this document, it is because we have agreed or we are in the process of agreeing that I will supervise your project, thesis, or dissertation whether it is research oriented, software, or consultancy based. In short, I will simply use the word <em>project</em> from now on. I am confident that we can develop an interesting project, and I have high expectations about your overall performance either if you are an individual or a team. You should be confident that I have more than enough academic credentials, experience, and interest to help you in this process regardless of the scope, approach, and the topic of your project. You can find my full and updated academic curriculum <a href="https://sites.google.com/site/mlozanoqf/">here</a>. This is the Zoom link for meetings: <a href="https://us02web.zoom.us/j/9209945512">https://us02web.zoom.us/j/9209945512</a>. Once again, welcome.</p>
 <p>The objective of this document is twofold: (1) explain the supervision process, and (2) explain the project contents and structure.</p>
 <p>Our common goal is to produce a solid and interesting project which meets the university quality standards, my own expectations as supervisor, and your own interests as students. I expect the best academic performance that you can achieve, and perhaps even more. You must expect me to support you and guide you in the best way possible to achieve our ultimate objective which is to produce a high-quality project and communicate its significance with authority. For this purpose, you also must know that from now on, part of my time, my knowledge, interest, and experience are currently at your service. I enjoy the supervision process because I always meet extraordinary people that creates an interesting project in a subject that I find interesting.</p>
 <p>You should know that there are several kinds of projects or thesis depending on their scope, originality and contribution to the professional or academic field. We can broadly differentiate between undergraduate (not very common), master, and PhD thesis. All of them should aim to contribute to the academic and/or professional field at differentiated levels, and represent clear evidence that the candidate or the student is an expert in his or her area of study. However, the level, depth, impact, quality, and significance of that contribution depend on many factors. These include: the aspired academic degree, the time availability, the academic rigor of the designated supervisor, and/or the general quality standards of the university and/or academic department.</p>
 <p>Your project represents a way to differentiate yourself among the rest of your colleagues in the job market as you may have the same degree but different project topic. I will try to clearly communicate whether you are meeting my own standards because this will influence the mark you will officially receive in your academic records. In any case, you can ask me directly whether you are meeting my expectations and I will answer as clearly as possible. This may be obvious, but you should know we (students and supervisor) are not competing, we are collaborating to reach our final objective which is to end up with a high-quality project to submit on time. I will also try to keep a respectful, professional, and friendly relationship to facilitate our communication and contribute to reach our final objective.</p>
-<p>Your thesis project is also an opportunity to develop or engender your current research skills. Research skills are not exclusive for consolidated researchers, leading authors, and academics with a PhD degree. Research skills are also very important in the current job market and industry which nowadays has become highly competitive and demands professionals with a formal approach to address and solve problems following a modern and innovative scientific approach. Problems that already exist in the industry, and those that do not exist yet. A professional with the ability to learn, innovate, and develop applied research projects, are very valuable in the job market. You are expected to be good at learning well and fast by yourself, and gathering research skills can help you in this respect. It is not easy to gather research skills alone and isolated from academia, this is why one typical way to get them is by letting experienced researchers train enthusiastic students.</p>
-<p>You are not only going to develop new skills during the supervision period. Ideally, you will also have the opportunity to use your current professional skills and specialization to address the project objectives. Then, it is important to let me know who you are so we can take advantage of your unique and distinctive&nbsp;professional skills, interests, and abilities to develop an interesting project.</p>
+<p>Your thesis project is also an opportunity to develop or engender your current research skills. Research skills are not exclusive for consolidated researchers, leading authors, and academics with a PhD degree. Research skills are also very important in the current job market and industry, which nowadays has become highly competitive and demands professionals with a formal approach to address and solve problems following a modern and innovative scientific approach. A professional with the ability to learn, innovate, and develop applied research projects, are very valuable in the job market. You are expected to be good at learning well and fast by yourself, and gathering research skills can help you in this respect. It is not easy to gather research skills alone and isolated from academia, this is why one typical way to get them is by letting experienced researchers train enthusiastic students.</p>
+<p>You are not only going to develop new skills during the supervision period. Ideally, you will also have the opportunity to use your current professional skills and specialization to address the project objectives. Then, it is important to let me know who you are so we can take advantage of your unique and distinctive professional skills, interests, and abilities to develop an interesting project.</p>
 </section>
 <section id="faq." class="level1" data-number="1">
 <h1 data-number="1"><span class="header-section-number">1</span> <svg aria-hidden="true" role="img" viewbox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M464 256A208 208 0 1 0 48 256a208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zm169.8-90.7c7.9-22.3 29.1-37.3 52.8-37.3h58.3c34.9 0 63.1 28.3 63.1 63.1c0 22.6-12.1 43.5-31.7 54.8L280 264.4c-.2 13-10.9 23.6-24 23.6c-13.3 0-24-10.7-24-24V250.5c0-8.6 4.6-16.5 12.1-20.8l44.3-25.4c4.7-2.7 7.6-7.7 7.6-13.1c0-8.4-6.8-15.1-15.1-15.1H222.6c-3.4 0-6.4 2.1-7.5 5.3l-.4 1.2c-4.4 12.5-18.2 19-30.6 14.6s-19-18.2-14.6-30.6l.4-1.2zM224 352a32 32 0 1 1 64 0 32 32 0 1 1 -64 0z"></path></svg> FAQ.</h1>
@@ -188,31 +272,39 @@ document.addEventListener("DOMContentLoaded", function() {
 <li><p><strong>Who is supposed to propose the project topic?</strong> <em>There are several ways to proceed in this respect. One typical way is that students declare their main interests; then I can propose several alternatives; and we can discuss until we define the most appropriate project for you. Proposing topics that you as a student do not want to do is also a valid way to define the project topic. Another way is that students pick from a list, so programme administrators can match students and supervisors.</em></p></li>
 <li><p><strong>Are there any restrictions or limitations in terms of the topics you can supervise?</strong> <em>Not really. I can supervise a wide variety of consultancy oriented or research projects in the area of business, economics, statistics, data science, finance, management, its combinations, extensions, sub-areas, and other more specific and newer topics. I have a marked preference to select a quantitative approach in the area of economics and/or finance, but in short there are virtually no restrictions in terms of the topics I can supervise.</em></p></li>
 <li><p><strong>Are we supposed to produce a very long and complicated computer code?</strong> <em>Your project, and more specifically the empirical section that will lead to your original results will most likely be developed in R and/or Python given the quantitative nature of the project that I will try to pursue with you. However, I strongly believe that the project contribution is far more important than the methodology or the specific way or software to produce results. Then, you can conduct your empirical analysis using any software. Your thesis could be intense in computer programming or not. This will depend on the project itself, our preliminary discussion about the project characteristics, your ability to do computer programming, your willingness to learn computer programming, the project objectives, and scope. A project that relies on computer programming is usually more ambitious and with a more interesting contribution as it has virtually no barriers or frontiers in terms of data analysis and reaching original findings. It also helps to reach repeatability and reproducibility, which are key indicators of the quality of experiments and analyses. In short, the answer is: it depends.</em></p></li>
-<li><p><strong>Is there a minimum and maximum page limit for my project?</strong> <em>You should look at the official guidelines for this. In my personal view, the extension is mostly determined by the achievement of the project objectives and not in the number of pages. Page number is not necessarily related with project quality, but I understand it can be used to meet some standards dictated by the academic programme. In any case, I will decide whether a specific section in your project is sufficiently developed or not. Just as a reference, <span class="citation" data-cites="nash1951non">Nash (<a href="#ref-nash1951non" role="doc-biblioref">1951</a>)</span> thesis was 26 pages, and had two references in the bibliography. It is also true that few pages can be a sign of a lack of a deep analysis. In short, I will clearly inform you in case you are falling too short in terms of page limit. If I do not do that, then you have the obligation to ask.</em></p></li>
+<li><p><strong>Is there a minimum and maximum page limit for my project?</strong> <em>You should look at the official university or academic department guidelines for this. In my personal view, the extension is mostly determined by the achievement of the project objectives and not in the number of pages. Page number is not necessarily related with project quality, but I understand it can be used to meet some standards dictated by the academic programme. In any case, I will decide whether a specific section in your project is sufficiently developed or not. Just as a reference, <span class="citation" data-cites="nash1951non">Nash (<a href="#ref-nash1951non" role="doc-biblioref">1951</a>)</span> thesis was 26 pages long, and had two references in the bibliography. It is also true that few pages can be a sign of a lack of a deep analysis. In short, I will clearly inform you in case you are falling too short in terms of page limit. If I do not do that, then you have the obligation to ask.</em></p></li>
 <li><p><strong>What would be your very best recommendation for us as students?</strong> <em>Inform me regularly about your progress, and incorporate all my feedback in your progress. Read this document on a regular basis. Keep quality standards as high as possible. Remember this is your project, not mine, I am only trying to help you reach your higher standard possible. If for any reason I take too long to answer you back, please insist. </em></p></li>
-<li><p><strong>Do you ask for weekly progress reports?</strong> <em>Not really. I rather prefer to ask for reports based on tasks or tasks progress. The process is rather simple: you send me a draft, I give you comments by email and/or Zoom, you incorporate my comments, you send me a new draft, and the process start again. This is the Zoom link for meetings: https://us02web.zoom.us/j/9209945512.</em></p></li>
-<li><p><strong>Are we going to write our project in MS-Word?</strong> <em>There are several alternatives to write your project. You can use MS-Word, Google Docs, Overleaf, R Markdown, or any other <span class="math inline">\(\LaTeX{}\)</span> compiler. My recommendation is to use Quarto within RStudio.</em></p></li>
+<li><p><strong>Do you ask for weekly progress reports?</strong> <em>Not really. I rather prefer to ask for reports based on tasks or tasks progress. The process is rather simple: you send me a draft, I give you comments by email and/or Zoom, you incorporate my comments, you send me a new draft, and the process start again. This is the Zoom link for meetings: https://us02web.zoom.us/j/9209945512. Depending on the programe, you may have to submit mid-term drafts or not.</em></p></li>
+<li><p><strong>Are we going to write our project in MS-Word?</strong> <em>There are several alternatives to write your project. You can use MS-Word, Google Docs, Overleaf, R Markdown, or any other <span class="math inline">\(\LaTeX{}\)</span> compiler. My recommendation is to use Quarto within RStudio. In my view, Quarto is the best technology for writing a thesis due to its versatility in output formats (PDF, HTML, Word, EPUB), seamless integration of code for reproducible results, high-quality typesetting with <span class="math inline">\(\LaTeX{}\)</span> support, extensive customization options for adhering to academic standards, and facilitation of collaborative work through version control with Git. These features make Quarto a robust, flexible, and efficient tool for producing and maintaining a high-quality thesis.</em></p></li>
 <li><p><strong>We are a team. Are we going to have the same individual mark?</strong> <em>Not necessarily. I may include auto and co-evaluations to know more about your view about the team members contribution to the team work. This may influence my marking when dealing with team or group projects.</em></p></li>
-<li><p><strong>How frequent are we going to communicate with you?</strong> <em>There might be an answer in the official student guidelines dictated by the academic programme. However, in my case you are free to contact me whenever you need. I am interested that you understand what has to be done so I can answer questions by email or have Zoom meetings to make that clear. You are expected to show that you can work independently, but this does not mean that you will be alone in the process. So, feel free to contact me.</em></p></li>
+<li><p><strong>How frequent are we, as a team, going to communicate with you?</strong> <em>There might be an answer in the official student guidelines dictated by the academic programme. However, in my case you are free to contact me whenever you need. I am interested that you understand what has to be done so I can answer questions by email or have Zoom meetings to make that clear. You are expected to show that you can work independently, but this does not mean that you will be alone in the process. So, feel free to contact me.</em></p></li>
 <li><p><strong>More in future versions of this document.</strong></p></li>
 </ol>
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-nash1951non" class="csl-entry" role="listitem">
 Nash, John. 1951. <span>“Non-Cooperative Games.”</span> <em>Annals of Mathematics</em>, 286–95.
 </div>
 </div></section></div></main>
 <!-- /main column -->
 <!-- Google tag (gtag.js) -->
+
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-T95X2J280N"></script>
+
 <script>
+
   window.dataLayer = window.dataLayer || [];
+
   function gtag(){dataLayer.push(arguments);}
+
   gtag('js', new Date());
 
+
+
   gtag('config', 'G-T95X2J280N');
+
 </script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
@@ -255,6 +347,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -323,13 +442,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'default';
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -364,18 +485,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -407,7 +517,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
   const viewSource = window.document.getElementById('quarto-view-source') ||
                      window.document.getElementById('quarto-code-tools-source');
   if (viewSource) {
@@ -459,10 +591,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   if (showAllCode) {
     showAllCode.addEventListener("click", toggleCodeHandler(true));
   }
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -472,8 +621,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -485,7 +643,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -529,6 +810,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -554,6 +836,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -614,6 +922,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
