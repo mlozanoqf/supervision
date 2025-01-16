@@ -1,0 +1,217 @@
+# `r fontawesome::fa("graduation-cap")` UDEM: PEF.
+
+El desarrollo de una tesis como requisito para obtener un grado de licenciatura en el área de negocios es crucial por varias razones. En primer lugar, la elaboración de una tesis brinda a los estudiantes la oportunidad de adquirir, aplicar y perfeccionar sus habilidades de investigación, incidiendo en la importancia del método científico en su preparación profesional. Este enfoque estructurado no solo contribuye a la rigurosidad académica, sino que también inculca la capacidad de abordar problemas empresariales de manera sistemática y eficiente.
+
+Además, el proceso de elaborar una tesis implica la identificación y análisis profundo de problemas relevantes en el ámbito empresarial. Al enfrentarse a estos desafíos, los estudiantes adquieren una comprensión más profunda de la industria, mejoran sus habilidades analíticas y desarrollan la capacidad de proponer soluciones innovadoras a problemas que existen y a problemas que apenas se están gestando.
+
+La tesis también fomenta el pensamiento crítico y la habilidad para sintetizar información, aspectos esenciales en el mundo empresarial. Al finalizar este proyecto, los estudiantes habrán demostrado no solo su conocimiento teórico sino también su capacidad para aplicar conceptos en situaciones prácticas. En resumen, la elaboración de una tesis en el área de negocios no solo es un requisito académico, sino un proceso formativo que potencia habilidades de investigación, fomenta el pensamiento crítico y prepara a los futuros profesionales para abordar problemas empresariales de manera más eficiente y efectiva.
+
+En la UDEM, los estudiantes desarrollan su PEF en sus últimos dos semestres de sus estudios profesionales. En el penúltimo cursan PEF1 y en el último PEF2. En PEF1 se desarrolla la propuesta de investigación y en PEF2 se implementa la investigación.
+
+Los entregables en este curso se realizarán en Quarto o en MS-Word. MS-Word es bien conocido. Quarto ofrece funcionalidades avanzadas que optimizan la gestión de información y la presentación de datos complejos. Su capacidad para integrar datos dinámicos, gráficos y análisis en el documento mismo mejora la visualización de información clave. Además, la automatización de tareas repetitivas y la eficiencia en la creación y edición de documentos permiten un flujo de trabajo más rápido y preciso. En un entorno empresarial competitivo, la superioridad de Quarto no solo aumenta la productividad, sino que también contribuye a una toma de decisiones informada y a la generación de documentos de alta calidad, destacando así la profesionalidad y eficacia del equipo.
+
+
+## UDEM: PEF1.
+
+Bienvenidos a PEF1, el nombre oficial del curso es Métodos de Investigación en Negocios (MIN), y este grupo es exclusivo para LFI, aunque algunas otras carreras lo pueden cursar con la autorización de la dirección de carrera y/o departamento académico. Usaré MIN o PEF1 de manera indistinta para referirme a este curso. Una vez que su anteproyecto de PEF1 esté terminado después de segundos parciales, y que sea aprobado por un comité de profesores al final de este semestre, ustedes cursarán PEF2 el siguiente semestre, que es el periodo en donde trabajan con su supervisor y que culmina con la presentación final de su proyecto PEF en el semestre de su graduación. 
+
+Antes de iniciar, es importante verificar que el siguiente semestre sea el último de tus estudios profesionales, si no es así entonces debes contactar a la dirección de carrera porque es posible que no debas estar inscrito en este grupo. En particular, debes confirmar que te faltan seis materias o menos para completar tu plan de estudios.
+
+Mi nombre es Dr. Martín Lozano y soy el profesor asignado a la clase de MIN. También superviso equipos de PEF, con lo cual es posible que para algunos de ustedes sea profesor de MIN y además supervisor de su proyecto PEF en este semestre y el siguiente semestre en PEF2. La primera parte de documento es material que siguen mis alumnos de PEF2 y mis alumnos de posgrado de otras universidades. Con lo cual, no es material oficial que deban seguir en PEF2 a menos que yo sea su supervisor.
+
+Una vez que esté verificado que pertenezcas a este grupo, lo siguiente que debes hacer en PEF1 es formar un equipo de cuatro personas con quienes harás el proyecto PEF. En caso de que no se completen los equipos, la dirección de carrera y/o departamento académico autorizarán equipos con otras carreras o un número de integrantes distinto. Esta es una de las primeras actividades que se deben completar este semestre en PEF1.
+
+Cuando el equipo esté completo, deben conseguir a un supervisor que pueda y que esté interesado en supervisar su proyecto. En concreto, deben buscar y contactar a un profesor del departamento académico de finanzas que esté interesado y que pueda supervisar su proyecto de PEF. Administrativamente, el supervisor (o también llamado asesor) se incorpora al equipo hasta que el anteproyecto de PEF1 esté aprobado por un comité de profesores, lo que sucede al final de PEF1, pero en ocasiones su supervisor puede decidir participar activamente desde PEF1. Como ustedes saben, cada profesor tiene una forma de trabajar distinta, pero recomiendo que al abordar a su potencial supervisor de PEF ustedes ya tengan una idea sobre el proyecto que quieren hacer. Eso facilitaría el proceso de búsqueda de supervisor. Lo que recomiendo es que tengan una plática como la siguiente: *"Profesor, estamos cursando PEF1 y estamos interesados en que usted sea nuestro supervisor, queremos hacer nuestro anteproyecto sobre ..., en caso de que sí pueda, nos gustaría saber si quiere que tengamos reuniones sobre nuestro avance durante este semestre que cursamos PEF1 o si deberíamos contactarlo de nuevo cuando esté aprobado nuestro anteproyecto..."*
+
+Deben saber que las actividades de MIN las califico yo (Dr. Martín Lozano) porque soy el profesor de MIN este semestre, y sus avances en PEF2 del siguiente semestre lo calificará su supervisor de PEF. 
+
+El objetivo principal de MIN es ayudar a los equipos a que tengan una propuesta de PEF o anteproyecto tan sólida, clara e interesante, que el comité de profesores no tenga duda en aprobarla y así el equipo pueda continuar con PEF2 el siguiente semestre. Para lograr el objetivo, tenemos actividades en el curso de MIN, y retroalimentación sobre la velocidad y calidad de sus avances.
+
+Las actividades de MIN no son independientes. Esto significa que se requiere completar la primera para continuar con la segunda y así sucesivamente. Su proyecto, entregas y presentaciones en MIN pueden ser en español o inglés, sugiero que eso lo consulten en su equipo y lo acuerden con su supervisor de PEF. En MIN no tenemos políticas sobre entregas tardías porque las actividades son responsabilidad del equipo, y si no se entregan a tiempo se califica con cero. Como en otras clases de la misma frecuencia, el número de faltas máximo permitido de acuerdo al reglamento de estudiantes es 2.
+
+Completar una propuesta de investigación que sea aprobada por un comité de profesores no es sencillo porque a pesar de que los criterios de evaluación son los mismos y están disponibles para profesores y estudiantes, los profesores tienen visiones distintas sobre los proyectos. Eso significa que para un profesor un criterio puede determinar la calificación de manera significativa mientras que para otro profesor no representa un problema grave. Por esta razón, la retroalimentación que yo haga a sus actividades durante clase están orientadas a ayudarlos a comprender los criterios de evaluación del comité de profesores. Los comentarios que ustedes reciban sobre sus actividades deben ayudarlos a ajustar sus criterios y alinearlos con los criterios del comité de profesores. En este sentido, los comentarios que haga a un equipo pueden servir de guía a otros equipos. Recibir comentarios negativos puede resultar frustrante, pero no deben tomarlos como una crítica destructiva. En MIN estamos colaborando, no compitiendo, estamos en paz, no en conflicto.
+
+Transición de PEF1 a PEF2.
+
+- En el momento en que su anteproyecto de PEF1 esté autorizado al final del semestre, comienza PEF2.
+- En PEF2 deben contactar a su supervisor para notificarle que su anteproyecto ha sido aprobado y para organizar la forma de trabajo durante PEF2.
+- Se espera que su proyecto PEF sea una continuación de su trabajo en PEF1, pero eso lo deben discutir con su supervisor.
+- Su supervisor les informará sobre los lineamientos de PEF2.
+
+# `r fontawesome::fa("calendar-alt")` UDEM: Calendario MIN. 
+
+MIN, Primavera 2025. Salón 2207, Jueves 19:00 – 22:00.
+
+Zoom URL para unirse: [https://us02web.zoom.us/j/89679877441](https://us02web.zoom.us/j/89679877441)
+
+## `r fontawesome::fa("battery-quarter")` Part 1.
+
+**Session 1, Zoom. `r fontawesome::fa("handshake")` Thursday, January 16.**
+
+- Bienvenida.
+- ¿Tienes equipo, tema y asesor(a)?
+- Tema: Tipos de tesis, su estructura y expectativas sobre su trabajo.
+- Mensaje: *El tema de tu tesis no se define en una lluvia de ideas, sino que surge revisando la literatura, con la ayuda de Google Scholar, ChatGPT y tu profesor.*
+- Tema: Uso de [Google Scholar](https://scholar.google.com/) en la definición del tema y bases de datos.
+
+**Session 2, Zoom. Thursday, January 23.**
+
+- Actividad: Confirmar si te faltan seis materias o menos para completar su plan de estudios.
+- Actividad: Reportar avances en la formación de equipos, definición del tema y asignación de asesor(a).
+- Tema: Tecnologías para la producción de documentos científicos.
+- Actividad opcional: Instalar R, RStudio, ¿cómo producir documentos PDF en Quarto? Siga estas instrucciones de Wei Miao para instalar los programas en tu computadora: [Instrucciones escritas](https://weim-mkt.github.io/UCLMarketingAnalytics/R-installR.html). Aquí están las mismas instrucciones explicadas por Wei Miao en un video: [Instrucciones en video](https://www.youtube.com/watch?v=AP0R88qqmpI).
+- Tema: Temas de investigación en finanzas.
+- Actividad: Discusión de video. [Finding Research Topics - Robert Marquez](https://youtu.be/TuxcX4V0d08?si=B1Y6Dqb2frx2ZACV)
+
+**Session 3, Zoom. Thursday, January 30.**
+
+- Tarea 1: Entregar documento PDF con: (1) la confirmación de miembros de equipos, tema y asesor, (2) un contrato o políticas de trabajo del equipo. Sugiero que incluyan penalizaciones por no contribuir y/o no asistir a sus reuniones de trabajo. Las sanciones pueden ser desde pagar el café, la cena, coevaluaciones bajas, o en caso extremo y con suficiente evidencia la expulsión del equipo. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 3. Ponderación 5% de la calificación final.
+- Actividad: Retroalimentación de la tarea 1.
+- Tema: ¿Cómo presentar tu proyecto de investigación?
+- Tema: La estructura del documento de tesis: @sec-structure.
+- Actividad: Discusión de video. [https://www.fma.org/virtual-seminar](https://www.fma.org/virtual-seminar)
+- Actividad: Discusión de video. [https://www.fma.org/student-virtual-seminar](https://www.fma.org/student-virtual-seminar)
+- Videos de PEF1, primavera 2020: [https://youtu.be/GGAdpuTCHIM?si=PfL70F-fiUAmWv_V](https://youtu.be/GGAdpuTCHIM?si=PfL70F-fiUAmWv_V), 
+[https://youtu.be/sl4hFMBH0HQ?si=PxtJTgRKEEEaDMdn](https://youtu.be/sl4hFMBH0HQ?si=PxtJTgRKEEEaDMdn), 
+[https://youtu.be/UdoB4foBcNo?si=Tw3a4mROs6UIE6vM](https://youtu.be/UdoB4foBcNo?si=Tw3a4mROs6UIE6vM), 
+[https://youtu.be/gyR1w93Nj_s?si=_O7ASruXNB0kiIXK](https://youtu.be/gyR1w93Nj_s?si=_O7ASruXNB0kiIXK)
+- Videos de PEF1, primavera 2024: [https://youtu.be/js6qeGYRbQc](https://youtu.be/js6qeGYRbQc), 
+[https://youtu.be/tKuvjVn0cPU?si=56LQbVGH7DIA7dNz](https://youtu.be/tKuvjVn0cPU?si=56LQbVGH7DIA7dNz), 
+[https://youtu.be/QzwEBgACijI?si=wdp2-DjMhj5oreeK](https://youtu.be/QzwEBgACijI?si=wdp2-DjMhj5oreeK), 
+[https://www.youtube.com/watch?v=4ZvzEISD2QY&t=4s](https://www.youtube.com/watch?v=4ZvzEISD2QY&t=4s), 
+[https://youtu.be/_tZFvY8X7mI](https://youtu.be/_tZFvY8X7mI), 
+[https://www.youtube.com/watch?v=oSaVddKMf_M](https://www.youtube.com/watch?v=oSaVddKMf_M), 
+[https://youtu.be/setOjbQdcxo](https://youtu.be/setOjbQdcxo)
+- Videos de PEF1, otoño 2024: 
+[https://www.youtube.com/watch?v=TUcfs9TuH6w](https://www.youtube.com/watch?v=TUcfs9TuH6w), [https://youtu.be/1NvKQogLiWw?si=AOD1pmJm00QKAmEs](https://youtu.be/1NvKQogLiWw?si=AOD1pmJm00QKAmEs), [https://www.youtube.com/watch?v=tBPpEof01WM](https://www.youtube.com/watch?v=tBPpEof01WM)
+
+**Session 4. Thursday, February 6.**
+
+- Tarea 2: Entregar documento PDF con el draft de la revisión literaria. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 4. Ponderación 5% de la calificación final. El documento debe ser el mismo que el de la tarea 1, solo incluyan una nueva sección con el draft de la revisión literaria. 
+- Actividad: Retroalimentación de la tarea 2.
+- Actividad: Discusión de video. [Effective Data Storytelling for Financial Services](https://www.datacamp.com/resources/webinars/effective-data-storytelling-for-financial-services)
+
+**Session 5. `r fontawesome::fa_i("heart", class = "fa-solid", style = "color: red;")` Thursday, February 13.**
+
+- Tarea 3: Entregar documento PDF con introducción, revisión literaria y metodología. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 5. Ponderación 10% de la calificación final. El documento debe ser el mismo que el de la tarea 2, solo incluyan las nuevas secciones y correcciones pertinentes. 
+- Actividad: Recibir retroalimentación de la tarea 3.
+
+## `r fontawesome::fa("battery-half")` Part 2.
+
+**Session 6, Zoom. Thursday, February 20.**
+
+- Tarea 4: Entregar la tarea 3 con comentarios y un enlace de YouTube con un *elevator pitch*. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 6. Ponderación 10% de la calificación final. El documento debe ser el mismo que el de la tarea 3. Identifiquen claramente los cambios y mejoras que incorporaron en la primera página. El *elevator pitch* es una grabación de su presentación de máximo 2 minutos en donde todos los miembros del equipo participan para explicar su proyecto. La grabación es sin apoyos visuales. 
+- Ejemplo de un *elevator pitch*: [PhD Elevator Pitch Presentation by Fabienne Cheung](https://youtu.be/nayGkMLM9as?si=GaJSIR20lqTKod5h)
+- Actividad: Recibir retroalimentación de la tarea 4.
+- Tema: Habilidades para presentación.
+- Actividad: Discusión de video. [Academic Skills - Presenting Effectively - Part 1](https://youtu.be/pNIO5KkIq7Y?si=JGbpaWCQfVnQrdH2)
+- Actividad: Discusión de video. [Academic Skills - Presenting Effectively - Part 2](https://youtu.be/O-D9fZN01yk?si=bbA8WRbQCqTRX2p_)
+- Actividad: Completar coevaluación 1. Las coevaluaciones funcionan como en el resto de clases que imparto, pueden ver las instrucciones en el siguiente enlace [https://mlozanoqf.github.io/ARF1/#co-evaluation](https://mlozanoqf.github.io/ARF1/#co-evaluation). El enlace estará disponible en Blackboard en la sección "entregas". La hora límite es 7:00pm de la sesión 6.
+- Reporte de calificaciones primer parcial.
+
+**Session 7. Thursday, February 27.**
+
+- Tarea 5: Presentar introducción, literatura y metodología. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. Ponderación 10% de la calificación final.
+- Actividad: Recibir retroalimentación de la tarea 5.
+- Actividad: Revisar la rúbrica de la entrega final.
+
+**Session 8. `r fontawesome::fa("female")` Thursday, March 6.**
+
+- Tarea 6: Presentar anteproyecto para alumnos y/o público externo. Presentaciones con apoyos visuales en clase. Máximo 15 minutos por equipo. Presentación presencial. Ponderación 10% de la calificación final.
+
+**Session 9. $\pi$ Thursday, March 13.**
+
+- Tarea 7: Presentar anteproyecto con comentarios. Presentaciones con apoyos visuales en clase. Máximo 15 minutos por equipo. Presentación presencial. Ponderación 10% de la calificación final.
+- Actividad: Recibir retroalimentación de la tarea 7.
+
+**Session 10. Thursday, March 20.**
+
+- No hay sesión presencial ni por Zoom.
+- Actividad: Hacer las grabaciones de las presentaciones. Aprovechen que todos tienen tiempo libre al menos de 7:00pm a 10:00pm para hacerlo. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. 
+
+## `r fontawesome::fa("battery-three-quarters")` Part 3.
+
+**Session 11. Thursday, March 27.**
+
+- No hay sesión presencial ni por Zoom.
+- Actividad: Hacer las grabaciones de las presentaciones. Aprovechen que todos tienen tiempo libre al menos de 7:00pm a 10:00pm para hacerlo. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. 
+- Actividad: Completar coevaluación 2. Las coevaluaciones funcionan como en el resto de clases que imparto, pueden ver las instrucciones en el siguiente enlace [https://mlozanoqf.github.io/ARF1/#co-evaluation](https://mlozanoqf.github.io/ARF1/#co-evaluation). El enlace estará disponible en Blackboard en la sección "entregas". La hora límite es 7:00pm de la sesión 11.
+- Reporte de calificaciones segundo parcial.
+
+**Session 12. Thursday, April 3.**
+
+- No hay sesión presencial ni por Zoom.
+- Tarea 8: Entrega de enlace de videos de YouTube. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 12. Ponderación 10% de la calificación final. El documento debe ser el mismo que el de la tarea 4, solo incluyan el enlace del video de YouTube y correcciones pertinentes. Incluyan los apoyos visuales usados en la presentación. 
+
+**Session 13. Thursday, April 10.**
+
+- No hay sesión presencial ni por Zoom.
+- Revisión de videos.
+- Revisión de los los videos por parte de los profesores del departamento, del lunes 7 de abril al miércoles 23 de abril a las 10:00am.
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Thursday, April 17.**
+
+**Session 14. Thursday, April 24.**
+
+- No hay sesión presencial ni por Zoom.
+- Entrega de calificaciones: 70 puntos de tareas más 30 de evaluación de profesores.
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Thursday, May 1.**
+
+## `r fontawesome::fa("battery-full")` The end.
+
+**Session 15. Thursday, May 8.**
+
+- No hay sesión presencial ni por Zoom.
+- Presentaciones en caso de reprobar.
+- Farewell `r fontawesome::fa_i("heart", class = "fa-solid", style = "color: red;")`.
+
+# `r fontawesome::fa("calendar-alt")` UDEM: Calendario PEF2. 
+
+En PEF2 no tenemos sesiones como en un curso regular. El calendario no incluye juntas, ni otras actividades necesarias que no es posible anticipar.
+
+**Semana 1 y 2.**
+
+- Junta inicial para determinar los siguientes pasos.
+
+**Semana 3.**
+
+- Invitación a dos sinodales. Para el caso de sinodales externos, es necesario que tenga un título de maestría y enviarnos su título de maestría e identificación oficial.
+
+**Semana 4.**
+
+- Determinar las fechas de las presentaciones de medio término y la presentación final de acuerdo a la disponibilidad de horario de los sinodales.
+- Reserva de salas para las presentaciones de medio término y la final.
+- Reserva de la hora en la que van a pasar a la campana.
+
+**Semana 5.**
+
+- Coevaluación del primer parcial. El enlace lo recibirán por correo electrónico.
+- Reporte de calificaciones del primer parcial.
+
+**Semana 8.**
+
+- Presentaciones a mis alumnos de EMF. Lunes 23 de septiembre de 5:30pm a 7:00pm, en el salón 3202.
+
+**Semana 9 y 10.**
+
+- Presentaciones de medio término.
+- Reunión posterior a la presentaciones de medio término.
+
+**Semana 10.**
+
+- Coevaluación del segundo parcial. El enlace lo recibirán por correo electrónico.
+- Reporte de calificaciones del segundo parcial.
+
+**Semana 12.**
+
+- Presentaciones para mi grupo de EMF, salón 1305, jueves 3 de abril 5:30p.m.
+
+**Semana 12 a la 15.**
+
+- Juntas para revisión de avances y ensayos.
+
+**Semana 16.**
+
+- Registro del proyecto en Biblioteca. Los detalles se encuentran en la página electrónica de la biblioteca.
+- Entrega del documento PEF por correo electrónico.
