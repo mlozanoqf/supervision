@@ -1,6 +1,6 @@
 # `r fontawesome::fa("calendar-alt")` UDEM: Calendario MIN. 
 
-MIN, Primavera 2026. Salón xxx, Jueves 19:00 – 22:00. Zoom URL para unirse: [xxx](xxx)
+MIN, Primavera 2026. Salón 3310, Jueves 19:00 – 22:00. Zoom URL para unirse: [https://us02web.zoom.us/j/82399571470](https://us02web.zoom.us/j/82399571470)
 
 
 ## `r fontawesome::fa("battery-quarter", fill = "grey")` Part 1.
@@ -24,7 +24,7 @@ MIN, Primavera 2026. Salón xxx, Jueves 19:00 – 22:00. Zoom URL para unirse: [
 
 **Session 3. Thursday, January 29.**
 
-- Obligatorio. Acepta las normativas del trabajo en equipo para esta clase: [Formulario](https://forms.gle/uXQsK2ZgzszFtHG68).
+- Obligatorio. Acepta las normativas del trabajo en equipo para esta clase: [Formulario](https://forms.gle/gb1AaiMtQSqe6BfeA).
 - Obligatorio. Imprimir, firmar y entregar en clase las "Políticas para el Desarrollo de Proyecto de Evaluación Final (PEF)".
 - Tarea 1: Entregar documento PDF con: (1) la confirmación de miembros de equipos, tema y asesor, (2) reporte de los objetivos de su proyecto. Estos pueden ser de uno a dos objetivos generales, con dos a tres objetivos específicos por cada objetivo general. El documento no debería exceder una página. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 3. Ponderación 5% de la calificación final.
 - Actividad: Retroalimentación de la tarea 1.

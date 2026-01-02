@@ -46,7 +46,7 @@ Esta sección es exclusiva para aquellos equipos que hayan decidido que yo sea s
 
 Hay dos eventos que definen el semestre de PEF2. El primero es la presentación de medio término. El segundo es la presentación final. Ambas son presentaciones presenciales en la UDEM.
 
-**Presentación de medio término.**
+**`r fontawesome::fa("angle-right")` Presentación de medio término.**
 
 La presentación de medio término es una oportunidad para que el equipo presente los avances de su trabajo a dos sinodales y a mí. Esta presentación la programo de acuerdo con la disponibilidad de los sinodales antes de reportar calificaciones del segundo parcial. Esto significa que la presentación de medio término determina su calificación del segundo parcial y es una evaluación conjunta entre sinodales y yo. Tan pronto confirme su disponibilidad, anuncio la fecha al equipo.
 
@@ -58,17 +58,17 @@ Al inicio de la presentación agradezco la presencia de los sinodales y les indi
 
 En términos prácticos, el proyecto debe estar en una etapa avanzada al momento de la presentación de medio término. Esto implica avances significativos durante el primer y segundo parcial. Los avances se reflejan tanto en el documento final como en la presentación de medio término. Este evento es crítico porque los sinodales crean expectativas sobre la entrega final a partir de lo que observan en medio término. Por esta razón, tendremos ensayos previos. El equipo tiene la obligación de agendar al menos un ensayo previo a la presentación de medio término y al menos un ensayo previo a la presentación final.
 
-**Entre medio término y la presentación final.**
+**`r fontawesome::fa("angle-right")` Entre medio término y la presentación final.**
 
 El periodo entre el final de la presentación de medio término y la presentación final se dedica a incorporar la retroalimentación y comentarios de los sinodales, además de los requerimientos propios del proyecto. La idea es que en la presentación final los sinodales puedan ver claramente que sus comentarios han sido escuchados y que han sido implementados.
 
 Es importante que el equipo no acuda a los sinodales para revisión de avances. Los avances del proyecto se revisan únicamente conmigo como su supervisor. La interacción del equipo con los sinodales se limita a la presentación de medio término y a la presentación final.
 
-**Entrega previa a la presentación final.**
+**`r fontawesome::fa("angle-right")` Entrega previa a la presentación final.**
 
 Antes de la presentación final, el equipo debe entregar el documento a biblioteca y enviarlo también a mi correo, para que yo pueda compartirlo con los sinodales una semana antes de la presentación final. Las indicaciones detalladas sobre el documento de tesis están explicadas en las primeras 9 secciones de este documento.
 
-**Presentación final.**
+**`r fontawesome::fa("angle-right")` Presentación final.**
 
 La presentación final es el evento en el que el equipo presenta el proyecto terminado a los sinodales y a mí. La UDEM abre un periodo de dos semanas para programar las presentaciones finales, pero en mi caso las programo en la primera semana, de acuerdo con la disponibilidad de los sinodales. En cuanto tenga la fecha confirmada, haré las reservas correspondientes para que el equipo tenga un espacio disponible para el toque de campana.
 
