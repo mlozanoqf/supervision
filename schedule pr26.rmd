@@ -230,7 +230,7 @@ Esta sección es exclusiva para aquellos equipos que hayan decidido que yo sea s
 
 - Ensayos de presentaciones finales.
 
-**Week 16. Mon-Fri, May 4-8.**
+**Week 16. `r fontawesome::fa("jedi-order")` Mon-Fri, May 4-8.**
 
 - Registro del proyecto en Biblioteca. Los detalles se encuentran en la página electrónica de la biblioteca [https://udem.libguides.com/c.php?g=1142125](https://udem.libguides.com/c.php?g=1142125) Es importante que lo hagan con tiempo porque van a requerir recolectar firmas.
 - Entrega del documento PEF por correo electrónico.
