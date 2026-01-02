@@ -22,17 +22,19 @@ xfun::file_string('contact.html')
 ````
 
 
-```{r strategies, child = 'intro.qmd'}
+```{r strategies, child = '1intro.qmd'}
 ```
 
 
-```{r strategies, child = 'structure.Rmd'}
+```{r strategies, child = '2structure.Rmd'}
 ```
 
 
-```{r strategies, child = 'style.Rmd'}
+```{r strategies, child = '3style.Rmd'}
 ```
 
+```{r strategies, child = '4udem.Rmd'}
+```
 
 ```{r include=FALSE}
 a <- toc()
@@ -42,7 +44,7 @@ a <- toc()
 This document took `r round(as.numeric((a$toc-a$tic)), 2)` seconds to compile in Quarto version `r quarto::quarto_version()`, and `r R.version.string`.
 
 
-```{r strategies, child = 'schedule ot25.Rmd'}
+```{r strategies, child = 'schedule pr26.Rmd'}
 ```
 
 # `r fontawesome::fa("book-open")` References. {.unnumbered}

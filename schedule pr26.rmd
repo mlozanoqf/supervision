@@ -1,11 +1,11 @@
 # `r fontawesome::fa("calendar-alt")` UDEM: Calendario MIN. 
 
-MIN, Otoño 2025. Salón 2305, Jueves 19:00 – 22:00. Zoom URL para unirse: [https://us02web.zoom.us/j/83070791425](https://us02web.zoom.us/j/83070791425)
+MIN, Primavera 2026. Salón xxx, Jueves 19:00 – 22:00. Zoom URL para unirse: [xxx](xxx)
 
 
 ## `r fontawesome::fa("battery-quarter", fill = "grey")` Part 1.
 
-**Session 1. `r fontawesome::fa("handshake")` Thursday, August 7.**
+**Session 1. `r fontawesome::fa("handshake")` Thursday, January 15.**
 
 - Bienvenida.
 - ¿Tienes equipo, tema y asesor(a)?
@@ -13,7 +13,7 @@ MIN, Otoño 2025. Salón 2305, Jueves 19:00 – 22:00. Zoom URL para unirse: [ht
 - Mensaje: *El tema de tu tesis no se define en una lluvia de ideas, sino que surge revisando la literatura, con la ayuda de Google Scholar, ChatGPT y tu profesor.*
 - Tema: Uso de [Google Scholar](https://scholar.google.com/) en la definición del tema y bases de datos.
 
-**Session 2. Thursday, August 14.**
+**Session 2. Thursday, January 22.**
 
 - Actividad: Confirmar si te faltan seis materias o menos para completar su plan de estudios.
 - Actividad: Reportar avances en la formación de equipos, definición del tema y asignación de asesor(a).
@@ -22,7 +22,7 @@ MIN, Otoño 2025. Salón 2305, Jueves 19:00 – 22:00. Zoom URL para unirse: [ht
 - Tema: Temas de investigación en finanzas.
 - Actividad: Discusión de video. [Finding Research Topics - Robert Marquez](https://youtu.be/TuxcX4V0d08?si=B1Y6Dqb2frx2ZACV)
 
-**Session 3. Thursday, August 21.**
+**Session 3. Thursday, January 29.**
 
 - Obligatorio. Acepta las normativas del trabajo en equipo para esta clase: [Formulario](https://forms.gle/uXQsK2ZgzszFtHG68).
 - Obligatorio. Imprimir, firmar y entregar en clase las "Políticas para el Desarrollo de Proyecto de Evaluación Final (PEF)".
@@ -32,34 +32,50 @@ MIN, Otoño 2025. Salón 2305, Jueves 19:00 – 22:00. Zoom URL para unirse: [ht
 - Tema: La estructura del documento de tesis: @sec-structure.
 - Actividad: Discusión de video. [https://www.fma.org/virtual-seminar](https://www.fma.org/virtual-seminar)
 - Actividad: Discusión de video. [https://www.fma.org/student-virtual-seminar](https://www.fma.org/student-virtual-seminar)
-- Videos de PEF1, primavera 2020: [https://youtu.be/GGAdpuTCHIM?si=PfL70F-fiUAmWv_V](https://youtu.be/GGAdpuTCHIM?si=PfL70F-fiUAmWv_V), 
-[https://youtu.be/sl4hFMBH0HQ?si=PxtJTgRKEEEaDMdn](https://youtu.be/sl4hFMBH0HQ?si=PxtJTgRKEEEaDMdn), 
-[https://youtu.be/UdoB4foBcNo?si=Tw3a4mROs6UIE6vM](https://youtu.be/UdoB4foBcNo?si=Tw3a4mROs6UIE6vM), 
-[https://youtu.be/gyR1w93Nj_s?si=_O7ASruXNB0kiIXK](https://youtu.be/gyR1w93Nj_s?si=_O7ASruXNB0kiIXK)
-- Videos de PEF1, primavera 2024: [https://youtu.be/js6qeGYRbQc](https://youtu.be/js6qeGYRbQc), 
-[https://youtu.be/tKuvjVn0cPU?si=56LQbVGH7DIA7dNz](https://youtu.be/tKuvjVn0cPU?si=56LQbVGH7DIA7dNz), 
-[https://youtu.be/QzwEBgACijI?si=wdp2-DjMhj5oreeK](https://youtu.be/QzwEBgACijI?si=wdp2-DjMhj5oreeK), 
-[https://www.youtube.com/watch?v=4ZvzEISD2QY&t=4s](https://www.youtube.com/watch?v=4ZvzEISD2QY&t=4s), 
-[https://youtu.be/_tZFvY8X7mI](https://youtu.be/_tZFvY8X7mI), 
-[https://www.youtube.com/watch?v=oSaVddKMf_M](https://www.youtube.com/watch?v=oSaVddKMf_M), 
-[https://youtu.be/setOjbQdcxo](https://youtu.be/setOjbQdcxo)
+- Videos de PEF1, primavera 2020: [Eq1](https://youtu.be/GGAdpuTCHIM?si=PfL70F-fiUAmWv_V), 
+[Eq2](https://youtu.be/sl4hFMBH0HQ?si=PxtJTgRKEEEaDMdn), 
+[Eq3](https://youtu.be/UdoB4foBcNo?si=Tw3a4mROs6UIE6vM), 
+[Eq4](https://youtu.be/gyR1w93Nj_s?si=_O7ASruXNB0kiIXK).
+- Videos de PEF1, primavera 2024: [Eq1](https://youtu.be/js6qeGYRbQc), 
+[Eq2](https://youtu.be/tKuvjVn0cPU?si=56LQbVGH7DIA7dNz), 
+[Eq3](https://youtu.be/QzwEBgACijI?si=wdp2-DjMhj5oreeK), 
+[Eq4](https://www.youtube.com/watch?v=4ZvzEISD2QY&t=4s), 
+[Eq5](https://youtu.be/_tZFvY8X7mI), 
+[Eq6](https://www.youtube.com/watch?v=oSaVddKMf_M), 
+[Eq7](https://youtu.be/setOjbQdcxo).
 - Videos de PEF1, otoño 2024: 
-[https://www.youtube.com/watch?v=TUcfs9TuH6w](https://www.youtube.com/watch?v=TUcfs9TuH6w), [https://youtu.be/1NvKQogLiWw?si=AOD1pmJm00QKAmEs](https://youtu.be/1NvKQogLiWw?si=AOD1pmJm00QKAmEs), [https://www.youtube.com/watch?v=tBPpEof01WM](https://www.youtube.com/watch?v=tBPpEof01WM)
+[Eq1](https://www.youtube.com/watch?v=TUcfs9TuH6w), [Eq2](https://youtu.be/1NvKQogLiWw?si=AOD1pmJm00QKAmEs), [Eq3](https://www.youtube.com/watch?v=tBPpEof01WM).
+- Videos de PEF1, primavera 2025: 
+[Eq1](https://youtu.be/BuqeZKRb0vg),
+[Eq2](https://www.youtube.com/watch?v=G4yavhVhjvg),
+[Eq3](https://youtu.be/bJNVKldKNto),
+[Eq4](https://www.youtube.com/watch?v=cpVu0EFpPqk),
+[Eq5](https://youtu.be/CmPZeucThYI?si=sOs4dyGtOs69j1m1).
+- Videos de PEF1, otoño 2025: 
+[Eq1](https://www.youtube.com/watch?v=jqpbOo9rpqs),
+[Eq2](https://youtu.be/UZHdbRdcVUM),
+[Eq3](https://youtu.be/52iz_0wDngE?si=jh0ZJNj8l1LIqeNJ),
+[Eq4](https://youtu.be/hZnWCPF-7qo),
+[Eq5](https://youtu.be/8FuBc1Z04GM),
+[Eq6](https://youtu.be/xcZQcXzT9h4?si=elURs4FzV9QOK651),
+[Eq7](https://youtu.be/OkC0UNQov3s?si=uisAoUrk2-wzMREB),
+[Eq8](https://youtu.be/DlTg8Vkx57I?si=g2KNqrbN9rvXEHaY).
 
-**Session 4. Thursday, August 28.**
+**Session 4. Thursday, February 5.**
 
 - Tarea 2: Entregar documento PDF con el draft de la revisión literaria. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 4. Ponderación 5% de la calificación final. El documento debe ser el mismo que el de la tarea 1, solo incluyan una nueva sección con el draft de la revisión literaria. 
 - Actividad: Retroalimentación de la tarea 2.
 - Actividad: Discusión de video. [Effective data storytelling for financial services](https://www.datacamp.com/resources/webinars/effective-data-storytelling-for-financial-services).
 
-**Session 5. Thursday, September 4.**
+**Session 5. `r fontawesome::fa_i("heart", class = "fa-solid", style = "color: red;")` Thursday, February 12.**
 
 - Tarea 3: Entregar documento PDF con revisión literaria y metodología. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 5. Ponderación 5% de la calificación final. El documento debe ser el mismo que el de la tarea 2, solo incluyan la nueva sección y correcciones pertinentes. 
 - Actividad: Recibir retroalimentación de la tarea 3.
+- *No conozco la fecha límite, pero deben completar la encuesta avanza 180 por favor.*
 
 ## `r fontawesome::fa("battery-half", fill = "red")` Part 2.
 
-**Session 6. Thursday, September 11.**
+**Session 6. Thursday, February 19.**
 
 - Tarea 4: Entregar documento PDF con introducción, revisión literaria y metodología. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 6. Ponderación 5% de la calificación final. El documento debe ser el mismo que el de la tarea 3, solo incluyan la nueva sección y correcciones pertinentes. 
 - Actividad: Recibir retroalimentación de la tarea 4.
@@ -67,7 +83,7 @@ MIN, Otoño 2025. Salón 2305, Jueves 19:00 – 22:00. Zoom URL para unirse: [ht
 - Reporte de calificaciones primer parcial.
 - *No conozco la fecha límite, pero deben completar la encuesta avanza 180 por favor.*
 
-**Session 7, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Thursday, September 18.**
+**Session 7. Thursday, February 26.**
 
 - Tarea 5: Entregar la tarea 4 con comentarios y un enlace de YouTube con un *elevator pitch*. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 7. Ponderación 10% de la calificación final. El documento debe ser el mismo que el de la tarea 4. Identifiquen claramente los cambios y mejoras que incorporaron en la primera página. El *elevator pitch* es una grabación de su presentación de máximo 2 minutos en donde todos los miembros del equipo participan para explicar su proyecto. La grabación es sin apoyos visuales. 
 - Ejemplo de un *elevator pitch*: [PhD elevator pitch presentation by Fabienne Cheung](https://youtu.be/nayGkMLM9as?si=GaJSIR20lqTKod5h)
@@ -76,22 +92,22 @@ MIN, Otoño 2025. Salón 2305, Jueves 19:00 – 22:00. Zoom URL para unirse: [ht
 - Actividad: Discusión de video. [Academic skills - presenting effectively - Part 1](https://youtu.be/pNIO5KkIq7Y?si=JGbpaWCQfVnQrdH2)
 - Actividad: Discusión de video. [Academic skills - presenting effectively - Part 2](https://youtu.be/O-D9fZN01yk?si=bbA8WRbQCqTRX2p_)
 
-**Session 8. Thursday, September 25.**
+**Session 8. Thursday, March 5.**
 
 - Tarea 6: Presentar introducción, literatura y metodología. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. Ponderación 10% de la calificación final.
 - Actividad: Recibir retroalimentación de la tarea 6.
 - Actividad: Revisar la rúbrica de la entrega final.
 
-**Session 9. Thursday, October 2.**
+**Session 9. Thursday, March 12.**
 
 - Tarea 7: Presentar anteproyecto para alumnos y/o público externo. Presentaciones con apoyos visuales en clase. Máximo 15 minutos por equipo. Presentación presencial. Ponderación 15% de la calificación final.
 
-**Session 10. Thursday, October 9.**
+**Session 10. `r fontawesome::fa_i("sun", class = "fa-solid")` Thursday, March 19.**
 
 - Tarea 8: Presentar anteproyecto con comentarios. Presentaciones con apoyos visuales en clase. Máximo 15 minutos por equipo. Presentación presencial. Ponderación 15% de la calificación final.
 - Actividad: Recibir retroalimentación de la tarea 8.
 
-**Session 11. Thursday, October 16.**
+**Session 11. Thursday, March 26.**
 
 - No hay sesión presencial ni por Zoom.
 - Actividad: Hacer las grabaciones de las presentaciones. Aprovechen que todos tienen tiempo libre al menos de 7:00pm a 10:00pm para hacerlo. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. 
@@ -100,117 +116,126 @@ MIN, Otoño 2025. Salón 2305, Jueves 19:00 – 22:00. Zoom URL para unirse: [ht
 
 ## `r fontawesome::fa("battery-three-quarters", fill = "orange")` Part 3.
 
-**Session 12. Thursday, October 23.**
+**Holiday. `r fontawesome::fa("umbrella-beach")` Thursday, April 2.**
+
+**Session 12. Thursday, April 9.**
 
 - No hay sesión presencial ni por Zoom.
 - Actividad: Hacer las grabaciones de las presentaciones. Aprovechen que todos tienen tiempo libre al menos de 7:00pm a 10:00pm para hacerlo. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. 
 
-**Session 13. `r fontawesome::fa("ghost")` Thursday, October 30.**
+**Session 13. Thursday, April 16.**
 
 - No hay sesión presencial ni por Zoom.
 - Tarea 9: Entrega de enlace de videos de YouTube. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 13. Ponderación 30% de la calificación final. El documento debe ser el mismo que el de la tarea 5, solo incluyan el enlace del video de la presentación final en YouTube y correcciones pertinentes. Incluyan los apoyos visuales usados en la presentación. 
 
-**Session 14. Thursday, November 6.**
+**Session 14. Thursday, April 23.**
 
 - No hay sesión presencial ni por Zoom.
 - Revisión de videos.
-- Revisión de los los videos por parte de los profesores del departamento, del lunes 3 de noviembre al miércoles 12 de noviembre a las 6:00pm.
+- Revisión de los los videos por parte de los profesores del departamento, del lunes 20 de abril al miércoles 29 de abril a las 6:00pm.
+- *No conozco la fecha límite, pero deben completar la encuesta avanza 360 por favor.*
 
-**Session 15. Thursday, November 13.**
+**Session 15. `r fontawesome::fa_i("children", class = "fa-solid")` Thursday, April 30.**
 
 - No hay sesión presencial ni por Zoom.
 - Entrega de calificaciones: 70 puntos de tareas más 30 de evaluación del video de presentación final por parte del comité de profesores evaluadores.
 
 ## `r fontawesome::fa("battery-full", fill = "green")` The end.
 
-**Session 16. Thursday, November 20.**
+**Session 16. Thursday, May 7.**
 
 - No hay sesión presencial ni por Zoom.
-- Presentaciones en caso de reprobar.
+- Presentaciones en caso de reprobar la clase.
 - Farewell `r fontawesome::fa_i("heart", class = "fa-solid", style = "color: red;")`.
 
 # `r fontawesome::fa("calendar-alt")` UDEM: Calendario PEF2. 
 
-En PEF2 no tenemos sesiones como en un curso regular. El calendario no incluye juntas, ni otras actividades necesarias que no es posible anticipar.
+Esta sección es exclusiva para aquellos equipos que hayan decidido que yo sea su supervisor de su proyecto PEF. Cada supervisor tiene una forma distinta de trabajar, con lo cual esta sección no debe considerarse como lineamientos generales. En PEF2 no tenemos sesiones como en un curso regular. El calendario no incluye juntas, ni otras actividades necesarias que no es posible anticipar.
 
+## `r fontawesome::fa("battery-quarter", fill = "grey")` Part 1.
 
-**Semana 1. 4 al 8 de agosto**.
+**Week 1. `r fontawesome::fa("handshake")` Mon-Fri, Jan 12-16.**
 
+- Reading. Course syllabus (this document).
 - Junta inicial para determinar los siguientes pasos.
 
-**Semana 2. 11 al 15 de agosto**.
+**Week 2. Mon-Fri, Jan 19-23.**
 
-- Junta inicial para determinar los siguientes pasos.
-- Invitación a dos sinodales. Para el caso de sinodales externos, es necesario que tenga un título de maestría y enviarnos su título de maestría e identificación oficial.
+- Martín: Invitar a dos sinodales.
 
-**Semana 3. 18 al 22 de agosto**.
+**Week 3. Mon-Fri, Jan 26-30.**
 
-- Determinar las fechas de las presentaciones de medio término y la presentación final de acuerdo a la disponibilidad de horario de los sinodales.
-- Reserva de salas para las presentaciones de medio término y la final.
-- Reserva de la hora en la que van a pasar a la campana.
+- Martín: Determinar las fechas de las presentaciones de medio término y la presentación final de acuerdo a la disponibilidad de horario de los sinodales.
+- Martín: Reserva de salas para las presentaciones de medio término y la final.
+- Martín: Reserva de la hora en la que van a pasar a la campana.
 
-**Semana 4. 25 al 29 de agosto**.
+**Week 4. Mon-Fri, Feb 2-6.**
 
-- Enviar un breve reporte de avance por Pumble.
+- Continua el avance regular por parte del equipo.
+- Existen rúbricas y lineamientos para optar por la mención de excelencia. Sugiero que el equipo me solicite esos documentos.
+ 
+**Week 5. `r fontawesome::fa_i("heart", class = "fa-solid", style = "color: red;")` Mon-Fri, Feb 9-13.**
 
-**Semana 5. 1 al 5 de septiembre**.
+- *No conozco la fecha límite, pero deben completar la encuesta avanza 180 por favor.*
+- Continua el avance regular por parte del equipo.
 
-- Enviar un breve reporte de avance por Pumble.
+**Week 6. Mon-Fri, Feb 16-20.**
 
-**Semana 6. 8 al 12 de septiembre**.
+- Continua el avance regular por parte del equipo.
 
-- Entrega 1. Documento PowerPoint que incluya: (1) metodología y (2) resultados. 
-- Coevaluación del primer parcial. El enlace lo recibirán por correo electrónico.
+**Week 7. Mon-Fri, Feb 23-27.**
+
+- Entrega 1. La definición de la entrega depende de cada proyecto. Lo que es seguro es que deben entregar un avance sobre los resultados.
+- Si el equipo lo solicita, podemos tener una coevaluación en el primer parcial.
 - Reporte de calificaciones del primer parcial.
 
-**Semana 7. 15 al 19 de septiembre**.
+## `r fontawesome::fa("battery-half", fill = "red")` Part 2.
 
-- Enviar un breve reporte de avance por Pumble.
+**Week 8. Mon-Fri, Mar 2-6.**
 
-**Semana 8. 22 al 26 de septiembre**.
+- Continua el avance regular por parte del equipo.
 
-- Enviar un breve reporte de avance por Pumble.
+**Week 9. Mon-Fri, Mar 9-13.**
 
-**Semana 9. 29 de septiembre al 3 de octubre**.
+- Continua el avance regular por parte del equipo.
 
-- Enviar un breve reporte de avance por Pumble.
+**Week 10. Mon-Fri, Mar 16-20.**
 
-**Semana 10. 6 al 10 de octubre**.
+- Ensayos de presentaciones de medio término.
 
-- Enviar un breve reporte de avance por Pumble.
+**Week 11. Mon-Fri, Mar 23-27.**
 
-**Semana 11. 13 al 17 de octubre**.
-
-- Entrega 1. Documento PowerPoint que incluya: (1) introducción; (2) revisión literaria; (3) metodología; y (4) resultados.
-- Coevaluación del segundo parcial. El enlace lo recibirán por correo electrónico.
-
-**Semana 12. 20 al 24 de octubre**.
-
-- Presentaciones de medio término en la que asisten sinodales y supervisor.
-- Reunión posterior a la presentaciones de medio término.
+- Presentaciones de medio término.
+- Si el equipo lo solicita, podemos tener una coevaluación en el segundo parcial.
 - Reporte de calificaciones del segundo parcial.
 
-**Semana 13. 27 al 31 de octubre**.
+## `r fontawesome::fa("battery-three-quarters", fill = "orange")` Part 3.
 
-- Enviar un breve reporte de avance por Pumble.
+**Holiday. `r fontawesome::fa("umbrella-beach")` Mon-Fri, Mar 30-Apr 3.**
 
-**Semana 14. 3 al 7 de noviembre**.
+**Week 12. Mon-Fri, Apr 6-10.**
 
-- Enviar un breve reporte de avance por Pumble.
+- Junta posterior a la presentación de medio término para determinar los siguientes pasos.
 
-**Semana 15. 10 al 14 de noviembre**.
+**Week 13. Mon-Fri, Apr 13-17.**
 
-- Entrega 3. Documento Word que incluya: (1) título; (2) abstract; (3) introducción; (4) revisión literaria; (5) metodología; (6) resultados; (7) conclusiones.
-- Registro del proyecto en Biblioteca. Los detalles se encuentran en la página electrónica de la biblioteca.
+- Continua el avance regular por parte del equipo.
+
+**Week 14. Mon-Fri, Apr 20-24.**
+
+- Continua el avance regular por parte del equipo.
+- *No conozco la fecha límite, pero deben completar la encuesta avanza 360 por favor.*
+
+**Week 15. `r fontawesome::fa_i("children", class = "fa-solid")` Mon-Fri, Apr 27-May 1.**
+
+- Ensayos de presentaciones finales.
+
+**Week 16. Mon-Fri, May 4-8.**
+
+- Registro del proyecto en Biblioteca. Los detalles se encuentran en la página electrónica de la biblioteca [https://udem.libguides.com/c.php?g=1142125](https://udem.libguides.com/c.php?g=1142125) Es importante que lo hagan con tiempo porque van a requerir recolectar firmas.
 - Entrega del documento PEF por correo electrónico.
 
-**Semana 16. 17 al 21 de noviembre**.
-
-- Ensayos.
-
-**Semana 17. 24 al 28 de noviembre**.
+**Week 17. Mon-Fri, May 11-15.**
 
 - Presentaciones finales.
-
-
-
+- Farewell `r fontawesome::fa_i("heart", class = "fa-solid", style = "color: red;")`.

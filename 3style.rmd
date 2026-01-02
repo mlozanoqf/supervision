@@ -124,21 +124,126 @@ You could even ignore this document and that is unfortunate because this documen
 
 On the positive side, many other things might go well. I am confident that the negative issues can be easily and quickly be managed and you can progress well most of the time. 
 
+
+# `r fontawesome::fa("lightbulb")` Lessons from past dissertation cohorts.
+
+This guidance consolidates the feedback I repeatedly gave to dissertation teams in previous supervision chats in Pumble. The goal is to make the main lessons from those projects visible and reusable, so future students can avoid common problems and follow a clearer path to a strong final dissertation.
+
+## Red flags to treat as urgent.
+
+If any of the following describes your project, act immediately. These are the patterns that repeatedly cause weak dissertations.
+
+- We do not have a clear research question yet, or the question is still broad and vague.
+- The literature review is mostly a list of papers and summaries rather than an argument that justifies our approach.
+- The methodology explains what we did but does not explain why those choices answer the question.
+- The dataset description contains numbers that do not match the design, and we cannot explain why.
+- The results section is mainly tables and figures with description, but little interpretation or connection to the literature.
+- We keep expanding scope late in the timeline instead of strengthening what we already have.
+- We are close to the deadline and still making major changes to topic, dataset, or method.
+
+## The dissertation must read as one coherent argument.
+
+A recurring issue was that students included the required sections, but the dissertation still felt fragmented. The key lesson is that the dissertation must feel like a single, continuous argument where each section prepares the next.
+
+In practice, the reader should always be able to answer these questions without effort: What is the problem, what does the literature say and not say about it, what will you do to investigate it, what did you find, and why does it matter. If the links between sections are weak, add explicit sentences that connect them. Close the literature review by stating how it motivates your method. Open the methodology by restating what design choice you are making because of the literature.
+
+## Avoid overly complex structures that hide your main message.
+
+Another repeated pattern was an overly complex structure. Too many short subsections can bury the argument and make the dissertation feel like disconnected fragments. This reduces clarity and makes it harder for the marker to see what you contributed.
+
+Headings are not the problem. Fragmentation is. Use structure to help the reader follow the argument, not to break it into too many small pieces.
+
+## Write for clarity, not for sophistication.
+
+In several drafts, the writing was grammatically good but too dense and over-complicated. When clarity is sacrificed for style, the dissertation becomes harder to evaluate and your main points become less persuasive.
+
+Your writing should make it easy to see what you are claiming, why you are claiming it, and what evidence supports it. Clear writing is a strength in academic work, not a weakness.
+
+## Literature reviews must build justification, not just describe sources.
+
+A common early-stage mistake is writing a literature review as a catalogue of studies. A strong literature review does more than describe what others did. It synthesises what is known, identifies what is missing or inconsistent, and uses that gap to justify your own design.
+
+Another recurring issue was relying heavily on older sources. Classic papers can be important, but you should also show that you understand recent developments and current debates. If most sources are old or loosely connected to your question, the work looks outdated and under-informed.
+
+Source quality matters. Avoid treating non-academic websites as authoritative references for academic claims. Use peer-reviewed work as your foundation, and only use professional or institutional reports when they are genuinely appropriate.
+
+## Methodology must show reasoning, alignment, and detail.
+
+Across projects, one of the most frequent concerns was that methodology sections became descriptive rather than analytical. The method section is not only a list of steps. It must explain why your choices answer your research question and how they connect to the literature.
+
+Be explicit about why you chose your variables, how constructs were measured, and why the model or design fits the question. If you say you follow a prior paper, briefly explain what that paper did and why it is relevant to your design.
+
+Be precise about your dataset and sample. If your stated design and your stated number of observations do not match, the reader will question the integrity of your data handling. If there are missing years, an unbalanced panel, or multiple observations per unit, explain that clearly and early.
+
+Also be careful with statistical testing and assumptions. In some settings, observations are not independent, so methods that assume independence need justification. When data structure creates noise, consider whether a cleaner structure can reduce noise and make your results easier to interpret.
+
+## Results must be explained, not only reported.
+
+A repeated issue was results sections that describe tables and figures without explaining their meaning. Reporting outputs is not the same as analysis. Your results should directly answer your research question, and your discussion should show that you can interpret findings in relation to the literature.
+
+If your findings differ from prior work, do not stop at general explanations such as differences in time period or sample. Investigate and state clearly what causes the difference. When possible, show how the result changes under alternative assumptions or definitions.
+
+Be willing to refine your framing as the evidence develops. For some teams, it was helpful to let results lead the final organisation of the story, then adjust the research questions so they align with the actual evidence and conclusions.
+
+## Discussion and contribution must be explicit and evidence-based.
+
+Markers look for contribution and value added. If the discussion becomes mainly speculative, the dissertation can appear weak even if the project topic is strong. The discussion should make clear what your evidence supports and what it does not support.
+
+If the main finding is that an effect is weak or not significant, that can still be a contribution. The contribution is not only strong positive effects. The key is to state the conclusion clearly, explain the implication, and show that you have considered alternative explanations and limitations responsibly.
+
+When time is short, prioritise coherence, methodological justification, and clarity of interpretation. A small number of well-chosen robustness checks can strengthen credibility and reduce the appearance of over-interpretation.
+
+## Presentation should support the argument at the point of use.
+
+A recurring practical recommendation was to integrate tables and figures into the dissertation where you discuss them, rather than placing them far away from the argument. Readers need the evidence at the moment you make the claim.
+
+Figures should help the reader understand the full story. If splitting visuals into separate periods prevents the reader from seeing the overall pattern, consider combining them, but only if the result remains clear and readable.
+
+## Topic selection should be ambitious but feasible.
+
+Good topics are clear, focused, testable, and supported by data that is strong enough to sustain analysis. A risk across projects was choosing a topic that was interesting but difficult to support with the available dataset. When the evidence is thin, the project can drift into opinion rather than research.
+
+Across all teams, the strongest work was always the work where the reader could trace a clean line from the question, to the literature gap, to the method choice, to the evidence, to the interpretation, to the contribution. If you make that chain visible throughout, you greatly improve the quality and the markability of the dissertation.
+
+## Three examples of what "good" looks like.
+
+These examples show the difference between common weak patterns and the standard you should aim for. They are not the only valid way to write, but they illustrate the level of clarity and reasoning expected.
+
+**Example 1: Research question clarity.**  
+Weak pattern: "Does X affect Y?"  
+Why it is weak: It does not define context, measurement, or what would count as an answer.  
+Stronger pattern: "In the context of Z, is X associated with Y when Y is measured as [definition], controlling for [key factors], over the period [time window]?"  
+Why it is stronger: It narrows scope and implies a feasible design.
+
+**Example 2: Literature review paragraph.**  
+Weak pattern: "Paper A studied X. Paper B studied Y. Paper C studied Z."  
+Why it is weak: It summarises papers without building an argument for your design.  
+Stronger pattern: "Prior studies generally find [main pattern]. However, evidence is mixed in [specific context] because [reason]. This matters for our dissertation because it motivates our focus on [your design choice], and it justifies measuring X using [your measure] rather than [alternative]."  
+Why it is stronger: It synthesises and leads directly into your methodology.
+
+**Example 3: Results paragraph.**  
+Weak pattern: "Table 2 shows the regression results. X is positive and significant."  
+Why it is weak: It does not explain meaning, magnitude, or relation to the research question.  
+Stronger pattern: "The main result is that X is associated with higher Y. The estimated effect is [magnitude], and it remains similar under [one robustness variation]. This supports our research question because it suggests [interpretation]. Compared with prior studies, the direction is consistent, but the magnitude differs, likely because [specific difference we can defend]."  
+Why it is stronger: It links evidence to interpretation and to the literature.
+
 # `r fontawesome::fa("check-square")` Checklist.
 
 Below you can find a useful checklist to bear in mind while working on your thesis project.
 
-1. Keep me informed about your progress and do it regularly. The best way to approach me is by email.
-2. Make sure you are clear about what you are expected to do in the short run and in the medium run. This guide can shed some light about this.
-3. Make sure you fully and clearly understand my feedback, meetings agreements, comments, recommendations, advice, etc. If you do not understand this, then you have to ask me for clarification. Contact me for any concern you might have.
-4. If I ever take longer than expected to answer an email, or review a draft, please insist and kindly remind me. 
-5. Do not wait for further instructions passively. You are expected to ask for new and further instructions in case you do not know what you are supposed to do.
-6. Always keep quality standards high for your own work and overall performance. 
-7. Read this document on a regular basis as a guide and reference. You are expected to be able to achieve some sort of independence by following this guide closely. 
-8. Never get frustrated because there will be no challenge that you can overcome with the right amount of time and effort. If after all you get frustrated, upset, or angry do not let it happen too frequently and do not let it last for long. 
-9. Follow number 1. 
+1. Keep me informed about progress regularly, even when progress is slow.
+1. Make sure you are clear about what you are expected to do in the short run and in the medium run. This guide can shed some light about this.
+1. When you receive feedback, confirm what you understood and list the concrete edits you will make.
+1. If you need clarification, ask quickly and with a specific question. Do not guess and hope it is correct.
+1. If I take longer than expected to respond or review a draft, remind me politely.
+1. Do not wait passively for instructions. Propose your next steps and deadlines.
+1. Keep quality standards high throughout. Do not leave editing, checking, and polishing to the last days.
+1. Read this document on a regular basis as a guide and reference. You are expected to be able to achieve some sort of independence by following this guide closely. 
+1. Never get frustrated because there will be no challenge that you can overcome with the right amount of time and effort. If after all you get frustrated, upset, or angry do not let it happen too frequently and do not let it last for long. 
+1. Follow number 1. 
 
 # `r fontawesome::fa("smile")` Conclusion.
 
 I hope you find this process a rewarding learning experience for you. Remember that part of my time, my knowledge, interest, and experience are currently at your service.
 
+◼︎ ◼︎ ◼︎

@@ -1,0 +1,81 @@
+# `r fontawesome::fa("graduation-cap")` UDEM: PEF.
+
+El desarrollo de una tesis, un proyecto de investigación o un PEF como requisito para obtener un grado de licenciatura en el área de negocios es crucial por varias razones. En primer lugar, la elaboración de una tesis brinda a los estudiantes la oportunidad de adquirir, aplicar y perfeccionar sus habilidades de investigación, incidiendo en la importancia del método científico en su preparación profesional. Este enfoque estructurado no solo contribuye a la rigurosidad académica, sino que también inculca la capacidad de abordar problemas empresariales de manera sistemática y eficiente.
+
+Además, el proceso de elaborar una tesis implica la identificación y análisis profundo de problemas relevantes en el ámbito empresarial. Al enfrentarse a estos desafíos, los estudiantes adquieren una comprensión más profunda de la industria, mejoran sus habilidades analíticas y desarrollan la capacidad de proponer soluciones innovadoras a problemas que existen y a problemas que apenas se están gestando.
+
+La tesis también fomenta el pensamiento crítico y la habilidad para sintetizar información, aspectos esenciales en el mundo empresarial. Al finalizar este proyecto, los estudiantes habrán demostrado no solo su conocimiento teórico sino también su capacidad para aplicar conceptos en situaciones prácticas. En resumen, la elaboración de una tesis en el área de negocios no solo es un requisito académico, sino un proceso formativo que potencia habilidades de investigación, fomenta el pensamiento crítico y prepara a los futuros profesionales para abordar problemas empresariales de manera más eficiente y efectiva.
+
+En la UDEM, los estudiantes desarrollan su proyecto PEF en sus últimos dos semestres de sus estudios profesionales. En el penúltimo cursan PEF1 con el objetivo de proponer y obtener la aprobación de su proyecto; y en el último semestre PEF2 con el objetivo de desarrollar el proyecto y obtener la aprobación final. Entonces, aunque ambas sean dos materias, PEF1 y PEF2 se consideran como un solo bloque. Esto tiene implicaciones relevantes porque si un alumno reprueba PEF1, no tendrá derecho a continuar en PEF2 sino que debe cursar de nuevo PEF1 antes de cursar PEF2. De la misma manera, si un alumno reprueba PEF2, deberá cursar de nuevo PEF1 para preparar un proyecto nuevo y luego cursar PEF2 para implementarlo.
+
+Los entregables en este curso se realizarán en Quarto o en MS-Word, dependiendo de las habilidades e intereses del equipo. MS-Word es bien conocido. Quarto ofrece funcionalidades avanzadas que optimizan la gestión de información, secciones, referencias y la presentación de datos complejos. Su capacidad para integrar datos dinámicos, gráficos y análisis en el documento mismo mejora la visualización de información. Además, la automatización de tareas repetitivas y la eficiencia en la creación y edición de documentos permiten un flujo de trabajo más rápido y preciso. En un entorno empresarial competitivo, la superioridad de Quarto no solo aumenta la productividad, sino que también contribuye a una toma de decisiones informada y a la generación de documentos de alta calidad, destacando así la profesionalidad y eficacia del equipo.
+
+
+## UDEM: PEF1 o MIN.
+
+Bienvenidos a PEF1 o a Métodos de Investigación en Negocios (MIN). Este grupo es exclusivo para LFI, aunque algunas otras carreras lo pueden cursar con la autorización de la dirección de carrera y/o departamento académico. Usaré MIN o PEF1 de manera indistinta para referirme a este curso. Una vez que su anteproyecto de PEF1 esté terminado después de segundos parciales, y que sea aprobado por un comité de profesores al final de este semestre, ustedes cursarán PEF2 el siguiente semestre, que es el periodo en donde trabajan exclusivamente con su supervisor y que culmina con la presentación final de su proyecto PEF en el semestre de su graduación. 
+
+Antes de iniciar con PEF1, es importante verificar que el siguiente semestre sea el último de tus estudios profesionales, si no es así entonces debes contactar a la dirección de carrera porque seguramente no debas estar inscrito en este grupo este semestre. En particular, debes confirmar que actualmente te faltan seis materias o menos para completar tu plan de estudios.
+
+Mi nombre es Dr. Martín Lozano <tt>`<martin.lozano@udem.edu>`</tt> y soy el profesor asignado a la clase de MIN. También superviso equipos de PEF principalmente pero no exclusivamente para las carreras de economía y finanzas, con lo cual es posible que para algunos de ustedes sea profesor de MIN y además supervisor de su proyecto PEF en este semestre y el siguiente semestre en PEF2. En caso de que tengas interés en que yo supervise tu proyecto PEF, puedes contactarme.
+
+Una vez que esté verificado que pertenezcas a este grupo, lo siguiente que debes hacer en las primeras dos semanas de PEF1 es formar un equipo de cuatro personas con quienes harás el proyecto PEF. En caso de que no se completen los equipos, la dirección de carrera y/o departamento académico evaluarán y en su caso autorizarán equipos con otras carreras o un número de integrantes distinto. Esta es una de las primeras actividades prioritarias que se deben completar este semestre en PEF1. Resultaría muy problemático si algún alumno no tiene equipo al inicio de la tercera semana porque no podría cumplir con las entregas requeridas en la clase.
+
+Cuando el equipo esté completo, deben conseguir a un supervisor que pueda y que esté interesado en asesorar su proyecto. En concreto, deben buscar y contactar a un profesor del departamento académico de finanzas que esté interesado en su tema y que pueda supervisar su proyecto de PEF dada su carga académica. Administrativamente, el supervisor (o también llamado asesor) se incorpora al equipo hasta que el anteproyecto de PEF1 esté aprobado por un comité de profesores, lo que sucede al final de PEF1, pero en ocasiones su supervisor puede decidir participar activamente desde PEF1. Recomiendo que al abordar a su potencial supervisor de PEF ustedes ya tengan una idea sobre el proyecto que quieren hacer. Eso facilitaría el proceso de búsqueda de supervisor. 
+
+En concreto, lo que recomiendo es que tengan una plática como la siguiente: *"Profesor, cursamos PEF1 y estamos interesados en que usted sea nuestro supervisor, queremos hacer nuestro anteproyecto sobre ..., en caso de que sí pueda, nos gustaría saber si puede tener reuniones sobre nuestros avances durante este semestre que cursamos PEF1 o si prefiere que lo contactemos de nuevo cuando esté aprobado nuestro anteproyecto..."* Lo ideal es que puedan confirmar su asesor en la tercera semana de PEF1 o antes.
+
+Tener un asesor para PEF2 y un profesor en MIN puede ser confuso. Deben saber que las actividades de MIN las califico yo (Dr. Martín Lozano) como profesor de MIN este semestre y un comité evaluador formado por profesores del departamento de finanzas después de concluir los segundos parciales; y sus avances en PEF2 del siguiente semestre lo calificará su supervisor de PEF con el apoyo de un par de sinodales al final del semestre en el que cursen PEF2. 
+
+El objetivo principal de MIN es ayudar a los equipos a que tengan una propuesta de PEF o anteproyecto tan sólida, clara e interesante, que el comité de profesores no tenga duda en aprobarla y así el equipo pueda continuar con PEF2 el siguiente semestre. Para lograr el objetivo, tenemos actividades en el curso de MIN, y retroalimentación sobre la velocidad y calidad de sus avances. En general, la calidad del proyecto depende de la organización y el tiempo invertido por el equipo. En el caso en el que el equipo repruebe PEF1 no es porque el curso sea complicado sino porque por alguna razón el equipo no pudo cumplir con la calidad requerida en sus avances.
+
+Las actividades de MIN no son independientes. Esto significa que se requiere completar la primera para continuar con la segunda y así sucesivamente. Incluso una entrega puede incluir correcciones sobre las entregas anteriores. Su proyecto, entregas y presentaciones en MIN pueden ser en español o inglés, sugiero que eso lo consulten en su equipo y lo acuerden con su supervisor de PEF2. En MIN no tenemos políticas sobre entregas tardías porque las actividades son responsabilidad del equipo, y si no se entregan a tiempo se califica con cero. Como en otras clases de la misma frecuencia, el número de faltas máximo permitido de acuerdo al reglamento de estudiantes es 2.
+
+Completar una propuesta de investigación que sea aprobada por un comité de profesores no es sencillo porque a pesar de que los criterios de evaluación son los mismos y están disponibles para profesores y estudiantes, los profesores pueden tener visiones e interpretaciones distintas sobre los proyectos. Eso significa que para un profesor un criterio puede determinar la calificación de manera significativa mientras que para otro profesor no representa un problema muy grave. Por esta razón, la retroalimentación que yo haga a sus actividades durante clase están orientadas a ayudarlos a comprender los criterios de evaluación del comité de profesores. Los comentarios que ustedes reciban sobre sus actividades deben ayudarlos a ajustar sus criterios y alinearlos con los criterios del comité de profesores. En este sentido, los comentarios que haga a un equipo pueden servir de guía a otros equipos. Recibir comentarios negativos puede resultar frustrante, pero no deben tomarlos como una crítica destructiva. En MIN estamos colaborando, no compitiendo, estamos en paz, no en conflicto.
+
+Transición de PEF1 a PEF2.
+
+- En el momento en que su anteproyecto de PEF1 esté autorizado al final del semestre, pueden comenzar a trabajar con su supervisor de PEF2.
+- En PEF2 deben contactar a su supervisor para notificarle que su anteproyecto ha sido aprobado y para organizar la forma de trabajo durante PEF2.
+- Se espera que su proyecto PEF sea una continuación de su trabajo en PEF1.
+- Su supervisor les informará sobre los lineamientos de PEF2.
+
+## UDEM: PEF2.
+
+Esta sección es exclusiva para aquellos equipos que hayan decidido que yo sea su supervisor de su proyecto PEF. Cada supervisor tiene una forma distinta de trabajar, con lo cual esta sección no debe considerarse como lineamientos generales.
+
+Hay dos eventos que definen el semestre de PEF2. El primero es la presentación de medio término. El segundo es la presentación final. Ambas son presentaciones presenciales en la UDEM.
+
+**Presentación de medio término.**
+
+La presentación de medio término es una oportunidad para que el equipo presente los avances de su trabajo a dos sinodales y a mí. Esta presentación la programo de acuerdo con la disponibilidad de los sinodales antes de reportar calificaciones del segundo parcial. Esto significa que la presentación de medio término determina su calificación del segundo parcial y es una evaluación conjunta entre sinodales y yo. Tan pronto confirme su disponibilidad, anuncio la fecha al equipo.
+
+Separo una sala por una hora. El equipo hace una presentación de 20 a 25 minutos y el resto del tiempo se utiliza para preguntas, comentarios y retroalimentación por parte de los sinodales. El equipo debe registrar las inquietudes y recomendaciones con el objetivo de considerarlas e implementarlas en el proyecto. En esta presentación no tenemos un criterio de vestimenta, con lo cual el equipo puede acudir con vestimenta casual.
+
+Procuro que los sinodales no tengan antecedentes del proyecto. El objetivo es evaluar qué tan bien puede el equipo comunicar su trabajo a sinodales que no conocen el tema de antemano. Sugiero que el equipo lleve un par de tabletas con la presentación cargada, de tal forma que los sinodales puedan seguir la exposición con mayor facilidad.
+
+Al inicio de la presentación agradezco la presencia de los sinodales y les indico que pueden interrumpir la presentación en cualquier momento para hacer preguntas o solicitar aclaraciones. Al final, les doy nuevamente la palabra para que compartan comentarios finales, conclusiones o recomendaciones sobre el estado del proyecto.
+
+En términos prácticos, el proyecto debe estar en una etapa avanzada al momento de la presentación de medio término. Esto implica avances significativos durante el primer y segundo parcial. Los avances se reflejan tanto en el documento final como en la presentación de medio término. Este evento es crítico porque los sinodales crean expectativas sobre la entrega final a partir de lo que observan en medio término. Por esta razón, tendremos ensayos previos. El equipo tiene la obligación de agendar al menos un ensayo previo a la presentación de medio término y al menos un ensayo previo a la presentación final.
+
+**Entre medio término y la presentación final.**
+
+El periodo entre el final de la presentación de medio término y la presentación final se dedica a incorporar la retroalimentación y comentarios de los sinodales, además de los requerimientos propios del proyecto. La idea es que en la presentación final los sinodales puedan ver claramente que sus comentarios han sido escuchados y que han sido implementados.
+
+Es importante que el equipo no acuda a los sinodales para revisión de avances. Los avances del proyecto se revisan únicamente conmigo como su supervisor. La interacción del equipo con los sinodales se limita a la presentación de medio término y a la presentación final.
+
+**Entrega previa a la presentación final.**
+
+Antes de la presentación final, el equipo debe entregar el documento a biblioteca y enviarlo también a mi correo, para que yo pueda compartirlo con los sinodales una semana antes de la presentación final. Las indicaciones detalladas sobre el documento de tesis están explicadas en las primeras 9 secciones de este documento.
+
+**Presentación final.**
+
+La presentación final es el evento en el que el equipo presenta el proyecto terminado a los sinodales y a mí. La UDEM abre un periodo de dos semanas para programar las presentaciones finales, pero en mi caso las programo en la primera semana, de acuerdo con la disponibilidad de los sinodales. En cuanto tenga la fecha confirmada, haré las reservas correspondientes para que el equipo tenga un espacio disponible para el toque de campana.
+
+El evento completo dura 1.5 horas. El equipo presenta su proyecto durante 25 a 30 minutos. Inmediatamente después, tenemos una sesión de preguntas y respuestas de 20 a 25 minutos con los sinodales. Al igual que en la presentación de medio término, recomiendo que el equipo lleve un par de tabletas con la presentación cargada para los sinodales. Normalmente sugiero que la presentación dedique relativamente más tiempo a los resultados, dado que los sinodales ya tienen antecedentes sobre el proyecto por la presentación de medio término y por el documento que recibieron antes de la presentación final.
+
+Al final de la sesión de preguntas y respuestas, pedimos al equipo que salga de la sala por unos momentos para que los sinodales y yo podamos completar las actas de disertación. Esto suele tomar entre 5 y 10 minutos. Después de esto, llamo de nuevo al equipo y a las personas que los acompañan, incluyendo familiares y amigos. Una vez que estemos todos en la sala, me presento, agradezco la presencia de familiares y amigos, y agradezco también a los sinodales.
+
+En esta parte del evento tomo protesta al equipo, leo las actas de disertación y leo vox veritatis. Después, los sinodales y yo damos un mensaje a los graduados y a sus invitados, y los invitamos a que acudan al toque de campana. Con esto concluye el evento de la presentación final.
+
+Una vez que terminemos con la presentación final, me despediré del equipo. El equipo se dirige al toque de campana, y normalmente los sinodales y yo nos quedamos en la sala para atender a otro equipo.

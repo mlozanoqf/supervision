@@ -7,7 +7,7 @@ rm(list=ls())
 
 \newpage
 
-# `r fontawesome::fa("handshake")` Introduction. {.unnumbered}
+# `r fontawesome::fa("handshake")` Introduction.
 
 Welcome `r fontawesome::fa("laugh")`. If you are reading this document, it is because we have agreed or we are in the process of agreeing that I will supervise your project, thesis, or dissertation whether it is research oriented, software, or consultancy based. In short, I will simply use the word *project* from now on. I am confident that we can develop an interesting project, and I have high expectations about your overall performance either if you are an individual or a team. You should be confident that I have more than enough academic credentials, experience, and interest to help you in this process regardless of the scope, approach, and the topic of your project. You can find my full and updated academic curriculum [here](https://sites.google.com/site/mlozanoqf/). This is the Zoom link for meetings: [https://us02web.zoom.us/j/9209945512](https://us02web.zoom.us/j/9209945512). Once again, welcome.
 
@@ -23,6 +23,22 @@ Your thesis project is also an opportunity to develop or engender your current r
 
 You are not only going to develop new skills during the supervision period. Ideally, you will also have the opportunity to use your current professional skills and specialization to address the project objectives. Then, it is important to let me know who you are so we can take advantage of your unique and distinctive professional skills, interests, and abilities to develop an interesting project.
 
+## Using generative AI tools responsibly.
+
+“Stand on the shoulders of giants” is a phrase associated with Google Scholar, and it captures an important idea. We develop new products thanks to others who created improved materials. We implement better models thanks to others who developed theories that explain how the world works. In short, we innovate thanks to others’ innovations.
+
+Generative AI tools such as ChatGPT can improve the way we learn, work, and advance projects. The benefits can be large, but the risks are also real. The more powerful the tool, the more important it becomes to use it responsibly.
+
+One of the most frustrating aspects of learning is failing to understand a topic. Traditionally, students reread material, practice repeatedly, and slowly improve. Now you can upload a PDF and ask an AI assistant to explain it. You can slow the explanation down, request examples, go step by step through procedures, or ask for clarification of underlying logic.
+
+In research projects, many students struggle to implement a methodology described by others. A well guided interaction with an AI assistant can help bridge the gap between a methodology described in a paper and working code that runs correctly and produces results. In that sense, an AI assistant can support your workflow, as long as you remain the one who understands and validates the work.
+
+The central risk is uncritical acceptance. You cannot use these tools effectively unless you have a working understanding of the topic. An AI tool may generate code that produces a convincing plot or a clean looking table while being wrong in a way you do not notice. If you cannot detect that problem, you may end up relying on outputs you do not truly understand. That defeats the purpose of a dissertation, which is to develop your research judgement.
+
+For this reason, the rule is simple. You may use AI tools to support learning, drafting, coding, and debugging, but you remain responsible for correctness, interpretation, and academic integrity. You must be able to explain what the tool produced, why it is appropriate, and how you checked it. Supervision exists to guide your decisions and to reduce the risk of building a project on errors that look convincing.
+
+Used responsibly, these tools can help you learn faster and attempt more ambitious work. Used irresponsibly, they can weaken learning and reduce the quality and credibility of the dissertation.
+
 # `r fontawesome::fa("question-circle")` FAQ.
 
 Here are a few frequently asked questions that most of my students have about their projects:
@@ -31,7 +47,7 @@ Here are a few frequently asked questions that most of my students have about th
 *There are several ways to proceed in this respect. One typical way is that students declare their main interests; then I can propose several alternatives; and we can discuss until we define the most appropriate project for you. Proposing topics that you as a student do not want to do is also a valid way to define the project topic. Another way is that students pick from a list, so programme administrators can match students and supervisors.*
 
 2. **Are there any restrictions or limitations in terms of the topics you can supervise?**
-*Not really. I can supervise a wide variety of consultancy oriented or research projects in the area of business, economics, statistics, data science, finance, management, its combinations, extensions, sub-areas, and other more specific and newer topics. I have a marked preference to select a quantitative approach in the area of economics and/or finance, but in short there are virtually no restrictions in terms of the topics I can supervise.*
+*Not really. I can supervise a wide variety of consultancy oriented or research projects in the area of business, economics, statistics, data science, finance, management, its combinations, extensions, sub-areas, and other more specific and newer topics. I have a marked preference to select a quantitative approach in the area of economics and/or finance, but in short there are virtually no restrictions in terms of the topics I can supervise within a business school.*
 
 3. **Are we supposed to produce a very long and complicated computer code?**
 *Your project, and more specifically the empirical section that will lead to your original results will most likely be developed in R and/or Python given the quantitative nature of the project that I will try to pursue with you. However, I strongly believe that the project contribution is far more important than the methodology or the specific way or software to produce results. Then, you can conduct your empirical analysis using any software. Your thesis could be intense in computer programming or not. This will depend on the project itself, our preliminary discussion about the project characteristics, your ability to do computer programming, your willingness to learn computer programming, the project objectives, and scope. A project that relies on computer programming is usually more ambitious and with a more interesting contribution as it has virtually no barriers or frontiers in terms of data analysis and reaching original findings. It also helps to reach repeatability and reproducibility, which are key indicators of the quality of experiments and analyses. In short, the answer is: it depends.*
@@ -43,15 +59,15 @@ Here are a few frequently asked questions that most of my students have about th
 *Inform me regularly about your progress, and incorporate all my feedback in your progress. Read this document on a regular basis. Keep quality standards as high as possible. Remember this is your project, not mine, I am only trying to help you reach your higher standard possible. If for any reason I take too long to answer you back, please insist. *
 
 6. **Do you ask for weekly progress reports?**
-*Not really. I rather prefer to ask for reports based on tasks or tasks progress. The process is rather simple: you send me a draft, I give you comments by email and/or Zoom, you incorporate my comments, you send me a new draft, and the process start again. This is the Zoom link for meetings: https://us02web.zoom.us/j/9209945512. Depending on the programe, you may have to submit mid-term drafts or not.*
+*Not really. I rather prefer to ask for reports based on tasks or tasks progress. The process is rather simple: you send me a draft, I give you comments by email and/or Zoom, you incorporate my comments, you send me a new improved draft, and the process start again. This is the Zoom link for meetings: https://us02web.zoom.us/j/9209945512. Depending on the programe, you may have to submit mid-term drafts/presentations or not.*
 
 7. **Are we going to write our project in MS-Word?**
 *There are several alternatives to write your project. You can use MS-Word, Google Docs, Overleaf, R Markdown, or any other $\LaTeX{}$ compiler. My recommendation is to use Quarto within RStudio. In my view, Quarto is the best technology for writing a thesis due to its versatility in output formats (PDF, HTML, Word, EPUB), seamless integration of code for reproducible results, high-quality typesetting with $\LaTeX{}$ support, extensive customization options for adhering to academic standards, and facilitation of collaborative work through version control with Git. These features make Quarto a robust, flexible, and efficient tool for producing and maintaining a high-quality thesis.*
 
 8. **We are a team. Are we going to have the same individual mark?**
-*Not necessarily. I may include auto and co-evaluations to know more about your view about the team members contribution to the team work. This may influence my marking when dealing with team or group projects.*
+*Not necessarily. I may include auto and co-evaluations to know more about your view about the team members contribution to the team work. This may influence my marking when dealing with team or group projects. In case the programme rules require to submit the same mark then we will do so.*
 
 9. **How frequent are we, as a team, going to communicate with you?**
-*There might be an answer in the official student guidelines dictated by the academic programme. However, in my case you are free to contact me whenever you need. I am interested that you understand what has to be done so I can answer questions by email or have Zoom meetings to make that clear. You are expected to show that you can work independently, but this does not mean that you will be alone in the process. So, feel free to contact me.*
+*There might be an answer in the official student guidelines dictated by the academic programme. However, in my case you are free to contact me whenever you need. I am interested that you understand what has to be done so I can answer questions by email, Pumble, or have Zoom meetings to make that clear. You are expected to show that you can work independently, but this does not mean that you will be alone in the process. So, feel free to contact me.*
 
 10. **More in future versions of this document.**
