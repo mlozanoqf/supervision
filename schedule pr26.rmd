@@ -28,7 +28,7 @@ MIN, Primavera 2026. Salón 3310, Jueves 19:00 – 22:00. Zoom URL para unirse: 
 
 - Obligatorio. Acepta las normativas del trabajo en equipo para esta clase: [Formulario](https://forms.gle/gb1AaiMtQSqe6BfeA).
 - Obligatorio. Imprimir, firmar y entregar en clase las "Políticas para el Desarrollo de Proyecto de Evaluación Final (PEF)".
-- Tarea 1: Entregar documento PDF con: (1) la confirmación de miembros de equipos, tema y asesor, (2) reporte de los objetivos de su proyecto. Estos pueden ser de uno a dos objetivos generales, con dos a tres objetivos específicos por cada objetivo general. El documento no debería exceder una página. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 3. Ponderación 5% de la calificación final.
+- Tarea 1: Entregar documento PDF con: (1) la confirmación de miembros de equipos, tema y asesor, (2) reporte de los objetivos de su proyecto. Estos pueden ser de uno a dos objetivos generales, con dos a tres objetivos específicos por cada objetivo general. El documento no debería exceder una página. La entrega es por Blackboard, una entrega por equipo. La hora límite es 7:00pm de la sesión 3. Ponderación 5% de la calificación final.
 - Actividad: Retroalimentación de la tarea 1.
 - Tema: ¿Cómo presentar tu proyecto de investigación?
 - Tema: La estructura del documento de tesis: @sec-structure.
@@ -65,13 +65,13 @@ MIN, Primavera 2026. Salón 3310, Jueves 19:00 – 22:00. Zoom URL para unirse: 
 
 **Session 4. Thursday, February 5.**
 
-- Tarea 2: Entregar documento PDF con el draft de la revisión literaria. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 4. Ponderación 5% de la calificación final. El documento debe ser el mismo que el de la tarea 1, solo incluyan una nueva sección con el draft de la revisión literaria. 
+- Tarea 2: Entregar documento PDF con el draft de la revisión literaria. Una entrega por equipo. La entrega es por Blackboard, una entrega por equipo. La hora límite es 7:00pm de la sesión 4. Ponderación 5% de la calificación final, en total se acumula 10%. El documento debe ser el mismo que el de la tarea 1, solo incluyan una nueva sección con el draft de la revisión literaria. 
 - Actividad: Retroalimentación de la tarea 2.
 - Actividad: Discusión de video. [Effective data storytelling for financial services](https://www.datacamp.com/resources/webinars/effective-data-storytelling-for-financial-services).
 
 **Session 5. `r fontawesome::fa_i("heart", class = "fa-solid", style = "color: red;")` Thursday, February 12.**
 
-- Tarea 3: Entregar documento PDF con revisión literaria y metodología. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 5. Ponderación 5% de la calificación final. El documento debe ser el mismo que el de la tarea 2, solo incluyan la nueva sección y correcciones pertinentes. 
+- Tarea 3: Entregar documento PDF con revisión literaria y metodología. Una entrega por equipo. La entrega es por Blackboard, una entrega por equipo. La hora límite es 7:00pm de la sesión 5. Ponderación 5% de la calificación final, en total se acumula 15%. El documento debe ser el mismo que el de la tarea 2, solo incluyan la nueva sección y correcciones pertinentes. 
 - Actividad: Recibir retroalimentación de la tarea 3.
 - *No conozco la fecha límite, pero deben completar la encuesta avanza 180 por favor.*
 
@@ -79,7 +79,7 @@ MIN, Primavera 2026. Salón 3310, Jueves 19:00 – 22:00. Zoom URL para unirse: 
 
 **Session 6. Thursday, February 19.**
 
-- Tarea 4: Entregar documento PDF con introducción, revisión literaria y metodología. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 6. Ponderación 5% de la calificación final. El documento debe ser el mismo que el de la tarea 3, solo incluyan la nueva sección y correcciones pertinentes. 
+- Tarea 4: Entregar documento PDF con introducción, revisión literaria y metodología. Una entrega por equipo. La entrega es por Blackboard, una entrega por equipo. La hora límite es 7:00pm de la sesión 6. Ponderación 5% de la calificación final, en total se acumula 20%. El documento debe ser el mismo que el de la tarea 3, solo incluyan la nueva sección y correcciones pertinentes. 
 - Actividad: Recibir retroalimentación de la tarea 4.
 - Actividad: Completar coevaluación 1. Las coevaluaciones funcionan como en el resto de clases que imparto, pueden ver las instrucciones en el siguiente enlace [https://mlozanoqf.github.io/ARF1/#co-evaluation](https://mlozanoqf.github.io/ARF1/#co-evaluation). El enlace estará disponible en Blackboard en la sección "entregas". La hora límite es 7:00pm de la sesión 6.
 - Reporte de calificaciones primer parcial.
@@ -87,7 +87,7 @@ MIN, Primavera 2026. Salón 3310, Jueves 19:00 – 22:00. Zoom URL para unirse: 
 
 **Session 7. Thursday, February 26.**
 
-- Tarea 5: Entregar la tarea 4 con comentarios y un enlace de YouTube con un *elevator pitch*. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 7. Ponderación 10% de la calificación final. El documento debe ser el mismo que el de la tarea 4. Identifiquen claramente los cambios y mejoras que incorporaron en la primera página. El *elevator pitch* es una grabación de su presentación de máximo 2 minutos en donde todos los miembros del equipo participan para explicar su proyecto. La grabación es sin apoyos visuales. 
+- Tarea 5: Entregar la tarea 4 con comentarios y un enlace de YouTube con un *elevator pitch*. Una entrega por equipo. La entrega es por Blackboard, una entrega por equipo. La hora límite es 7:00pm de la sesión 7. Ponderación 10% de la calificación final, en total se acumula 30%. El documento debe ser el mismo que el de la tarea 4. Identifiquen claramente los cambios y mejoras que incorporaron en la primera página. El *elevator pitch* es una grabación de su presentación de máximo 2 minutos en donde todos los miembros del equipo participan para explicar su proyecto. La grabación es sin apoyos visuales. 
 - Ejemplo de un *elevator pitch*: [PhD elevator pitch presentation by Fabienne Cheung](https://youtu.be/nayGkMLM9as?si=GaJSIR20lqTKod5h)
 - Actividad: Recibir retroalimentación de la tarea 4.
 - Tema: Habilidades para presentación.
@@ -96,23 +96,23 @@ MIN, Primavera 2026. Salón 3310, Jueves 19:00 – 22:00. Zoom URL para unirse: 
 
 **Session 8. Thursday, March 5.**
 
-- Tarea 6: Presentar introducción, literatura y metodología. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. Ponderación 10% de la calificación final.
+- Tarea 6: Presentar en clase introducción, literatura y metodología. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. No hay entrega por Blackboard. Ponderación 10% de la calificación final, en total se acumula 40%.
 - Actividad: Recibir retroalimentación de la tarea 6.
 - Actividad: Revisar la rúbrica de la entrega final.
 
 **Session 9. Thursday, March 12.**
 
-- Tarea 7: Presentar anteproyecto para alumnos y/o público externo. Presentaciones con apoyos visuales en clase. Máximo 15 minutos por equipo. Presentación presencial. Ponderación 15% de la calificación final.
+- Tarea 7: Presentar en clase anteproyecto para alumnos y/o público externo. Presentaciones con apoyos visuales en clase. Máximo 15 minutos por equipo. No hay entrega por Blackboard. Ponderación 15% de la calificación final, en total se acumula 55%.
 
 **Session 10. `r fontawesome::fa_i("sun", class = "fa-solid")` Thursday, March 19.**
 
-- Tarea 8: Presentar anteproyecto con comentarios. Presentaciones con apoyos visuales en clase. Máximo 15 minutos por equipo. Presentación presencial. Ponderación 15% de la calificación final.
+- Tarea 8: Presentar en clase anteproyecto con comentarios. Presentaciones con apoyos visuales en clase. Máximo 15 minutos por equipo. Ponderación 15% de la calificación final, en total se acumula 70%.
 - Actividad: Recibir retroalimentación de la tarea 8.
 
 **Session 11. Thursday, March 26.**
 
 - No hay sesión presencial ni por Zoom.
-- Actividad: Hacer las grabaciones de las presentaciones. Aprovechen que todos tienen tiempo libre al menos de 7:00pm a 10:00pm para hacerlo. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. 
+- Actividad: Hacer las grabaciones de las presentaciones. Aprovechen que todos tienen tiempo libre al menos de 7:00pm a 10:00pm para hacerlo.
 - Actividad: Completar coevaluación 2. Las coevaluaciones funcionan como en el resto de clases que imparto, pueden ver las instrucciones en el siguiente enlace [https://mlozanoqf.github.io/ARF1/#co-evaluation](https://mlozanoqf.github.io/ARF1/#co-evaluation). El enlace estará disponible en Blackboard en la sección "entregas". La hora límite es 7:00pm de la sesión 11.
 - Reporte de calificaciones segundo parcial.
 
@@ -123,12 +123,12 @@ MIN, Primavera 2026. Salón 3310, Jueves 19:00 – 22:00. Zoom URL para unirse: 
 **Session 12. Thursday, April 9.**
 
 - No hay sesión presencial ni por Zoom.
-- Actividad: Hacer las grabaciones de las presentaciones. Aprovechen que todos tienen tiempo libre al menos de 7:00pm a 10:00pm para hacerlo. Presentaciones con apoyos visuales. Máximo 15 minutos por equipo. 
+- Actividad: Hacer las grabaciones de las presentaciones. Aprovechen que todos tienen tiempo libre al menos de 7:00pm a 10:00pm para hacerlo.
 
 **Session 13. Thursday, April 16.**
 
 - No hay sesión presencial ni por Zoom.
-- Tarea 9: Entrega de enlace de videos de YouTube. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 13. Ponderación 30% de la calificación final. El documento debe ser el mismo que el de la tarea 5, solo incluyan el enlace del video de la presentación final en YouTube y correcciones pertinentes. Incluyan los apoyos visuales usados en la presentación. 
+- Tarea 9: Entrega de enlace de videos de YouTube. Una entrega por equipo. La entrega es por Blackboard. La hora límite es 7:00pm de la sesión 13. Ponderación 30% de la calificación final, en total se acumula 100%. El documento debe ser el mismo que el de la tarea 5, solo incluyan el enlace del video de la presentación final en YouTube y correcciones pertinentes. Incluyan los apoyos visuales usados en la presentación. 
 
 **Session 14. Thursday, April 23.**
 
@@ -149,6 +149,8 @@ MIN, Primavera 2026. Salón 3310, Jueves 19:00 – 22:00. Zoom URL para unirse: 
 - No hay sesión presencial ni por Zoom.
 - Presentaciones en caso de reprobar la clase.
 - Farewell `r fontawesome::fa_i("heart", class = "fa-solid", style = "color: red;")`.
+
+◼︎ ◼︎︎ ◼︎ ◼︎ ◼◼︎ ◼︎
 
 # `r fontawesome::fa("calendar-alt")` UDEM: Calendario PEF2. 
 
